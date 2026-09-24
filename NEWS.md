@@ -6,3 +6,5 @@
 
 * Private devcontainer image (`ghcr.io/epiforesite/treescanr-dev`) with
   TreeScan 2.4.1, used by the `R-CMD-check` GitHub Action.
+
+* pkgdown website at <https://epiforesite.github.io/TreeScan/>.

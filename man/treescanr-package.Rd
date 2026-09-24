@@ -9,12 +9,31 @@
 A pipeable workflow around the 'TreeScan' command-line software:
 \code{\link[=ts_visits]{ts_visits()}} -> \code{\link[=ts_counts]{ts_counts()}} -> \code{\link[=ts_run]{ts_run()}} -> \code{\link[=ts_results]{ts_results()}}.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/EpiForeSITE/TreeScan}
+  \item \url{https://epiforesite.github.io/TreeScan/}
+  \item Report bugs at \url{https://github.com/EpiForeSITE/TreeScan/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: George G. Vega Yon \email{g.vegayon@gmail.com}
 
 Authors:
 \itemize{
   \item George G. Vega Yon \email{g.vegayon@gmail.com}
+  \item Nyall Jamieson (Author of the original epiENGAGE TreeScan pipeline)
+  \item Emily Javan
+  \item Ramona Lall (Count file and signal linelist code (NYC Health Department))
+  \item Alison Levin-Rector (Count file code, tree and not-evaluated node files (NYC Health Department))
+}
+
+Other contributors:
+\itemize{
+  \item Becky Wilson [contributor]
+  \item Martin Kulldorff (Copyright holder of the TreeScan(TM) software, which is not distributed with this package) [copyright holder]
 }
 
 }

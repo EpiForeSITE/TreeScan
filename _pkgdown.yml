@@ -1,0 +1,25 @@
+url: https://epiforesite.github.io/TreeScan/
+
+template:
+  bootstrap: 5
+
+reference:
+  - title: Pipeline
+    desc: Visit data to TreeScan results, one `|>` step at a time.
+    contents:
+      - ts_visits
+      - ts_counts
+      - ts_run
+      - ts_results
+  - title: Parameter files and binary
+    contents:
+      - ts_prm
+      - ts_binary
+  - title: Package
+    contents:
+      - treescanr-package
+
+navbar:
+  structure:
+    left: [intro, reference, articles, news]
+    right: [search, github]

@@ -1,13 +1,26 @@
 Package: treescanr
 Title: Tree-Based Scan Statistics for Syndromic Surveillance with 'TreeScan'
 Version: 0.0.1
-Authors@R: 
-    person("George G.", "Vega Yon", , "g.vegayon@gmail.com", role = c("aut", "cre"))
+Authors@R: c(
+    person("George G.", "Vega Yon", , "g.vegayon@gmail.com", role = c("aut", "cre")),
+    person("Nyall", "Jamieson", role = "aut",
+      comment = "Author of the original epiENGAGE TreeScan pipeline"),
+    person("Emily", "Javan", role = "aut"),
+    person("Ramona", "Lall", role = "aut",
+      comment = "Count file and signal linelist code (NYC Health Department)"),
+    person("Alison", "Levin-Rector", role = "aut",
+      comment = "Count file code, tree and not-evaluated node files (NYC Health Department)"),
+    person("Becky", "Wilson", role = "ctb"),
+    person("Martin", "Kulldorff", role = "cph",
+      comment = "Copyright holder of the TreeScan(TM) software, which is not distributed with this package")
+    )
 Description: A lightweight pipeline to prepare emergency department visit data,
     build incident-diagnosis count files, write parameter files, and run the
     'TreeScan' command-line software on ICD-10-CM trees. Ported from the
     epiENGAGE TreeScan implementation scripts.
 License: MIT + file LICENSE
+URL: https://github.com/EpiForeSITE/TreeScan, https://epiforesite.github.io/TreeScan/
+BugReports: https://github.com/EpiForeSITE/TreeScan/issues
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Depends: R (>= 4.1.0)
@@ -21,3 +34,4 @@ VignetteBuilder: quarto
 SystemRequirements: TreeScan (>= 2.4.1) command-line binary
     (https://www.treescan.org), Quarto (for vignettes)
 Config/roxygen2/version: 8.0.0
+Config/Needs/website: pkgdown
