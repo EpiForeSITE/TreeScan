@@ -1,0 +1,43 @@
+# R CMD check inside the private dev image, which includes TreeScan(TM) so the
+# full pipeline test (ts_run) is exercised. Pull requests from forks cannot
+# pull the private image.
+name: R-CMD-check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: read
+
+jobs:
+  R-CMD-check:
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/epiforesite/treescanr-dev:latest
+      credentials:
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build
+        run: R CMD build .
+
+      - name: Check
+        env:
+          _R_CHECK_CRAN_INCOMING_: false
+        run: R CMD check --no-manual --as-cran treescanr_*.tar.gz
+
+      - name: Show test output
+        if: always()
+        run: find treescanr.Rcheck -name '*.Rout*' -exec cat {} \;
+
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: R-CMD-check-results
+          path: treescanr.Rcheck

@@ -1,0 +1,34 @@
+# Development / CI image for treescanr: rocker devcontainer + Quarto + TreeScan.
+#
+# TreeScan(TM) cannot be downloaded without an account, so the binary is NOT
+# in the repository. Build with .devcontainer/build.sh, which copies the Linux
+# tarball (treescan.X.Y.Z.tar.gz, from https://www.treescan.org) into the
+# build context. The resulting image must stay PRIVATE: users of TreeScan(TM)
+# must read and agree to its license (/opt/treescan/documents/eula).
+FROM ghcr.io/rocker-org/devcontainer/r-ver:4.6
+
+LABEL org.opencontainers.image.source="https://github.com/EpiForeSITE/TreeScan" \
+      org.opencontainers.image.description="treescanr development image (includes TreeScan(TM), private)"
+
+# Architecture-specific variable (the TreeScan Linux binary is amd64 only)
+ARG TARGETARCH
+
+# Install quarto-cli
+RUN wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.9.35/quarto-1.9.35-linux-${TARGETARCH}.deb && \
+    dpkg -i quarto-1.9.35-linux-${TARGETARCH}.deb && \
+    rm quarto-1.9.35-linux-${TARGETARCH}.deb
+
+# Adding R packages
+RUN install2.r --error data.table tinytest roxygen2 quarto knitr rmarkdown
+
+# TreeScan(TM) command-line binary
+COPY treescan.tar.gz /tmp/treescan.tar.gz
+RUN mkdir -p /opt/treescan && \
+    tar xzf /tmp/treescan.tar.gz -C /opt/treescan && \
+    rm /tmp/treescan.tar.gz && \
+    chmod 0755 /opt/treescan/treescan64 && \
+    ln -s /opt/treescan/treescan64 /usr/local/bin/treescan64
+
+ENV TREESCAN_BIN=/opt/treescan/treescan64
+
+CMD ["bash"]

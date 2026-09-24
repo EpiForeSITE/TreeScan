@@ -1,0 +1,12 @@
+^treescan_project$
+^.*\.docx$
+^README\.qmd$
+^\.claude$
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.quarto$
+^data-raw$
+^README_files$
+^\.devcontainer$
+^\.github$
+^r-package-port\.md$

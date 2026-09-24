@@ -1,0 +1,7 @@
+*.Rcheck/
+treescanr_*.tar.gz
+README_files/
+.Rproj.user/
+.quarto/
+.devcontainer/*.tar.gz
+.devcontainer/*.bz2

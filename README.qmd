@@ -1,18 +1,25 @@
-
+---
+format: gfm
+---
 
 <!-- README.md is generated from README.qmd. Please edit that file -->
+
+```{r}
+#| include: false
+devtools::load_all(quiet = TRUE)
+```
 
 # treescanr
 
 **treescanr** is a lightweight R interface to
 [TreeScan](https://www.treescan.org), the tree-based scan statistic, for
-syndromic surveillance with ICD-10-CM coded emergency department visits.
-It packages the core of the epiENGAGE TreeScan implementation (see
+syndromic surveillance with ICD-10-CM coded emergency department visits. It
+packages the core of the epiENGAGE TreeScan implementation (see
 `treescan_project/` for the original scripts) as a small set of pipeable
 functions:
 
 | Function | Purpose |
-|----|----|
+|---|---|
 | `ts_visits()`, `ts_visits_nssp()` | Standardize visit-level data |
 | `ts_counts()` | Build the count file of incident diagnoses |
 | `ts_prm_template()`, `ts_prm_set()` | Build the TreeScan parameter file |
@@ -21,17 +28,16 @@ functions:
 
 ## Installation
 
-``` r
+```r
 # install.packages("remotes")
 remotes::install_github("EpiForeSITE/TreeScan")
 ```
 
 You also need the **command-line (non-graphical)** version of TreeScan
-(\>= 2.4.1), available at
-<https://www.treescan.org/download_treescan.html> (account required).
-Tell treescanr where it is:
+(>= 2.4.1), available at <https://www.treescan.org/download_treescan.html>
+(account required). Tell treescanr where it is:
 
-``` r
+```r
 options(treescanr.binary = "~/TreeScan/treescan64")  # or set TREESCAN_BIN
 ```
 
@@ -40,7 +46,7 @@ options(treescanr.binary = "~/TreeScan/treescan64")  # or set TREESCAN_BIN
 The package ships a small synthetic dataset with a cluster of viral
 gastroenteritis (A08.4) in the last days of June 2026:
 
-``` r
+```{r}
 library(treescanr)
 ex <- function(f) system.file("extdata", f, package = "treescanr")
 
@@ -51,20 +57,11 @@ counts <- read.csv(ex("toy_visits.csv")) |>
 head(counts)
 ```
 
-          code       date     n
-        <char>     <char> <int>
-    1: 0-A08.4 2026/06/22     4
-    2: 0-R11.2 2026/06/22     4
-    3: 0-A08.4 2026/06/21     3
-    4: 0-R11.2 2026/06/21     3
-    5: 0-A08.4 2026/06/25     4
-    6: 0-R11.2 2026/06/25     4
+Running TreeScan takes one more step. Since treescanr is meant for routine
+(daily or weekly) use, write the results to a **persistent location** so you
+can reload them in later sessions:
 
-Running TreeScan takes one more step. Since treescanr is meant for
-routine (daily or weekly) use, write the results to a **persistent
-location** so you can reload them in later sessions:
-
-``` r
+```r
 dir <- tools::R_user_dir("treescanr", "data")
 
 res <- counts |>
@@ -79,16 +76,15 @@ See `vignette("treescanr")` for a complete routine workflow.
 
 ## Development
 
-A [devcontainer](.devcontainer/) with R, Quarto, and TreeScan is
-available as the **private** image `ghcr.io/epiforesite/treescanr-dev`
-(developers only, since TreeScan requires accepting its license). The
-same image runs `R CMD check` in GitHub Actions, including the tests
-that call TreeScan. To rebuild it after downloading a new TreeScan Linux
-release:
+A [devcontainer](.devcontainer/) with R, Quarto, and TreeScan is available as
+the **private** image `ghcr.io/epiforesite/treescanr-dev` (developers only,
+since TreeScan requires accepting its license). The same image runs
+`R CMD check` in GitHub Actions, including the tests that call TreeScan.
+To rebuild it after downloading a new TreeScan Linux release:
 
-``` sh
+```sh
 .devcontainer/build.sh ~/Downloads/treescan.2.4.1.tar.gz
 ```
 
-Please cite TreeScan and its methodology papers when publishing results;
-see the TreeScan User Guide.
+Please cite TreeScan and its methodology papers when publishing results; see
+the TreeScan User Guide.
