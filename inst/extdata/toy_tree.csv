@@ -1,0 +1,1876 @@
+distance_between,description,child,parent,do_not_evaluate
+1,0-Cholera,0-A00,0-A00-A09,TRUE
+1,0-Cholera,0-A00,2-A00,TRUE
+1,0-Intestinal infectious diseases,0-A00-A09,0-A00-B99,TRUE
+1,0-Intestinal infectious diseases,0-A00-A09,2-A00-A09,TRUE
+1,0-Certain infectious and parasitic diseases,0-A00-B99,0-Root,TRUE
+1,0-Certain infectious and parasitic diseases,0-A00-B99,2-A00-B99,TRUE
+1,"0-Cholera due to Vibrio cholerae 01, biovar cholerae",0-A00.0,0-A00,TRUE
+1,"0-Cholera due to Vibrio cholerae 01, biovar cholerae",0-A00.0,2-A00.0,TRUE
+1,"0-Cholera due to Vibrio cholerae 01, biovar eltor",0-A00.1,0-A00,TRUE
+1,"0-Cholera due to Vibrio cholerae 01, biovar eltor",0-A00.1,2-A00.1,TRUE
+1,"0-Cholera, unspecified",0-A00.9,0-A00,TRUE
+1,"0-Cholera, unspecified",0-A00.9,2-A00.9,TRUE
+1,0-Typhoid and paratyphoid fevers,0-A01,0-A00-A09,TRUE
+1,0-Typhoid and paratyphoid fevers,0-A01,2-A01,TRUE
+1,0-Typhoid fever,0-A01.0,0-A01,TRUE
+1,0-Typhoid fever,0-A01.0,2-A01.0,TRUE
+1,"0-Typhoid fever, unspecified",0-A01.00,0-A01.0,TRUE
+1,"0-Typhoid fever, unspecified",0-A01.00,2-A01.00,TRUE
+1,0-Typhoid meningitis,0-A01.01,0-A01.0,TRUE
+1,0-Typhoid meningitis,0-A01.01,2-A01.01,TRUE
+1,0-Typhoid fever with heart involvement,0-A01.02,0-A01.0,TRUE
+1,0-Typhoid fever with heart involvement,0-A01.02,2-A01.02,TRUE
+1,0-Typhoid pneumonia,0-A01.03,0-A01.0,TRUE
+1,0-Typhoid pneumonia,0-A01.03,2-A01.03,TRUE
+1,0-Typhoid arthritis,0-A01.04,0-A01.0,TRUE
+1,0-Typhoid arthritis,0-A01.04,2-A01.04,TRUE
+1,0-Typhoid osteomyelitis,0-A01.05,0-A01.0,TRUE
+1,0-Typhoid osteomyelitis,0-A01.05,2-A01.05,TRUE
+1,0-Typhoid fever with other complications,0-A01.09,0-A01.0,TRUE
+1,0-Typhoid fever with other complications,0-A01.09,2-A01.09,TRUE
+1,0-Paratyphoid fever A,0-A01.1,0-A01,TRUE
+1,0-Paratyphoid fever A,0-A01.1,2-A01.1,TRUE
+1,0-Paratyphoid fever B,0-A01.2,0-A01,TRUE
+1,0-Paratyphoid fever B,0-A01.2,2-A01.2,TRUE
+1,0-Paratyphoid fever C,0-A01.3,0-A01,TRUE
+1,0-Paratyphoid fever C,0-A01.3,2-A01.3,TRUE
+1,"0-Paratyphoid fever, unspecified",0-A01.4,0-A01,TRUE
+1,"0-Paratyphoid fever, unspecified",0-A01.4,2-A01.4,TRUE
+1,0-Other salmonella infections,0-A02,0-A00-A09,TRUE
+1,0-Other salmonella infections,0-A02,2-A02,TRUE
+1,0-Salmonella enteritis,0-A02.0,0-A02,TRUE
+1,0-Salmonella enteritis,0-A02.0,2-A02.0,TRUE
+1,0-Salmonella sepsis,0-A02.1,0-A02,TRUE
+1,0-Salmonella sepsis,0-A02.1,2-A02.1,TRUE
+1,0-Localized salmonella infections,0-A02.2,0-A02,TRUE
+1,0-Localized salmonella infections,0-A02.2,2-A02.2,TRUE
+1,"0-Localized salmonella infection, unspecified",0-A02.20,0-A02.2,TRUE
+1,"0-Localized salmonella infection, unspecified",0-A02.20,2-A02.20,TRUE
+1,0-Salmonella meningitis,0-A02.21,0-A02.2,TRUE
+1,0-Salmonella meningitis,0-A02.21,2-A02.21,TRUE
+1,0-Salmonella pneumonia,0-A02.22,0-A02.2,TRUE
+1,0-Salmonella pneumonia,0-A02.22,2-A02.22,TRUE
+1,0-Salmonella arthritis,0-A02.23,0-A02.2,TRUE
+1,0-Salmonella arthritis,0-A02.23,2-A02.23,TRUE
+1,0-Salmonella osteomyelitis,0-A02.24,0-A02.2,TRUE
+1,0-Salmonella osteomyelitis,0-A02.24,2-A02.24,TRUE
+1,0-Salmonella pyelonephritis,0-A02.25,0-A02.2,TRUE
+1,0-Salmonella pyelonephritis,0-A02.25,2-A02.25,TRUE
+1,0-Salmonella with other localized infection,0-A02.29,0-A02.2,TRUE
+1,0-Salmonella with other localized infection,0-A02.29,2-A02.29,TRUE
+1,0-Other specified salmonella infections,0-A02.8,0-A02,TRUE
+1,0-Other specified salmonella infections,0-A02.8,2-A02.8,TRUE
+1,"0-Salmonella infection, unspecified",0-A02.9,0-A02,TRUE
+1,"0-Salmonella infection, unspecified",0-A02.9,2-A02.9,TRUE
+1,0-Shigellosis,0-A03,0-A00-A09,TRUE
+1,0-Shigellosis,0-A03,2-A03,TRUE
+1,0-Shigellosis due to Shigella dysenteriae,0-A03.0,0-A03,TRUE
+1,0-Shigellosis due to Shigella dysenteriae,0-A03.0,2-A03.0,TRUE
+1,0-Shigellosis due to Shigella flexneri,0-A03.1,0-A03,TRUE
+1,0-Shigellosis due to Shigella flexneri,0-A03.1,2-A03.1,TRUE
+1,0-Shigellosis due to Shigella boydii,0-A03.2,0-A03,TRUE
+1,0-Shigellosis due to Shigella boydii,0-A03.2,2-A03.2,TRUE
+1,0-Shigellosis due to Shigella sonnei,0-A03.3,0-A03,TRUE
+1,0-Shigellosis due to Shigella sonnei,0-A03.3,2-A03.3,TRUE
+1,0-Other shigellosis,0-A03.8,0-A03,TRUE
+1,0-Other shigellosis,0-A03.8,2-A03.8,TRUE
+1,"0-Shigellosis, unspecified",0-A03.9,0-A03,TRUE
+1,"0-Shigellosis, unspecified",0-A03.9,2-A03.9,TRUE
+1,0-Other bacterial intestinal infections,0-A04,0-A00-A09,TRUE
+1,0-Other bacterial intestinal infections,0-A04,2-A04,TRUE
+1,0-Enteropathogenic Escherichia coli infection,0-A04.0,0-A04,TRUE
+1,0-Enteropathogenic Escherichia coli infection,0-A04.0,0-Escherichia coli,TRUE
+1,0-Enteropathogenic Escherichia coli infection,0-A04.0,2-A04.0,TRUE
+1,0-Enterotoxigenic Escherichia coli infection,0-A04.1,0-A04,TRUE
+1,0-Enterotoxigenic Escherichia coli infection,0-A04.1,0-Escherichia coli,TRUE
+1,0-Enterotoxigenic Escherichia coli infection,0-A04.1,2-A04.1,TRUE
+1,0-Enteroinvasive Escherichia coli infection,0-A04.2,0-A04,TRUE
+1,0-Enteroinvasive Escherichia coli infection,0-A04.2,0-Escherichia coli,TRUE
+1,0-Enteroinvasive Escherichia coli infection,0-A04.2,2-A04.2,TRUE
+1,0-Enterohemorrhagic Escherichia coli infection,0-A04.3,0-A04,TRUE
+1,0-Enterohemorrhagic Escherichia coli infection,0-A04.3,0-Escherichia coli,TRUE
+1,0-Enterohemorrhagic Escherichia coli infection,0-A04.3,2-A04.3,TRUE
+1,0-Other intestinal Escherichia coli infections,0-A04.4,0-A04,TRUE
+1,0-Other intestinal Escherichia coli infections,0-A04.4,0-Escherichia coli,TRUE
+1,0-Other intestinal Escherichia coli infections,0-A04.4,2-A04.4,TRUE
+1,0-Campylobacter enteritis,0-A04.5,0-A04,TRUE
+1,0-Campylobacter enteritis,0-A04.5,2-A04.5,TRUE
+1,0-Enteritis due to Yersinia enterocolitica,0-A04.6,0-A04,TRUE
+1,0-Enteritis due to Yersinia enterocolitica,0-A04.6,2-A04.6,TRUE
+1,0-Enterocolitis due to Clostridium difficile,0-A04.7,0-A04,TRUE
+1,0-Enterocolitis due to Clostridium difficile,0-A04.7,2-A04.7,TRUE
+1,"0-Enterocolitis due to Clostridium difficile, recurrent",0-A04.71,0-A04.7,TRUE
+1,"0-Enterocolitis due to Clostridium difficile, recurrent",0-A04.71,2-A04.71,TRUE
+1,"0-Enterocolitis due to Clostridium difficile, not specified as recurrent",0-A04.72,0-A04.7,TRUE
+1,"0-Enterocolitis due to Clostridium difficile, not specified as recurrent",0-A04.72,2-A04.72,TRUE
+1,0-Other specified bacterial intestinal infections,0-A04.8,0-A04,TRUE
+1,0-Other specified bacterial intestinal infections,0-A04.8,2-A04.8,TRUE
+1,"0-Bacterial intestinal infection, unspecified",0-A04.9,0-A04,TRUE
+1,"0-Bacterial intestinal infection, unspecified",0-A04.9,2-A04.9,TRUE
+1,"0-Other bacterial foodborne intoxications, not elsewhere classified",0-A05,0-A00-A09,TRUE
+1,"0-Other bacterial foodborne intoxications, not elsewhere classified",0-A05,2-A05,TRUE
+1,0-Foodborne staphylococcal intoxication,0-A05.0,0-A05,TRUE
+1,0-Foodborne staphylococcal intoxication,0-A05.0,2-A05.0,TRUE
+1,0-Botulism food poisoning,0-A05.1,0-A05,TRUE
+1,0-Botulism food poisoning,0-A05.1,2-A05.1,TRUE
+1,0-Foodborne Clostridium perfringens [Clostridium welchii] intoxication,0-A05.2,0-A05,TRUE
+1,0-Foodborne Clostridium perfringens [Clostridium welchii] intoxication,0-A05.2,0-Clostridium perfringens,TRUE
+1,0-Foodborne Clostridium perfringens [Clostridium welchii] intoxication,0-A05.2,2-A05.2,TRUE
+1,0-Foodborne Vibrio parahaemolyticus intoxication,0-A05.3,0-A05,TRUE
+1,0-Foodborne Vibrio parahaemolyticus intoxication,0-A05.3,2-A05.3,TRUE
+1,0-Foodborne Bacillus cereus intoxication,0-A05.4,0-A05,TRUE
+1,0-Foodborne Bacillus cereus intoxication,0-A05.4,2-A05.4,TRUE
+1,0-Foodborne Vibrio vulnificus intoxication,0-A05.5,0-A05,TRUE
+1,0-Foodborne Vibrio vulnificus intoxication,0-A05.5,0-Vibrio vulnificus,TRUE
+1,0-Foodborne Vibrio vulnificus intoxication,0-A05.5,2-A05.5,TRUE
+1,0-Other specified bacterial foodborne intoxications,0-A05.8,0-A05,TRUE
+1,0-Other specified bacterial foodborne intoxications,0-A05.8,2-A05.8,TRUE
+1,"0-Bacterial foodborne intoxication, unspecified",0-A05.9,0-A05,TRUE
+1,"0-Bacterial foodborne intoxication, unspecified",0-A05.9,2-A05.9,TRUE
+1,0-Amebiasis,0-A06,0-A00-A09,TRUE
+1,0-Amebiasis,0-A06,2-A06,TRUE
+1,0-Acute amebic dysentery,0-A06.0,0-A06,TRUE
+1,0-Acute amebic dysentery,0-A06.0,2-A06.0,TRUE
+1,0-Chronic intestinal amebiasis,0-A06.1,0-A06,TRUE
+1,0-Chronic intestinal amebiasis,0-A06.1,2-A06.1,TRUE
+1,0-Amebic nondysenteric colitis,0-A06.2,0-A06,TRUE
+1,0-Amebic nondysenteric colitis,0-A06.2,2-A06.2,TRUE
+1,0-Ameboma of intestine,0-A06.3,0-A06,TRUE
+1,0-Ameboma of intestine,0-A06.3,2-A06.3,TRUE
+1,0-Amebic liver abscess,0-A06.4,0-A06,TRUE
+1,0-Amebic liver abscess,0-A06.4,2-A06.4,TRUE
+1,0-Amebic lung abscess,0-A06.5,0-A06,TRUE
+1,0-Amebic lung abscess,0-A06.5,2-A06.5,TRUE
+1,0-Amebic brain abscess,0-A06.6,0-A06,TRUE
+1,0-Amebic brain abscess,0-A06.6,2-A06.6,TRUE
+1,0-Cutaneous amebiasis,0-A06.7,0-A06,TRUE
+1,0-Cutaneous amebiasis,0-A06.7,2-A06.7,TRUE
+1,0-Amebic infection of other sites,0-A06.8,0-A06,TRUE
+1,0-Amebic infection of other sites,0-A06.8,2-A06.8,TRUE
+1,0-Amebic cystitis,0-A06.81,0-A06.8,TRUE
+1,0-Amebic cystitis,0-A06.81,2-A06.81,TRUE
+1,0-Other amebic genitourinary infections,0-A06.82,0-A06.8,TRUE
+1,0-Other amebic genitourinary infections,0-A06.82,2-A06.82,TRUE
+1,0-Other amebic infections,0-A06.89,0-A06.8,TRUE
+1,0-Other amebic infections,0-A06.89,2-A06.89,TRUE
+1,"0-Amebiasis, unspecified",0-A06.9,0-A06,TRUE
+1,"0-Amebiasis, unspecified",0-A06.9,2-A06.9,TRUE
+1,0-Other protozoal intestinal diseases,0-A07,0-A00-A09,TRUE
+1,0-Other protozoal intestinal diseases,0-A07,2-A07,TRUE
+1,0-Balantidiasis,0-A07.0,0-A07,TRUE
+1,0-Balantidiasis,0-A07.0,2-A07.0,TRUE
+1,0-Giardiasis [lambliasis],0-A07.1,0-A07,TRUE
+1,0-Giardiasis [lambliasis],0-A07.1,2-A07.1,TRUE
+1,0-Cryptosporidiosis,0-A07.2,0-A07,TRUE
+1,0-Cryptosporidiosis,0-A07.2,2-A07.2,TRUE
+1,0-Isosporiasis,0-A07.3,0-A07,TRUE
+1,0-Isosporiasis,0-A07.3,2-A07.3,TRUE
+1,0-Cyclosporiasis,0-A07.4,0-A07,TRUE
+1,0-Cyclosporiasis,0-A07.4,2-A07.4,TRUE
+1,0-Other specified protozoal intestinal diseases,0-A07.8,0-A07,TRUE
+1,0-Other specified protozoal intestinal diseases,0-A07.8,2-A07.8,TRUE
+1,"0-Protozoal intestinal disease, unspecified",0-A07.9,0-A07,TRUE
+1,"0-Protozoal intestinal disease, unspecified",0-A07.9,2-A07.9,TRUE
+1,0-Viral and other specified intestinal infections,0-A08,0-A00-A09,TRUE
+1,0-Viral and other specified intestinal infections,0-A08,2-A08,TRUE
+1,0-Rotaviral enteritis,0-A08.0,0-A08,TRUE
+1,0-Rotaviral enteritis,0-A08.0,2-A08.0,TRUE
+1,0-Acute gastroenteropathy due to Norwalk agent and other small round viruses,0-A08.1,0-A08,TRUE
+1,0-Acute gastroenteropathy due to Norwalk agent and other small round viruses,0-A08.1,2-A08.1,TRUE
+1,0-Acute gastroenteropathy due to Norwalk agent,0-A08.11,0-A08.1,TRUE
+1,0-Acute gastroenteropathy due to Norwalk agent,0-A08.11,2-A08.11,TRUE
+1,0-Acute gastroenteropathy due to other small round viruses,0-A08.19,0-A08.1,TRUE
+1,0-Acute gastroenteropathy due to other small round viruses,0-A08.19,2-A08.19,TRUE
+1,0-Adenoviral enteritis,0-A08.2,0-A08,TRUE
+1,0-Adenoviral enteritis,0-A08.2,2-A08.2,TRUE
+1,0-Other viral enteritis,0-A08.3,0-A08,TRUE
+1,0-Other viral enteritis,0-A08.3,2-A08.3,TRUE
+1,0-Calicivirus enteritis,0-A08.31,0-A08.3,TRUE
+1,0-Calicivirus enteritis,0-A08.31,2-A08.31,TRUE
+1,0-Astrovirus enteritis,0-A08.32,0-A08.3,TRUE
+1,0-Astrovirus enteritis,0-A08.32,2-A08.32,TRUE
+1,0-Other viral enteritis,0-A08.39,0-A08.3,TRUE
+1,0-Other viral enteritis,0-A08.39,2-A08.39,TRUE
+1,"0-Viral intestinal infection, unspecified",0-A08.4,0-A08,TRUE
+1,"0-Viral intestinal infection, unspecified",0-A08.4,2-A08.4,TRUE
+1,0-Other specified intestinal infections,0-A08.8,0-A08,TRUE
+1,0-Other specified intestinal infections,0-A08.8,2-A08.8,TRUE
+1,"0-Infectious gastroenteritis and colitis, unspecified",0-A09,0-A00-A09,TRUE
+1,"0-Infectious gastroenteritis and colitis, unspecified",0-A09,2-A09,TRUE
+1,,0-Clostridium perfringens,0-dummy2,TRUE
+1,,0-Clostridium perfringens,2-Clostridium perfringens,TRUE
+1,,0-Escherichia coli,0-dummy2,TRUE
+1,,0-Escherichia coli,2-Escherichia coli,TRUE
+1,0-Acute nasopharyngitis [common cold],0-J00,0-J00-J06,TRUE
+1,0-Acute nasopharyngitis [common cold],0-J00,2-J00,TRUE
+1,0-Acute upper respiratory infections,0-J00-J06,0-J00-J99,TRUE
+1,0-Acute upper respiratory infections,0-J00-J06,2-J00-J06,TRUE
+1,0-Diseases of the respiratory system,0-J00-J99,0-Root,TRUE
+1,0-Diseases of the respiratory system,0-J00-J99,2-J00-J99,TRUE
+1,0-Acute sinusitis,0-J01,0-J00-J06,TRUE
+1,0-Acute sinusitis,0-J01,2-J01,TRUE
+1,0-Acute maxillary sinusitis,0-J01.0,0-J01,TRUE
+1,0-Acute maxillary sinusitis,0-J01.0,2-J01.0,TRUE
+1,"0-Acute maxillary sinusitis, unspecified",0-J01.00,0-J01.0,TRUE
+1,"0-Acute maxillary sinusitis, unspecified",0-J01.00,2-J01.00,TRUE
+1,0-Acute recurrent maxillary sinusitis,0-J01.01,0-J01.0,TRUE
+1,0-Acute recurrent maxillary sinusitis,0-J01.01,2-J01.01,TRUE
+1,0-Acute frontal sinusitis,0-J01.1,0-J01,TRUE
+1,0-Acute frontal sinusitis,0-J01.1,2-J01.1,TRUE
+1,"0-Acute frontal sinusitis, unspecified",0-J01.10,0-J01.1,TRUE
+1,"0-Acute frontal sinusitis, unspecified",0-J01.10,2-J01.10,TRUE
+1,0-Acute recurrent frontal sinusitis,0-J01.11,0-J01.1,TRUE
+1,0-Acute recurrent frontal sinusitis,0-J01.11,2-J01.11,TRUE
+1,0-Acute ethmoidal sinusitis,0-J01.2,0-J01,TRUE
+1,0-Acute ethmoidal sinusitis,0-J01.2,2-J01.2,TRUE
+1,"0-Acute ethmoidal sinusitis, unspecified",0-J01.20,0-J01.2,TRUE
+1,"0-Acute ethmoidal sinusitis, unspecified",0-J01.20,2-J01.20,TRUE
+1,0-Acute recurrent ethmoidal sinusitis,0-J01.21,0-J01.2,TRUE
+1,0-Acute recurrent ethmoidal sinusitis,0-J01.21,2-J01.21,TRUE
+1,0-Acute sphenoidal sinusitis,0-J01.3,0-J01,TRUE
+1,0-Acute sphenoidal sinusitis,0-J01.3,2-J01.3,TRUE
+1,"0-Acute sphenoidal sinusitis, unspecified",0-J01.30,0-J01.3,TRUE
+1,"0-Acute sphenoidal sinusitis, unspecified",0-J01.30,2-J01.30,TRUE
+1,0-Acute recurrent sphenoidal sinusitis,0-J01.31,0-J01.3,TRUE
+1,0-Acute recurrent sphenoidal sinusitis,0-J01.31,2-J01.31,TRUE
+1,0-Acute pansinusitis,0-J01.4,0-J01,TRUE
+1,0-Acute pansinusitis,0-J01.4,2-J01.4,TRUE
+1,"0-Acute pansinusitis, unspecified",0-J01.40,0-J01.4,TRUE
+1,"0-Acute pansinusitis, unspecified",0-J01.40,2-J01.40,TRUE
+1,0-Acute recurrent pansinusitis,0-J01.41,0-J01.4,TRUE
+1,0-Acute recurrent pansinusitis,0-J01.41,2-J01.41,TRUE
+1,0-Other acute sinusitis,0-J01.8,0-J01,TRUE
+1,0-Other acute sinusitis,0-J01.8,2-J01.8,TRUE
+1,0-Other acute sinusitis,0-J01.80,0-J01.8,TRUE
+1,0-Other acute sinusitis,0-J01.80,2-J01.80,TRUE
+1,0-Other acute recurrent sinusitis,0-J01.81,0-J01.8,TRUE
+1,0-Other acute recurrent sinusitis,0-J01.81,2-J01.81,TRUE
+1,"0-Acute sinusitis, unspecified",0-J01.9,0-J01,TRUE
+1,"0-Acute sinusitis, unspecified",0-J01.9,2-J01.9,TRUE
+1,"0-Acute sinusitis, unspecified",0-J01.90,0-J01.9,TRUE
+1,"0-Acute sinusitis, unspecified",0-J01.90,2-J01.90,TRUE
+1,"0-Acute recurrent sinusitis, unspecified",0-J01.91,0-J01.9,TRUE
+1,"0-Acute recurrent sinusitis, unspecified",0-J01.91,2-J01.91,TRUE
+1,0-Acute pharyngitis,0-J02,0-J00-J06,TRUE
+1,0-Acute pharyngitis,0-J02,2-J02,TRUE
+1,0-Streptococcal pharyngitis,0-J02.0,0-J02,TRUE
+1,0-Streptococcal pharyngitis,0-J02.0,0-Other streptococcus,TRUE
+1,0-Streptococcal pharyngitis,0-J02.0,2-J02.0,TRUE
+1,0-Acute pharyngitis due to other specified organisms,0-J02.8,0-J02,TRUE
+1,0-Acute pharyngitis due to other specified organisms,0-J02.8,2-J02.8,TRUE
+1,"0-Acute pharyngitis, unspecified",0-J02.9,0-J02,TRUE
+1,"0-Acute pharyngitis, unspecified",0-J02.9,2-J02.9,TRUE
+1,0-Acute tonsillitis,0-J03,0-J00-J06,TRUE
+1,0-Acute tonsillitis,0-J03,2-J03,TRUE
+1,0-Streptococcal tonsillitis,0-J03.0,0-J03,TRUE
+1,0-Streptococcal tonsillitis,0-J03.0,0-Other streptococcus,TRUE
+1,0-Streptococcal tonsillitis,0-J03.0,2-J03.0,TRUE
+1,"0-Acute streptococcal tonsillitis, unspecified",0-J03.00,0-J03.0,TRUE
+1,"0-Acute streptococcal tonsillitis, unspecified",0-J03.00,2-J03.00,TRUE
+1,0-Acute recurrent streptococcal tonsillitis,0-J03.01,0-J03.0,TRUE
+1,0-Acute recurrent streptococcal tonsillitis,0-J03.01,2-J03.01,TRUE
+1,0-Acute tonsillitis due to other specified organisms,0-J03.8,0-J03,TRUE
+1,0-Acute tonsillitis due to other specified organisms,0-J03.8,2-J03.8,TRUE
+1,0-Acute tonsillitis due to other specified organisms,0-J03.80,0-J03.8,TRUE
+1,0-Acute tonsillitis due to other specified organisms,0-J03.80,2-J03.80,TRUE
+1,0-Acute recurrent tonsillitis due to other specified organisms,0-J03.81,0-J03.8,TRUE
+1,0-Acute recurrent tonsillitis due to other specified organisms,0-J03.81,2-J03.81,TRUE
+1,"0-Acute tonsillitis, unspecified",0-J03.9,0-J03,TRUE
+1,"0-Acute tonsillitis, unspecified",0-J03.9,2-J03.9,TRUE
+1,"0-Acute tonsillitis, unspecified",0-J03.90,0-J03.9,TRUE
+1,"0-Acute tonsillitis, unspecified",0-J03.90,2-J03.90,TRUE
+1,"0-Acute recurrent tonsillitis, unspecified",0-J03.91,0-J03.9,TRUE
+1,"0-Acute recurrent tonsillitis, unspecified",0-J03.91,2-J03.91,TRUE
+1,0-Acute laryngitis and tracheitis,0-J04,0-J00-J06,TRUE
+1,0-Acute laryngitis and tracheitis,0-J04,2-J04,TRUE
+1,0-Acute laryngitis,0-J04.0,0-J04,TRUE
+1,0-Acute laryngitis,0-J04.0,2-J04.0,TRUE
+1,0-Acute tracheitis,0-J04.1,0-J04,TRUE
+1,0-Acute tracheitis,0-J04.1,2-J04.1,TRUE
+1,0-Acute tracheitis without obstruction,0-J04.10,0-J04.1,TRUE
+1,0-Acute tracheitis without obstruction,0-J04.10,2-J04.10,TRUE
+1,0-Acute tracheitis with obstruction,0-J04.11,0-J04.1,TRUE
+1,0-Acute tracheitis with obstruction,0-J04.11,2-J04.11,TRUE
+1,0-Acute laryngotracheitis,0-J04.2,0-J04,TRUE
+1,0-Acute laryngotracheitis,0-J04.2,2-J04.2,TRUE
+1,"0-Supraglottitis, unspecified",0-J04.3,0-J04,TRUE
+1,"0-Supraglottitis, unspecified",0-J04.3,2-J04.3,TRUE
+1,"0-Supraglottitis, unspecified, without obstruction",0-J04.30,0-J04.3,TRUE
+1,"0-Supraglottitis, unspecified, without obstruction",0-J04.30,2-J04.30,TRUE
+1,"0-Supraglottitis, unspecified, with obstruction",0-J04.31,0-J04.3,TRUE
+1,"0-Supraglottitis, unspecified, with obstruction",0-J04.31,2-J04.31,TRUE
+1,0-Acute obstructive laryngitis [croup] and epiglottitis,0-J05,0-J00-J06,TRUE
+1,0-Acute obstructive laryngitis [croup] and epiglottitis,0-J05,2-J05,TRUE
+1,0-Acute obstructive laryngitis [croup],0-J05.0,0-J05,TRUE
+1,0-Acute obstructive laryngitis [croup],0-J05.0,2-J05.0,TRUE
+1,0-Acute epiglottitis,0-J05.1,0-J05,TRUE
+1,0-Acute epiglottitis,0-J05.1,2-J05.1,TRUE
+1,0-Acute epiglottitis without obstruction,0-J05.10,0-J05.1,TRUE
+1,0-Acute epiglottitis without obstruction,0-J05.10,2-J05.10,TRUE
+1,0-Acute epiglottitis with obstruction,0-J05.11,0-J05.1,TRUE
+1,0-Acute epiglottitis with obstruction,0-J05.11,2-J05.11,TRUE
+1,0-Acute upper respiratory infections of multiple and unspecified sites,0-J06,0-J00-J06,TRUE
+1,0-Acute upper respiratory infections of multiple and unspecified sites,0-J06,2-J06,TRUE
+1,0-Acute laryngopharyngitis,0-J06.0,0-J06,TRUE
+1,0-Acute laryngopharyngitis,0-J06.0,2-J06.0,TRUE
+1,"0-Acute upper respiratory infection, unspecified",0-J06.9,0-J06,TRUE
+1,"0-Acute upper respiratory infection, unspecified",0-J06.9,2-J06.9,TRUE
+1,,0-Other streptococcus,0-dummy2,TRUE
+1,,0-Other streptococcus,2-Other streptococcus,TRUE
+1,"0-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",0-R00-R99,0-Root,TRUE
+1,"0-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",0-R00-R99,2-R00-R99,TRUE
+1,0-Abdominal and pelvic pain,0-R10,0-R10-R19,TRUE
+1,0-Abdominal and pelvic pain,0-R10,2-R10,TRUE
+1,0-Symptoms and signs involving the digestive system and abdomen,0-R10-R19,0-R00-R99,TRUE
+1,0-Symptoms and signs involving the digestive system and abdomen,0-R10-R19,2-R10-R19,TRUE
+1,0-Acute abdomen,0-R10.0,0-R10,TRUE
+1,0-Acute abdomen,0-R10.0,2-R10.0,TRUE
+1,0-Pain localized to upper abdomen,0-R10.1,0-R10,TRUE
+1,0-Pain localized to upper abdomen,0-R10.1,2-R10.1,TRUE
+1,"0-Upper abdominal pain, unspecified",0-R10.10,0-R10.1,TRUE
+1,"0-Upper abdominal pain, unspecified",0-R10.10,2-R10.10,TRUE
+1,0-Right upper quadrant pain,0-R10.11,0-R10.1,TRUE
+1,0-Right upper quadrant pain,0-R10.11,2-R10.11,TRUE
+1,0-Left upper quadrant pain,0-R10.12,0-R10.1,TRUE
+1,0-Left upper quadrant pain,0-R10.12,2-R10.12,TRUE
+1,0-Epigastric pain,0-R10.13,0-R10.1,TRUE
+1,0-Epigastric pain,0-R10.13,2-R10.13,TRUE
+1,0-Pelvic and perineal pain,0-R10.2,0-R10,TRUE
+1,0-Pelvic and perineal pain,0-R10.2,2-R10.2,TRUE
+1,0-Pelvic and perineal pain unspecified side,0-R10.20,0-R10.2,TRUE
+1,0-Pelvic and perineal pain unspecified side,0-R10.20,2-R10.20,TRUE
+1,0-Pelvic and perineal pain right side,0-R10.21,0-R10.2,TRUE
+1,0-Pelvic and perineal pain right side,0-R10.21,2-R10.21,TRUE
+1,0-Pelvic and perineal pain left side,0-R10.22,0-R10.2,TRUE
+1,0-Pelvic and perineal pain left side,0-R10.22,2-R10.22,TRUE
+1,0-Pelvic and perineal pain bilateral,0-R10.23,0-R10.2,TRUE
+1,0-Pelvic and perineal pain bilateral,0-R10.23,2-R10.23,TRUE
+1,0-Suprapubic pain,0-R10.24,0-R10.2,TRUE
+1,0-Suprapubic pain,0-R10.24,2-R10.24,TRUE
+1,0-Pain localized to other parts of lower abdomen,0-R10.3,0-R10,TRUE
+1,0-Pain localized to other parts of lower abdomen,0-R10.3,2-R10.3,TRUE
+1,"0-Lower abdominal pain, unspecified",0-R10.30,0-R10.3,TRUE
+1,"0-Lower abdominal pain, unspecified",0-R10.30,2-R10.30,TRUE
+1,0-Right lower quadrant pain,0-R10.31,0-R10.3,TRUE
+1,0-Right lower quadrant pain,0-R10.31,2-R10.31,TRUE
+1,0-Left lower quadrant pain,0-R10.32,0-R10.3,TRUE
+1,0-Left lower quadrant pain,0-R10.32,2-R10.32,TRUE
+1,0-Periumbilical pain,0-R10.33,0-R10.3,TRUE
+1,0-Periumbilical pain,0-R10.33,2-R10.33,TRUE
+1,0-Other abdominal pain,0-R10.8,0-R10,TRUE
+1,0-Other abdominal pain,0-R10.8,2-R10.8,TRUE
+1,0-Abdominal tenderness,0-R10.81,0-R10.8,TRUE
+1,0-Abdominal tenderness,0-R10.81,2-R10.81,TRUE
+1,0-Right upper quadrant abdominal tenderness,0-R10.811,0-R10.81,TRUE
+1,0-Right upper quadrant abdominal tenderness,0-R10.811,2-R10.811,TRUE
+1,0-Left upper quadrant abdominal tenderness,0-R10.812,0-R10.81,TRUE
+1,0-Left upper quadrant abdominal tenderness,0-R10.812,2-R10.812,TRUE
+1,0-Right lower quadrant abdominal tenderness,0-R10.813,0-R10.81,TRUE
+1,0-Right lower quadrant abdominal tenderness,0-R10.813,2-R10.813,TRUE
+1,0-Left lower quadrant abdominal tenderness,0-R10.814,0-R10.81,TRUE
+1,0-Left lower quadrant abdominal tenderness,0-R10.814,2-R10.814,TRUE
+1,0-Periumbilic abdominal tenderness,0-R10.815,0-R10.81,TRUE
+1,0-Periumbilic abdominal tenderness,0-R10.815,2-R10.815,TRUE
+1,0-Epigastric abdominal tenderness,0-R10.816,0-R10.81,TRUE
+1,0-Epigastric abdominal tenderness,0-R10.816,2-R10.816,TRUE
+1,0-Generalized abdominal tenderness,0-R10.817,0-R10.81,TRUE
+1,0-Generalized abdominal tenderness,0-R10.817,2-R10.817,TRUE
+1,"0-Abdominal tenderness, unspecified site",0-R10.819,0-R10.81,TRUE
+1,"0-Abdominal tenderness, unspecified site",0-R10.819,2-R10.819,TRUE
+1,0-Rebound abdominal tenderness,0-R10.82,0-R10.8,TRUE
+1,0-Rebound abdominal tenderness,0-R10.82,2-R10.82,TRUE
+1,0-Right upper quadrant rebound abdominal tenderness,0-R10.821,0-R10.82,TRUE
+1,0-Right upper quadrant rebound abdominal tenderness,0-R10.821,2-R10.821,TRUE
+1,0-Left upper quadrant rebound abdominal tenderness,0-R10.822,0-R10.82,TRUE
+1,0-Left upper quadrant rebound abdominal tenderness,0-R10.822,2-R10.822,TRUE
+1,0-Right lower quadrant rebound abdominal tenderness,0-R10.823,0-R10.82,TRUE
+1,0-Right lower quadrant rebound abdominal tenderness,0-R10.823,2-R10.823,TRUE
+1,0-Left lower quadrant rebound abdominal tenderness,0-R10.824,0-R10.82,TRUE
+1,0-Left lower quadrant rebound abdominal tenderness,0-R10.824,2-R10.824,TRUE
+1,0-Periumbilic rebound abdominal tenderness,0-R10.825,0-R10.82,TRUE
+1,0-Periumbilic rebound abdominal tenderness,0-R10.825,2-R10.825,TRUE
+1,0-Epigastric rebound abdominal tenderness,0-R10.826,0-R10.82,TRUE
+1,0-Epigastric rebound abdominal tenderness,0-R10.826,2-R10.826,TRUE
+1,0-Generalized rebound abdominal tenderness,0-R10.827,0-R10.82,TRUE
+1,0-Generalized rebound abdominal tenderness,0-R10.827,2-R10.827,TRUE
+1,"0-Rebound abdominal tenderness, unspecified site",0-R10.829,0-R10.82,TRUE
+1,"0-Rebound abdominal tenderness, unspecified site",0-R10.829,2-R10.829,TRUE
+1,0-Colic,0-R10.83,0-R10.8,TRUE
+1,0-Colic,0-R10.83,2-R10.83,TRUE
+1,0-Generalized abdominal pain,0-R10.84,0-R10.8,TRUE
+1,0-Generalized abdominal pain,0-R10.84,2-R10.84,TRUE
+1,0-Abdominal pain of multiple sites,0-R10.85,0-R10.8,TRUE
+1,0-Abdominal pain of multiple sites,0-R10.85,2-R10.85,TRUE
+1,0-Flank tenderness,0-R10.8A,0-R10.8,TRUE
+1,0-Flank tenderness,0-R10.8A,2-R10.8A,TRUE
+1,0-Right flank tenderness,0-R10.8A1,0-R10.8A,TRUE
+1,0-Right flank tenderness,0-R10.8A1,2-R10.8A1,TRUE
+1,0-Left flank tenderness,0-R10.8A2,0-R10.8A,TRUE
+1,0-Left flank tenderness,0-R10.8A2,2-R10.8A2,TRUE
+1,0-Suprapubic tenderness,0-R10.8A3,0-R10.8A,TRUE
+1,0-Suprapubic tenderness,0-R10.8A3,2-R10.8A3,TRUE
+1,"0-Flank tenderness, unspecified",0-R10.8A9,0-R10.8A,TRUE
+1,"0-Flank tenderness, unspecified",0-R10.8A9,2-R10.8A9,TRUE
+1,0-Unspecified abdominal pain,0-R10.9,0-R10,TRUE
+1,0-Unspecified abdominal pain,0-R10.9,2-R10.9,TRUE
+1,0-Pain localized to flank,0-R10.A,0-R10,TRUE
+1,0-Pain localized to flank,0-R10.A,2-R10.A,TRUE
+1,"0-Flank pain, unspecified side",0-R10.A0,0-R10.A,TRUE
+1,"0-Flank pain, unspecified side",0-R10.A0,2-R10.A0,TRUE
+1,"0-Flank pain, right side",0-R10.A1,0-R10.A,TRUE
+1,"0-Flank pain, right side",0-R10.A1,2-R10.A1,TRUE
+1,"0-Flank pain, left side",0-R10.A2,0-R10.A,TRUE
+1,"0-Flank pain, left side",0-R10.A2,2-R10.A2,TRUE
+1,"0-Flank pain, bilateral",0-R10.A3,0-R10.A,TRUE
+1,"0-Flank pain, bilateral",0-R10.A3,2-R10.A3,TRUE
+1,0-Nausea and vomiting,0-R11,0-R10-R19,TRUE
+1,0-Nausea and vomiting,0-R11,2-R11,TRUE
+1,0-Nausea,0-R11.0,0-R11,TRUE
+1,0-Nausea,0-R11.0,2-R11.0,TRUE
+1,0-Vomiting,0-R11.1,0-R11,TRUE
+1,0-Vomiting,0-R11.1,2-R11.1,TRUE
+1,"0-Vomiting, unspecified",0-R11.10,0-R11.1,TRUE
+1,"0-Vomiting, unspecified",0-R11.10,2-R11.10,TRUE
+1,0-Vomiting without nausea,0-R11.11,0-R11.1,TRUE
+1,0-Vomiting without nausea,0-R11.11,2-R11.11,TRUE
+1,0-Projectile vomiting,0-R11.12,0-R11.1,TRUE
+1,0-Projectile vomiting,0-R11.12,2-R11.12,TRUE
+1,0-Vomiting of fecal matter,0-R11.13,0-R11.1,TRUE
+1,0-Vomiting of fecal matter,0-R11.13,2-R11.13,TRUE
+1,0-Bilious vomiting,0-R11.14,0-R11.1,TRUE
+1,0-Bilious vomiting,0-R11.14,2-R11.14,TRUE
+1,0-Cyclical vomiting syndrome unrelated to migraine,0-R11.15,0-R11.1,TRUE
+1,0-Cyclical vomiting syndrome unrelated to migraine,0-R11.15,2-R11.15,TRUE
+1,0-Cannabis hyperemesis syndrome,0-R11.16,0-R11.1,TRUE
+1,0-Cannabis hyperemesis syndrome,0-R11.16,2-R11.16,TRUE
+1,"0-Nausea with vomiting, unspecified",0-R11.2,0-R11,TRUE
+1,"0-Nausea with vomiting, unspecified",0-R11.2,2-R11.2,TRUE
+1,0-Heartburn,0-R12,0-R10-R19,TRUE
+1,0-Heartburn,0-R12,2-R12,TRUE
+1,0-Aphagia and dysphagia,0-R13,0-R10-R19,TRUE
+1,0-Aphagia and dysphagia,0-R13,2-R13,TRUE
+1,0-Aphagia,0-R13.0,0-R13,TRUE
+1,0-Aphagia,0-R13.0,2-R13.0,TRUE
+1,0-Dysphagia,0-R13.1,0-R13,TRUE
+1,0-Dysphagia,0-R13.1,2-R13.1,TRUE
+1,"0-Dysphagia, unspecified",0-R13.10,0-R13.1,TRUE
+1,"0-Dysphagia, unspecified",0-R13.10,2-R13.10,TRUE
+1,"0-Dysphagia, oral phase",0-R13.11,0-R13.1,TRUE
+1,"0-Dysphagia, oral phase",0-R13.11,2-R13.11,TRUE
+1,"0-Dysphagia, oropharyngeal phase",0-R13.12,0-R13.1,TRUE
+1,"0-Dysphagia, oropharyngeal phase",0-R13.12,2-R13.12,TRUE
+1,"0-Dysphagia, pharyngeal phase",0-R13.13,0-R13.1,TRUE
+1,"0-Dysphagia, pharyngeal phase",0-R13.13,2-R13.13,TRUE
+1,"0-Dysphagia, pharyngoesophageal phase",0-R13.14,0-R13.1,TRUE
+1,"0-Dysphagia, pharyngoesophageal phase",0-R13.14,2-R13.14,TRUE
+1,0-Other dysphagia,0-R13.19,0-R13.1,TRUE
+1,0-Other dysphagia,0-R13.19,2-R13.19,TRUE
+1,0-Flatulence and related conditions,0-R14,0-R10-R19,TRUE
+1,0-Flatulence and related conditions,0-R14,2-R14,TRUE
+1,0-Abdominal distension (gaseous),0-R14.0,0-R14,TRUE
+1,0-Abdominal distension (gaseous),0-R14.0,2-R14.0,TRUE
+1,0-Gas pain,0-R14.1,0-R14,TRUE
+1,0-Gas pain,0-R14.1,2-R14.1,TRUE
+1,0-Eructation,0-R14.2,0-R14,TRUE
+1,0-Eructation,0-R14.2,2-R14.2,TRUE
+1,0-Flatulence,0-R14.3,0-R14,TRUE
+1,0-Flatulence,0-R14.3,2-R14.3,TRUE
+1,0-Fecal incontinence,0-R15,0-R10-R19,TRUE
+1,0-Fecal incontinence,0-R15,2-R15,TRUE
+1,0-Incomplete defecation,0-R15.0,0-R15,TRUE
+1,0-Incomplete defecation,0-R15.0,2-R15.0,TRUE
+1,0-Fecal smearing,0-R15.1,0-R15,TRUE
+1,0-Fecal smearing,0-R15.1,2-R15.1,TRUE
+1,0-Fecal urgency,0-R15.2,0-R15,TRUE
+1,0-Fecal urgency,0-R15.2,2-R15.2,TRUE
+1,0-Full incontinence of feces,0-R15.9,0-R15,TRUE
+1,0-Full incontinence of feces,0-R15.9,2-R15.9,TRUE
+1,"0-Hepatomegaly and splenomegaly, not elsewhere classified",0-R16,0-R10-R19,TRUE
+1,"0-Hepatomegaly and splenomegaly, not elsewhere classified",0-R16,2-R16,TRUE
+1,"0-Hepatomegaly, not elsewhere classified",0-R16.0,0-R16,TRUE
+1,"0-Hepatomegaly, not elsewhere classified",0-R16.0,2-R16.0,TRUE
+1,"0-Splenomegaly, not elsewhere classified",0-R16.1,0-R16,TRUE
+1,"0-Splenomegaly, not elsewhere classified",0-R16.1,2-R16.1,TRUE
+1,"0-Hepatomegaly with splenomegaly, not elsewhere classified",0-R16.2,0-R16,TRUE
+1,"0-Hepatomegaly with splenomegaly, not elsewhere classified",0-R16.2,2-R16.2,TRUE
+1,0-Unspecified jaundice,0-R17,0-R10-R19,TRUE
+1,0-Unspecified jaundice,0-R17,2-R17,TRUE
+1,0-Ascites,0-R18,0-R10-R19,TRUE
+1,0-Ascites,0-R18,2-R18,TRUE
+1,0-Malignant ascites,0-R18.0,0-R18,TRUE
+1,0-Malignant ascites,0-R18.0,2-R18.0,TRUE
+1,0-Other ascites,0-R18.8,0-R18,TRUE
+1,0-Other ascites,0-R18.8,2-R18.8,TRUE
+1,0-Other symptoms and signs involving the digestive system and abdomen,0-R19,0-R10-R19,TRUE
+1,0-Other symptoms and signs involving the digestive system and abdomen,0-R19,2-R19,TRUE
+1,"0-Intra-abdominal and pelvic swelling, mass and lump",0-R19.0,0-R19,TRUE
+1,"0-Intra-abdominal and pelvic swelling, mass and lump",0-R19.0,2-R19.0,TRUE
+1,"0-Intra-abdominal and pelvic swelling, mass and lump, unspecified site",0-R19.00,0-R19.0,TRUE
+1,"0-Intra-abdominal and pelvic swelling, mass and lump, unspecified site",0-R19.00,2-R19.00,TRUE
+1,"0-Right upper quadrant abdominal swelling, mass and lump",0-R19.01,0-R19.0,TRUE
+1,"0-Right upper quadrant abdominal swelling, mass and lump",0-R19.01,2-R19.01,TRUE
+1,"0-Left upper quadrant abdominal swelling, mass and lump",0-R19.02,0-R19.0,TRUE
+1,"0-Left upper quadrant abdominal swelling, mass and lump",0-R19.02,2-R19.02,TRUE
+1,"0-Right lower quadrant abdominal swelling, mass and lump",0-R19.03,0-R19.0,TRUE
+1,"0-Right lower quadrant abdominal swelling, mass and lump",0-R19.03,2-R19.03,TRUE
+1,"0-Left lower quadrant abdominal swelling, mass and lump",0-R19.04,0-R19.0,TRUE
+1,"0-Left lower quadrant abdominal swelling, mass and lump",0-R19.04,2-R19.04,TRUE
+1,"0-Periumbilic swelling, mass or lump",0-R19.05,0-R19.0,TRUE
+1,"0-Periumbilic swelling, mass or lump",0-R19.05,2-R19.05,TRUE
+1,"0-Epigastric swelling, mass or lump",0-R19.06,0-R19.0,TRUE
+1,"0-Epigastric swelling, mass or lump",0-R19.06,2-R19.06,TRUE
+1,"0-Generalized intra-abdominal and pelvic swelling, mass and lump",0-R19.07,0-R19.0,TRUE
+1,"0-Generalized intra-abdominal and pelvic swelling, mass and lump",0-R19.07,2-R19.07,TRUE
+1,"0-Other intra-abdominal and pelvic swelling, mass and lump",0-R19.09,0-R19.0,TRUE
+1,"0-Other intra-abdominal and pelvic swelling, mass and lump",0-R19.09,2-R19.09,TRUE
+1,0-Abnormal bowel sounds,0-R19.1,0-R19,TRUE
+1,0-Abnormal bowel sounds,0-R19.1,2-R19.1,TRUE
+1,0-Absent bowel sounds,0-R19.11,0-R19.1,TRUE
+1,0-Absent bowel sounds,0-R19.11,2-R19.11,TRUE
+1,0-Hyperactive bowel sounds,0-R19.12,0-R19.1,TRUE
+1,0-Hyperactive bowel sounds,0-R19.12,2-R19.12,TRUE
+1,0-Other abnormal bowel sounds,0-R19.15,0-R19.1,TRUE
+1,0-Other abnormal bowel sounds,0-R19.15,2-R19.15,TRUE
+1,0-Visible peristalsis,0-R19.2,0-R19,TRUE
+1,0-Visible peristalsis,0-R19.2,2-R19.2,TRUE
+1,0-Abdominal rigidity,0-R19.3,0-R19,TRUE
+1,0-Abdominal rigidity,0-R19.3,2-R19.3,TRUE
+1,"0-Abdominal rigidity, unspecified site",0-R19.30,0-R19.3,TRUE
+1,"0-Abdominal rigidity, unspecified site",0-R19.30,2-R19.30,TRUE
+1,0-Right upper quadrant abdominal rigidity,0-R19.31,0-R19.3,TRUE
+1,0-Right upper quadrant abdominal rigidity,0-R19.31,2-R19.31,TRUE
+1,0-Left upper quadrant abdominal rigidity,0-R19.32,0-R19.3,TRUE
+1,0-Left upper quadrant abdominal rigidity,0-R19.32,2-R19.32,TRUE
+1,0-Right lower quadrant abdominal rigidity,0-R19.33,0-R19.3,TRUE
+1,0-Right lower quadrant abdominal rigidity,0-R19.33,2-R19.33,TRUE
+1,0-Left lower quadrant abdominal rigidity,0-R19.34,0-R19.3,TRUE
+1,0-Left lower quadrant abdominal rigidity,0-R19.34,2-R19.34,TRUE
+1,0-Periumbilic abdominal rigidity,0-R19.35,0-R19.3,TRUE
+1,0-Periumbilic abdominal rigidity,0-R19.35,2-R19.35,TRUE
+1,0-Epigastric abdominal rigidity,0-R19.36,0-R19.3,TRUE
+1,0-Epigastric abdominal rigidity,0-R19.36,2-R19.36,TRUE
+1,0-Generalized abdominal rigidity,0-R19.37,0-R19.3,TRUE
+1,0-Generalized abdominal rigidity,0-R19.37,2-R19.37,TRUE
+1,0-Change in bowel habit,0-R19.4,0-R19,TRUE
+1,0-Change in bowel habit,0-R19.4,2-R19.4,TRUE
+1,0-Other fecal abnormalities,0-R19.5,0-R19,TRUE
+1,0-Other fecal abnormalities,0-R19.5,2-R19.5,TRUE
+1,0-Halitosis,0-R19.6,0-R19,TRUE
+1,0-Halitosis,0-R19.6,2-R19.6,TRUE
+1,"0-Diarrhea, unspecified",0-R19.7,0-R19,TRUE
+1,"0-Diarrhea, unspecified",0-R19.7,2-R19.7,TRUE
+1,0-Other specified symptoms and signs involving the digestive system and abdomen,0-R19.8,0-R19,TRUE
+1,0-Other specified symptoms and signs involving the digestive system and abdomen,0-R19.8,2-R19.8,TRUE
+1,0-Fever of other and unknown origin,0-R50,0-R50-R69,TRUE
+1,0-Fever of other and unknown origin,0-R50,2-R50,TRUE
+1,0-General symptoms and signs,0-R50-R69,0-R00-R99,TRUE
+1,0-General symptoms and signs,0-R50-R69,2-R50-R69,TRUE
+1,0-Drug induced fever,0-R50.2,0-R50,TRUE
+1,0-Drug induced fever,0-R50.2,2-R50.2,TRUE
+1,0-Other specified fever,0-R50.8,0-R50,TRUE
+1,0-Other specified fever,0-R50.8,2-R50.8,TRUE
+1,0-Fever presenting with conditions classified elsewhere,0-R50.81,0-R50.8,TRUE
+1,0-Fever presenting with conditions classified elsewhere,0-R50.81,2-R50.81,TRUE
+1,0-Postprocedural fever,0-R50.82,0-R50.8,TRUE
+1,0-Postprocedural fever,0-R50.82,2-R50.82,TRUE
+1,0-Postvaccination fever,0-R50.83,0-R50.8,TRUE
+1,0-Postvaccination fever,0-R50.83,2-R50.83,TRUE
+1,0-Febrile nonhemolytic transfusion reaction,0-R50.84,0-R50.8,TRUE
+1,0-Febrile nonhemolytic transfusion reaction,0-R50.84,2-R50.84,TRUE
+1,"0-Fever, unspecified",0-R50.9,0-R50,TRUE
+1,"0-Fever, unspecified",0-R50.9,2-R50.9,TRUE
+1,0-Headache,0-R51,0-R50-R69,TRUE
+1,0-Headache,0-R51,2-R51,TRUE
+1,"0-Headache with orthostatic component, not elsewhere classified",0-R51.0,0-R51,TRUE
+1,"0-Headache with orthostatic component, not elsewhere classified",0-R51.0,2-R51.0,TRUE
+1,"0-Headache, unspecified",0-R51.9,0-R51,TRUE
+1,"0-Headache, unspecified",0-R51.9,2-R51.9,TRUE
+1,"0-Pain, unspecified",0-R52,0-R50-R69,TRUE
+1,"0-Pain, unspecified",0-R52,2-R52,TRUE
+1,0-Malaise and fatigue,0-R53,0-R50-R69,TRUE
+1,0-Malaise and fatigue,0-R53,2-R53,TRUE
+1,0-Neoplastic (malignant) related fatigue,0-R53.0,0-R53,TRUE
+1,0-Neoplastic (malignant) related fatigue,0-R53.0,2-R53.0,TRUE
+1,0-Weakness,0-R53.1,0-R53,TRUE
+1,0-Weakness,0-R53.1,2-R53.1,TRUE
+1,0-Functional quadriplegia,0-R53.2,0-R53,TRUE
+1,0-Functional quadriplegia,0-R53.2,2-R53.2,TRUE
+1,0-Other malaise and fatigue,0-R53.8,0-R53,TRUE
+1,0-Other malaise and fatigue,0-R53.8,2-R53.8,TRUE
+1,0-Other malaise,0-R53.81,0-R53.8,TRUE
+1,0-Other malaise,0-R53.81,2-R53.81,TRUE
+1,"0-Chronic fatigue, unspecified",0-R53.82,0-R53.8,TRUE
+1,"0-Chronic fatigue, unspecified",0-R53.82,2-R53.82,TRUE
+1,0-Other fatigue,0-R53.83,0-R53.8,TRUE
+1,0-Other fatigue,0-R53.83,2-R53.83,TRUE
+1,0-Age-related physical debility,0-R54,0-R50-R69,TRUE
+1,0-Age-related physical debility,0-R54,2-R54,TRUE
+1,0-Syncope and collapse,0-R55,0-R50-R69,TRUE
+1,0-Syncope and collapse,0-R55,2-R55,TRUE
+1,"0-Convulsions, not elsewhere classified",0-R56,0-R50-R69,TRUE
+1,"0-Convulsions, not elsewhere classified",0-R56,2-R56,TRUE
+1,0-Febrile convulsions,0-R56.0,0-R56,TRUE
+1,0-Febrile convulsions,0-R56.0,2-R56.0,TRUE
+1,0-Simple febrile convulsions,0-R56.00,0-R56.0,TRUE
+1,0-Simple febrile convulsions,0-R56.00,2-R56.00,TRUE
+1,0-Complex febrile convulsions,0-R56.01,0-R56.0,TRUE
+1,0-Complex febrile convulsions,0-R56.01,2-R56.01,TRUE
+1,0-Post traumatic seizures,0-R56.1,0-R56,TRUE
+1,0-Post traumatic seizures,0-R56.1,2-R56.1,TRUE
+1,0-Unspecified convulsions,0-R56.9,0-R56,TRUE
+1,0-Unspecified convulsions,0-R56.9,2-R56.9,TRUE
+1,"0-Shock, not elsewhere classified",0-R57,0-R50-R69,TRUE
+1,"0-Shock, not elsewhere classified",0-R57,2-R57,TRUE
+1,0-Cardiogenic shock,0-R57.0,0-R57,TRUE
+1,0-Cardiogenic shock,0-R57.0,2-R57.0,TRUE
+1,0-Hypovolemic shock,0-R57.1,0-R57,TRUE
+1,0-Hypovolemic shock,0-R57.1,2-R57.1,TRUE
+1,0-Other shock,0-R57.8,0-R57,TRUE
+1,0-Other shock,0-R57.8,2-R57.8,TRUE
+1,"0-Shock, unspecified",0-R57.9,0-R57,TRUE
+1,"0-Shock, unspecified",0-R57.9,2-R57.9,TRUE
+1,"0-Hemorrhage, not elsewhere classified",0-R58,0-R50-R69,TRUE
+1,"0-Hemorrhage, not elsewhere classified",0-R58,2-R58,TRUE
+1,0-Enlarged lymph nodes,0-R59,0-R50-R69,TRUE
+1,0-Enlarged lymph nodes,0-R59,2-R59,TRUE
+1,0-Localized enlarged lymph nodes,0-R59.0,0-R59,TRUE
+1,0-Localized enlarged lymph nodes,0-R59.0,2-R59.0,TRUE
+1,0-Generalized enlarged lymph nodes,0-R59.1,0-R59,TRUE
+1,0-Generalized enlarged lymph nodes,0-R59.1,2-R59.1,TRUE
+1,"0-Enlarged lymph nodes, unspecified",0-R59.9,0-R59,TRUE
+1,"0-Enlarged lymph nodes, unspecified",0-R59.9,2-R59.9,TRUE
+1,"0-Edema, not elsewhere classified",0-R60,0-R50-R69,TRUE
+1,"0-Edema, not elsewhere classified",0-R60,2-R60,TRUE
+1,0-Localized edema,0-R60.0,0-R60,TRUE
+1,0-Localized edema,0-R60.0,2-R60.0,TRUE
+1,0-Generalized edema,0-R60.1,0-R60,TRUE
+1,0-Generalized edema,0-R60.1,2-R60.1,TRUE
+1,"0-Edema, unspecified",0-R60.9,0-R60,TRUE
+1,"0-Edema, unspecified",0-R60.9,2-R60.9,TRUE
+1,0-Generalized hyperhidrosis,0-R61,0-R50-R69,TRUE
+1,0-Generalized hyperhidrosis,0-R61,2-R61,TRUE
+1,0-Lack of expected normal physiological development in childhood and adults,0-R62,0-R50-R69,TRUE
+1,0-Lack of expected normal physiological development in childhood and adults,0-R62,2-R62,TRUE
+1,0-Delayed milestone in childhood,0-R62.0,0-R62,TRUE
+1,0-Delayed milestone in childhood,0-R62.0,2-R62.0,TRUE
+1,0-Other and unspecified lack of expected normal physiological development in childhood,0-R62.5,0-R62,TRUE
+1,0-Other and unspecified lack of expected normal physiological development in childhood,0-R62.5,2-R62.5,TRUE
+1,0-Unspecified lack of expected normal physiological development in childhood,0-R62.50,0-R62.5,TRUE
+1,0-Unspecified lack of expected normal physiological development in childhood,0-R62.50,2-R62.50,TRUE
+1,0-Failure to thrive (child),0-R62.51,0-R62.5,TRUE
+1,0-Failure to thrive (child),0-R62.51,2-R62.51,TRUE
+1,0-Short stature (child),0-R62.52,0-R62.5,TRUE
+1,0-Short stature (child),0-R62.52,2-R62.52,TRUE
+1,0-Other lack of expected normal physiological development in childhood,0-R62.59,0-R62.5,TRUE
+1,0-Other lack of expected normal physiological development in childhood,0-R62.59,2-R62.59,TRUE
+1,0-Adult failure to thrive,0-R62.7,0-R62,TRUE
+1,0-Adult failure to thrive,0-R62.7,2-R62.7,TRUE
+1,0-Symptoms and signs concerning food and fluid intake,0-R63,0-R50-R69,TRUE
+1,0-Symptoms and signs concerning food and fluid intake,0-R63,2-R63,TRUE
+1,0-Anorexia,0-R63.0,0-R63,TRUE
+1,0-Anorexia,0-R63.0,2-R63.0,TRUE
+1,0-Polydipsia,0-R63.1,0-R63,TRUE
+1,0-Polydipsia,0-R63.1,2-R63.1,TRUE
+1,0-Polyphagia,0-R63.2,0-R63,TRUE
+1,0-Polyphagia,0-R63.2,2-R63.2,TRUE
+1,0-Feeding difficulties,0-R63.3,0-R63,TRUE
+1,0-Feeding difficulties,0-R63.3,2-R63.3,TRUE
+1,"0-Feeding difficulties, unspecified",0-R63.30,0-R63.3,TRUE
+1,"0-Feeding difficulties, unspecified",0-R63.30,2-R63.30,TRUE
+1,"0-Pediatric feeding disorder, acute",0-R63.31,0-R63.3,TRUE
+1,"0-Pediatric feeding disorder, acute",0-R63.31,2-R63.31,TRUE
+1,"0-Pediatric feeding disorder, chronic",0-R63.32,0-R63.3,TRUE
+1,"0-Pediatric feeding disorder, chronic",0-R63.32,2-R63.32,TRUE
+1,0-Other feeding difficulties,0-R63.39,0-R63.3,TRUE
+1,0-Other feeding difficulties,0-R63.39,2-R63.39,TRUE
+1,0-Abnormal weight loss,0-R63.4,0-R63,TRUE
+1,0-Abnormal weight loss,0-R63.4,2-R63.4,TRUE
+1,0-Abnormal weight gain,0-R63.5,0-R63,TRUE
+1,0-Abnormal weight gain,0-R63.5,2-R63.5,TRUE
+1,0-Underweight,0-R63.6,0-R63,TRUE
+1,0-Underweight,0-R63.6,2-R63.6,TRUE
+1,0-Other symptoms and signs concerning food and fluid intake,0-R63.8,0-R63,TRUE
+1,0-Other symptoms and signs concerning food and fluid intake,0-R63.8,2-R63.8,TRUE
+1,0-Cachexia,0-R64,0-R50-R69,TRUE
+1,0-Cachexia,0-R64,2-R64,TRUE
+1,0-Symptoms and signs specifically associated with systemic inflammation and infection,0-R65,0-R50-R69,TRUE
+1,0-Symptoms and signs specifically associated with systemic inflammation and infection,0-R65,2-R65,TRUE
+1,0-Systemic inflammatory response syndrome (SIRS) of non-infectious origin,0-R65.1,0-R65,TRUE
+1,0-Systemic inflammatory response syndrome (SIRS) of non-infectious origin,0-R65.1,2-R65.1,TRUE
+1,0-Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction,0-R65.10,0-R65.1,TRUE
+1,0-Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction,0-R65.10,2-R65.10,TRUE
+1,0-Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction,0-R65.11,0-R65.1,TRUE
+1,0-Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction,0-R65.11,2-R65.11,TRUE
+1,0-Severe sepsis,0-R65.2,0-R65,TRUE
+1,0-Severe sepsis,0-R65.2,2-R65.2,TRUE
+1,0-Severe sepsis without septic shock,0-R65.20,0-R65.2,TRUE
+1,0-Severe sepsis without septic shock,0-R65.20,2-R65.20,TRUE
+1,0-Severe sepsis with septic shock,0-R65.21,0-R65.2,TRUE
+1,0-Severe sepsis with septic shock,0-R65.21,2-R65.21,TRUE
+1,0-Other general symptoms and signs,0-R68,0-R50-R69,TRUE
+1,0-Other general symptoms and signs,0-R68,2-R68,TRUE
+1,"0-Hypothermia, not associated with low environmental temperature",0-R68.0,0-R68,TRUE
+1,"0-Hypothermia, not associated with low environmental temperature",0-R68.0,2-R68.0,TRUE
+1,0-Nonspecific symptoms peculiar to infancy,0-R68.1,0-R68,TRUE
+1,0-Nonspecific symptoms peculiar to infancy,0-R68.1,2-R68.1,TRUE
+1,0-Excessive crying of infant (baby),0-R68.11,0-R68.1,TRUE
+1,0-Excessive crying of infant (baby),0-R68.11,2-R68.11,TRUE
+1,0-Fussy infant (baby),0-R68.12,0-R68.1,TRUE
+1,0-Fussy infant (baby),0-R68.12,2-R68.12,TRUE
+1,0-Apparent life threatening event in infant (ALTE),0-R68.13,0-R68.1,TRUE
+1,0-Apparent life threatening event in infant (ALTE),0-R68.13,2-R68.13,TRUE
+1,0-Other nonspecific symptoms peculiar to infancy,0-R68.19,0-R68.1,TRUE
+1,0-Other nonspecific symptoms peculiar to infancy,0-R68.19,2-R68.19,TRUE
+1,"0-Dry mouth, unspecified",0-R68.2,0-R68,TRUE
+1,"0-Dry mouth, unspecified",0-R68.2,2-R68.2,TRUE
+1,0-Clubbing of fingers,0-R68.3,0-R68,TRUE
+1,0-Clubbing of fingers,0-R68.3,2-R68.3,TRUE
+1,0-Other general symptoms and signs,0-R68.8,0-R68,TRUE
+1,0-Other general symptoms and signs,0-R68.8,2-R68.8,TRUE
+1,0-Early satiety,0-R68.81,0-R68.8,TRUE
+1,0-Early satiety,0-R68.81,2-R68.81,TRUE
+1,0-Decreased libido,0-R68.82,0-R68.8,TRUE
+1,0-Decreased libido,0-R68.82,2-R68.82,TRUE
+1,0-Chills (without fever),0-R68.83,0-R68.8,TRUE
+1,0-Chills (without fever),0-R68.83,2-R68.83,TRUE
+1,0-Jaw pain,0-R68.84,0-R68.8,TRUE
+1,0-Jaw pain,0-R68.84,2-R68.84,TRUE
+1,0-Other general symptoms and signs,0-R68.89,0-R68.8,TRUE
+1,0-Other general symptoms and signs,0-R68.89,2-R68.89,TRUE
+1,"0-Illness, unspecified",0-R69,0-R50-R69,TRUE
+1,"0-Illness, unspecified",0-R69,2-R69,TRUE
+1,0-ICD-10 Root,0-Root,2-Root,TRUE
+1,,0-Vibrio vulnificus,0-dummy2,TRUE
+1,,0-Vibrio vulnificus,2-Vibrio vulnificus,TRUE
+1,,0-dummy1,0-Root,TRUE
+1,,0-dummy1,2-dummy1,TRUE
+1,,0-dummy2,0-dummy1,TRUE
+1,,0-dummy2,2-dummy2,TRUE
+1,1-Cholera,1-A00,1-A00-A09,
+1,1-Cholera,1-A00,2-A00,
+1,1-Intestinal infectious diseases,1-A00-A09,1-A00-B99,TRUE
+1,1-Intestinal infectious diseases,1-A00-A09,2-A00-A09,TRUE
+1,1-Certain infectious and parasitic diseases,1-A00-B99,1-Root,
+1,1-Certain infectious and parasitic diseases,1-A00-B99,2-A00-B99,
+1,"1-Cholera due to Vibrio cholerae 01, biovar cholerae",1-A00.0,1-A00,
+1,"1-Cholera due to Vibrio cholerae 01, biovar cholerae",1-A00.0,2-A00.0,
+1,"1-Cholera due to Vibrio cholerae 01, biovar eltor",1-A00.1,1-A00,
+1,"1-Cholera due to Vibrio cholerae 01, biovar eltor",1-A00.1,2-A00.1,
+1,"1-Cholera, unspecified",1-A00.9,1-A00,
+1,"1-Cholera, unspecified",1-A00.9,2-A00.9,
+1,1-Typhoid and paratyphoid fevers,1-A01,1-A00-A09,
+1,1-Typhoid and paratyphoid fevers,1-A01,2-A01,
+1,1-Typhoid fever,1-A01.0,1-A01,
+1,1-Typhoid fever,1-A01.0,2-A01.0,
+1,"1-Typhoid fever, unspecified",1-A01.00,1-A01.0,
+1,"1-Typhoid fever, unspecified",1-A01.00,2-A01.00,
+1,1-Typhoid meningitis,1-A01.01,1-A01.0,
+1,1-Typhoid meningitis,1-A01.01,2-A01.01,
+1,1-Typhoid fever with heart involvement,1-A01.02,1-A01.0,
+1,1-Typhoid fever with heart involvement,1-A01.02,2-A01.02,
+1,1-Typhoid pneumonia,1-A01.03,1-A01.0,
+1,1-Typhoid pneumonia,1-A01.03,2-A01.03,
+1,1-Typhoid arthritis,1-A01.04,1-A01.0,
+1,1-Typhoid arthritis,1-A01.04,2-A01.04,
+1,1-Typhoid osteomyelitis,1-A01.05,1-A01.0,
+1,1-Typhoid osteomyelitis,1-A01.05,2-A01.05,
+1,1-Typhoid fever with other complications,1-A01.09,1-A01.0,
+1,1-Typhoid fever with other complications,1-A01.09,2-A01.09,
+1,1-Paratyphoid fever A,1-A01.1,1-A01,
+1,1-Paratyphoid fever A,1-A01.1,2-A01.1,
+1,1-Paratyphoid fever B,1-A01.2,1-A01,
+1,1-Paratyphoid fever B,1-A01.2,2-A01.2,
+1,1-Paratyphoid fever C,1-A01.3,1-A01,
+1,1-Paratyphoid fever C,1-A01.3,2-A01.3,
+1,"1-Paratyphoid fever, unspecified",1-A01.4,1-A01,
+1,"1-Paratyphoid fever, unspecified",1-A01.4,2-A01.4,
+1,1-Other salmonella infections,1-A02,1-A00-A09,
+1,1-Other salmonella infections,1-A02,2-A02,
+1,1-Salmonella enteritis,1-A02.0,1-A02,
+1,1-Salmonella enteritis,1-A02.0,2-A02.0,
+1,1-Salmonella sepsis,1-A02.1,1-A02,
+1,1-Salmonella sepsis,1-A02.1,2-A02.1,
+1,1-Localized salmonella infections,1-A02.2,1-A02,
+1,1-Localized salmonella infections,1-A02.2,2-A02.2,
+1,"1-Localized salmonella infection, unspecified",1-A02.20,1-A02.2,
+1,"1-Localized salmonella infection, unspecified",1-A02.20,2-A02.20,
+1,1-Salmonella meningitis,1-A02.21,1-A02.2,
+1,1-Salmonella meningitis,1-A02.21,2-A02.21,
+1,1-Salmonella pneumonia,1-A02.22,1-A02.2,
+1,1-Salmonella pneumonia,1-A02.22,2-A02.22,
+1,1-Salmonella arthritis,1-A02.23,1-A02.2,
+1,1-Salmonella arthritis,1-A02.23,2-A02.23,
+1,1-Salmonella osteomyelitis,1-A02.24,1-A02.2,
+1,1-Salmonella osteomyelitis,1-A02.24,2-A02.24,
+1,1-Salmonella pyelonephritis,1-A02.25,1-A02.2,
+1,1-Salmonella pyelonephritis,1-A02.25,2-A02.25,
+1,1-Salmonella with other localized infection,1-A02.29,1-A02.2,
+1,1-Salmonella with other localized infection,1-A02.29,2-A02.29,
+1,1-Other specified salmonella infections,1-A02.8,1-A02,
+1,1-Other specified salmonella infections,1-A02.8,2-A02.8,
+1,"1-Salmonella infection, unspecified",1-A02.9,1-A02,
+1,"1-Salmonella infection, unspecified",1-A02.9,2-A02.9,
+1,1-Shigellosis,1-A03,1-A00-A09,
+1,1-Shigellosis,1-A03,2-A03,
+1,1-Shigellosis due to Shigella dysenteriae,1-A03.0,1-A03,
+1,1-Shigellosis due to Shigella dysenteriae,1-A03.0,2-A03.0,
+1,1-Shigellosis due to Shigella flexneri,1-A03.1,1-A03,
+1,1-Shigellosis due to Shigella flexneri,1-A03.1,2-A03.1,
+1,1-Shigellosis due to Shigella boydii,1-A03.2,1-A03,
+1,1-Shigellosis due to Shigella boydii,1-A03.2,2-A03.2,
+1,1-Shigellosis due to Shigella sonnei,1-A03.3,1-A03,
+1,1-Shigellosis due to Shigella sonnei,1-A03.3,2-A03.3,
+1,1-Other shigellosis,1-A03.8,1-A03,
+1,1-Other shigellosis,1-A03.8,2-A03.8,
+1,"1-Shigellosis, unspecified",1-A03.9,1-A03,
+1,"1-Shigellosis, unspecified",1-A03.9,2-A03.9,
+1,1-Other bacterial intestinal infections,1-A04,1-A00-A09,
+1,1-Other bacterial intestinal infections,1-A04,2-A04,
+1,1-Enteropathogenic Escherichia coli infection,1-A04.0,1-A04,
+1,1-Enteropathogenic Escherichia coli infection,1-A04.0,1-Escherichia coli,
+1,1-Enteropathogenic Escherichia coli infection,1-A04.0,2-A04.0,
+1,1-Enterotoxigenic Escherichia coli infection,1-A04.1,1-A04,
+1,1-Enterotoxigenic Escherichia coli infection,1-A04.1,1-Escherichia coli,
+1,1-Enterotoxigenic Escherichia coli infection,1-A04.1,2-A04.1,
+1,1-Enteroinvasive Escherichia coli infection,1-A04.2,1-A04,
+1,1-Enteroinvasive Escherichia coli infection,1-A04.2,1-Escherichia coli,
+1,1-Enteroinvasive Escherichia coli infection,1-A04.2,2-A04.2,
+1,1-Enterohemorrhagic Escherichia coli infection,1-A04.3,1-A04,
+1,1-Enterohemorrhagic Escherichia coli infection,1-A04.3,1-Escherichia coli,
+1,1-Enterohemorrhagic Escherichia coli infection,1-A04.3,2-A04.3,
+1,1-Other intestinal Escherichia coli infections,1-A04.4,1-A04,
+1,1-Other intestinal Escherichia coli infections,1-A04.4,1-Escherichia coli,
+1,1-Other intestinal Escherichia coli infections,1-A04.4,2-A04.4,
+1,1-Campylobacter enteritis,1-A04.5,1-A04,
+1,1-Campylobacter enteritis,1-A04.5,2-A04.5,
+1,1-Enteritis due to Yersinia enterocolitica,1-A04.6,1-A04,
+1,1-Enteritis due to Yersinia enterocolitica,1-A04.6,2-A04.6,
+1,1-Enterocolitis due to Clostridium difficile,1-A04.7,1-A04,
+1,1-Enterocolitis due to Clostridium difficile,1-A04.7,2-A04.7,
+1,"1-Enterocolitis due to Clostridium difficile, recurrent",1-A04.71,1-A04.7,
+1,"1-Enterocolitis due to Clostridium difficile, recurrent",1-A04.71,2-A04.71,
+1,"1-Enterocolitis due to Clostridium difficile, not specified as recurrent",1-A04.72,1-A04.7,
+1,"1-Enterocolitis due to Clostridium difficile, not specified as recurrent",1-A04.72,2-A04.72,
+1,1-Other specified bacterial intestinal infections,1-A04.8,1-A04,
+1,1-Other specified bacterial intestinal infections,1-A04.8,2-A04.8,
+1,"1-Bacterial intestinal infection, unspecified",1-A04.9,1-A04,
+1,"1-Bacterial intestinal infection, unspecified",1-A04.9,2-A04.9,
+1,"1-Other bacterial foodborne intoxications, not elsewhere classified",1-A05,1-A00-A09,
+1,"1-Other bacterial foodborne intoxications, not elsewhere classified",1-A05,2-A05,
+1,1-Foodborne staphylococcal intoxication,1-A05.0,1-A05,
+1,1-Foodborne staphylococcal intoxication,1-A05.0,2-A05.0,
+1,1-Botulism food poisoning,1-A05.1,1-A05,
+1,1-Botulism food poisoning,1-A05.1,2-A05.1,
+1,1-Foodborne Clostridium perfringens [Clostridium welchii] intoxication,1-A05.2,1-A05,
+1,1-Foodborne Clostridium perfringens [Clostridium welchii] intoxication,1-A05.2,1-Clostridium perfringens,
+1,1-Foodborne Clostridium perfringens [Clostridium welchii] intoxication,1-A05.2,2-A05.2,
+1,1-Foodborne Vibrio parahaemolyticus intoxication,1-A05.3,1-A05,
+1,1-Foodborne Vibrio parahaemolyticus intoxication,1-A05.3,2-A05.3,
+1,1-Foodborne Bacillus cereus intoxication,1-A05.4,1-A05,
+1,1-Foodborne Bacillus cereus intoxication,1-A05.4,2-A05.4,
+1,1-Foodborne Vibrio vulnificus intoxication,1-A05.5,1-A05,
+1,1-Foodborne Vibrio vulnificus intoxication,1-A05.5,1-Vibrio vulnificus,
+1,1-Foodborne Vibrio vulnificus intoxication,1-A05.5,2-A05.5,
+1,1-Other specified bacterial foodborne intoxications,1-A05.8,1-A05,
+1,1-Other specified bacterial foodborne intoxications,1-A05.8,2-A05.8,
+1,"1-Bacterial foodborne intoxication, unspecified",1-A05.9,1-A05,
+1,"1-Bacterial foodborne intoxication, unspecified",1-A05.9,2-A05.9,
+1,1-Amebiasis,1-A06,1-A00-A09,
+1,1-Amebiasis,1-A06,2-A06,
+1,1-Acute amebic dysentery,1-A06.0,1-A06,
+1,1-Acute amebic dysentery,1-A06.0,2-A06.0,
+1,1-Chronic intestinal amebiasis,1-A06.1,1-A06,
+1,1-Chronic intestinal amebiasis,1-A06.1,2-A06.1,
+1,1-Amebic nondysenteric colitis,1-A06.2,1-A06,
+1,1-Amebic nondysenteric colitis,1-A06.2,2-A06.2,
+1,1-Ameboma of intestine,1-A06.3,1-A06,
+1,1-Ameboma of intestine,1-A06.3,2-A06.3,
+1,1-Amebic liver abscess,1-A06.4,1-A06,
+1,1-Amebic liver abscess,1-A06.4,2-A06.4,
+1,1-Amebic lung abscess,1-A06.5,1-A06,
+1,1-Amebic lung abscess,1-A06.5,2-A06.5,
+1,1-Amebic brain abscess,1-A06.6,1-A06,
+1,1-Amebic brain abscess,1-A06.6,2-A06.6,
+1,1-Cutaneous amebiasis,1-A06.7,1-A06,
+1,1-Cutaneous amebiasis,1-A06.7,2-A06.7,
+1,1-Amebic infection of other sites,1-A06.8,1-A06,
+1,1-Amebic infection of other sites,1-A06.8,2-A06.8,
+1,1-Amebic cystitis,1-A06.81,1-A06.8,
+1,1-Amebic cystitis,1-A06.81,2-A06.81,
+1,1-Other amebic genitourinary infections,1-A06.82,1-A06.8,
+1,1-Other amebic genitourinary infections,1-A06.82,2-A06.82,
+1,1-Other amebic infections,1-A06.89,1-A06.8,
+1,1-Other amebic infections,1-A06.89,2-A06.89,
+1,"1-Amebiasis, unspecified",1-A06.9,1-A06,
+1,"1-Amebiasis, unspecified",1-A06.9,2-A06.9,
+1,1-Other protozoal intestinal diseases,1-A07,1-A00-A09,
+1,1-Other protozoal intestinal diseases,1-A07,2-A07,
+1,1-Balantidiasis,1-A07.0,1-A07,
+1,1-Balantidiasis,1-A07.0,2-A07.0,
+1,1-Giardiasis [lambliasis],1-A07.1,1-A07,
+1,1-Giardiasis [lambliasis],1-A07.1,2-A07.1,
+1,1-Cryptosporidiosis,1-A07.2,1-A07,
+1,1-Cryptosporidiosis,1-A07.2,2-A07.2,
+1,1-Isosporiasis,1-A07.3,1-A07,
+1,1-Isosporiasis,1-A07.3,2-A07.3,
+1,1-Cyclosporiasis,1-A07.4,1-A07,
+1,1-Cyclosporiasis,1-A07.4,2-A07.4,
+1,1-Other specified protozoal intestinal diseases,1-A07.8,1-A07,
+1,1-Other specified protozoal intestinal diseases,1-A07.8,2-A07.8,
+1,"1-Protozoal intestinal disease, unspecified",1-A07.9,1-A07,
+1,"1-Protozoal intestinal disease, unspecified",1-A07.9,2-A07.9,
+1,1-Viral and other specified intestinal infections,1-A08,1-A00-A09,
+1,1-Viral and other specified intestinal infections,1-A08,2-A08,
+1,1-Rotaviral enteritis,1-A08.0,1-A08,
+1,1-Rotaviral enteritis,1-A08.0,2-A08.0,
+1,1-Acute gastroenteropathy due to Norwalk agent and other small round viruses,1-A08.1,1-A08,
+1,1-Acute gastroenteropathy due to Norwalk agent and other small round viruses,1-A08.1,2-A08.1,
+1,1-Acute gastroenteropathy due to Norwalk agent,1-A08.11,1-A08.1,
+1,1-Acute gastroenteropathy due to Norwalk agent,1-A08.11,2-A08.11,
+1,1-Acute gastroenteropathy due to other small round viruses,1-A08.19,1-A08.1,
+1,1-Acute gastroenteropathy due to other small round viruses,1-A08.19,2-A08.19,
+1,1-Adenoviral enteritis,1-A08.2,1-A08,
+1,1-Adenoviral enteritis,1-A08.2,2-A08.2,
+1,1-Other viral enteritis,1-A08.3,1-A08,
+1,1-Other viral enteritis,1-A08.3,2-A08.3,
+1,1-Calicivirus enteritis,1-A08.31,1-A08.3,
+1,1-Calicivirus enteritis,1-A08.31,2-A08.31,
+1,1-Astrovirus enteritis,1-A08.32,1-A08.3,
+1,1-Astrovirus enteritis,1-A08.32,2-A08.32,
+1,1-Other viral enteritis,1-A08.39,1-A08.3,
+1,1-Other viral enteritis,1-A08.39,2-A08.39,
+1,"1-Viral intestinal infection, unspecified",1-A08.4,1-A08,
+1,"1-Viral intestinal infection, unspecified",1-A08.4,2-A08.4,
+1,1-Other specified intestinal infections,1-A08.8,1-A08,
+1,1-Other specified intestinal infections,1-A08.8,2-A08.8,
+1,"1-Infectious gastroenteritis and colitis, unspecified",1-A09,1-A00-A09,
+1,"1-Infectious gastroenteritis and colitis, unspecified",1-A09,2-A09,
+1,,1-Clostridium perfringens,1-dummy2,
+1,,1-Clostridium perfringens,2-Clostridium perfringens,
+1,,1-Escherichia coli,1-dummy2,
+1,,1-Escherichia coli,2-Escherichia coli,
+1,1-Acute nasopharyngitis [common cold],1-J00,1-J00-J06,
+1,1-Acute nasopharyngitis [common cold],1-J00,2-J00,
+1,1-Acute upper respiratory infections,1-J00-J06,1-J00-J99,TRUE
+1,1-Acute upper respiratory infections,1-J00-J06,2-J00-J06,TRUE
+1,1-Diseases of the respiratory system,1-J00-J99,1-Root,
+1,1-Diseases of the respiratory system,1-J00-J99,2-J00-J99,
+1,1-Acute sinusitis,1-J01,1-J00-J06,
+1,1-Acute sinusitis,1-J01,2-J01,
+1,1-Acute maxillary sinusitis,1-J01.0,1-J01,
+1,1-Acute maxillary sinusitis,1-J01.0,2-J01.0,
+1,"1-Acute maxillary sinusitis, unspecified",1-J01.00,1-J01.0,
+1,"1-Acute maxillary sinusitis, unspecified",1-J01.00,2-J01.00,
+1,1-Acute recurrent maxillary sinusitis,1-J01.01,1-J01.0,
+1,1-Acute recurrent maxillary sinusitis,1-J01.01,2-J01.01,
+1,1-Acute frontal sinusitis,1-J01.1,1-J01,
+1,1-Acute frontal sinusitis,1-J01.1,2-J01.1,
+1,"1-Acute frontal sinusitis, unspecified",1-J01.10,1-J01.1,
+1,"1-Acute frontal sinusitis, unspecified",1-J01.10,2-J01.10,
+1,1-Acute recurrent frontal sinusitis,1-J01.11,1-J01.1,
+1,1-Acute recurrent frontal sinusitis,1-J01.11,2-J01.11,
+1,1-Acute ethmoidal sinusitis,1-J01.2,1-J01,
+1,1-Acute ethmoidal sinusitis,1-J01.2,2-J01.2,
+1,"1-Acute ethmoidal sinusitis, unspecified",1-J01.20,1-J01.2,
+1,"1-Acute ethmoidal sinusitis, unspecified",1-J01.20,2-J01.20,
+1,1-Acute recurrent ethmoidal sinusitis,1-J01.21,1-J01.2,
+1,1-Acute recurrent ethmoidal sinusitis,1-J01.21,2-J01.21,
+1,1-Acute sphenoidal sinusitis,1-J01.3,1-J01,
+1,1-Acute sphenoidal sinusitis,1-J01.3,2-J01.3,
+1,"1-Acute sphenoidal sinusitis, unspecified",1-J01.30,1-J01.3,
+1,"1-Acute sphenoidal sinusitis, unspecified",1-J01.30,2-J01.30,
+1,1-Acute recurrent sphenoidal sinusitis,1-J01.31,1-J01.3,
+1,1-Acute recurrent sphenoidal sinusitis,1-J01.31,2-J01.31,
+1,1-Acute pansinusitis,1-J01.4,1-J01,
+1,1-Acute pansinusitis,1-J01.4,2-J01.4,
+1,"1-Acute pansinusitis, unspecified",1-J01.40,1-J01.4,
+1,"1-Acute pansinusitis, unspecified",1-J01.40,2-J01.40,
+1,1-Acute recurrent pansinusitis,1-J01.41,1-J01.4,
+1,1-Acute recurrent pansinusitis,1-J01.41,2-J01.41,
+1,1-Other acute sinusitis,1-J01.8,1-J01,
+1,1-Other acute sinusitis,1-J01.8,2-J01.8,
+1,1-Other acute sinusitis,1-J01.80,1-J01.8,
+1,1-Other acute sinusitis,1-J01.80,2-J01.80,
+1,1-Other acute recurrent sinusitis,1-J01.81,1-J01.8,
+1,1-Other acute recurrent sinusitis,1-J01.81,2-J01.81,
+1,"1-Acute sinusitis, unspecified",1-J01.9,1-J01,
+1,"1-Acute sinusitis, unspecified",1-J01.9,2-J01.9,
+1,"1-Acute sinusitis, unspecified",1-J01.90,1-J01.9,
+1,"1-Acute sinusitis, unspecified",1-J01.90,2-J01.90,
+1,"1-Acute recurrent sinusitis, unspecified",1-J01.91,1-J01.9,
+1,"1-Acute recurrent sinusitis, unspecified",1-J01.91,2-J01.91,
+1,1-Acute pharyngitis,1-J02,1-J00-J06,
+1,1-Acute pharyngitis,1-J02,2-J02,
+1,1-Streptococcal pharyngitis,1-J02.0,1-J02,
+1,1-Streptococcal pharyngitis,1-J02.0,1-Other streptococcus,
+1,1-Streptococcal pharyngitis,1-J02.0,2-J02.0,
+1,1-Acute pharyngitis due to other specified organisms,1-J02.8,1-J02,
+1,1-Acute pharyngitis due to other specified organisms,1-J02.8,2-J02.8,
+1,"1-Acute pharyngitis, unspecified",1-J02.9,1-J02,
+1,"1-Acute pharyngitis, unspecified",1-J02.9,2-J02.9,
+1,1-Acute tonsillitis,1-J03,1-J00-J06,
+1,1-Acute tonsillitis,1-J03,2-J03,
+1,1-Streptococcal tonsillitis,1-J03.0,1-J03,
+1,1-Streptococcal tonsillitis,1-J03.0,1-Other streptococcus,
+1,1-Streptococcal tonsillitis,1-J03.0,2-J03.0,
+1,"1-Acute streptococcal tonsillitis, unspecified",1-J03.00,1-J03.0,
+1,"1-Acute streptococcal tonsillitis, unspecified",1-J03.00,2-J03.00,
+1,1-Acute recurrent streptococcal tonsillitis,1-J03.01,1-J03.0,
+1,1-Acute recurrent streptococcal tonsillitis,1-J03.01,2-J03.01,
+1,1-Acute tonsillitis due to other specified organisms,1-J03.8,1-J03,
+1,1-Acute tonsillitis due to other specified organisms,1-J03.8,2-J03.8,
+1,1-Acute tonsillitis due to other specified organisms,1-J03.80,1-J03.8,
+1,1-Acute tonsillitis due to other specified organisms,1-J03.80,2-J03.80,
+1,1-Acute recurrent tonsillitis due to other specified organisms,1-J03.81,1-J03.8,
+1,1-Acute recurrent tonsillitis due to other specified organisms,1-J03.81,2-J03.81,
+1,"1-Acute tonsillitis, unspecified",1-J03.9,1-J03,
+1,"1-Acute tonsillitis, unspecified",1-J03.9,2-J03.9,
+1,"1-Acute tonsillitis, unspecified",1-J03.90,1-J03.9,
+1,"1-Acute tonsillitis, unspecified",1-J03.90,2-J03.90,
+1,"1-Acute recurrent tonsillitis, unspecified",1-J03.91,1-J03.9,
+1,"1-Acute recurrent tonsillitis, unspecified",1-J03.91,2-J03.91,
+1,1-Acute laryngitis and tracheitis,1-J04,1-J00-J06,
+1,1-Acute laryngitis and tracheitis,1-J04,2-J04,
+1,1-Acute laryngitis,1-J04.0,1-J04,
+1,1-Acute laryngitis,1-J04.0,2-J04.0,
+1,1-Acute tracheitis,1-J04.1,1-J04,
+1,1-Acute tracheitis,1-J04.1,2-J04.1,
+1,1-Acute tracheitis without obstruction,1-J04.10,1-J04.1,
+1,1-Acute tracheitis without obstruction,1-J04.10,2-J04.10,
+1,1-Acute tracheitis with obstruction,1-J04.11,1-J04.1,
+1,1-Acute tracheitis with obstruction,1-J04.11,2-J04.11,
+1,1-Acute laryngotracheitis,1-J04.2,1-J04,
+1,1-Acute laryngotracheitis,1-J04.2,2-J04.2,
+1,"1-Supraglottitis, unspecified",1-J04.3,1-J04,
+1,"1-Supraglottitis, unspecified",1-J04.3,2-J04.3,
+1,"1-Supraglottitis, unspecified, without obstruction",1-J04.30,1-J04.3,
+1,"1-Supraglottitis, unspecified, without obstruction",1-J04.30,2-J04.30,
+1,"1-Supraglottitis, unspecified, with obstruction",1-J04.31,1-J04.3,
+1,"1-Supraglottitis, unspecified, with obstruction",1-J04.31,2-J04.31,
+1,1-Acute obstructive laryngitis [croup] and epiglottitis,1-J05,1-J00-J06,
+1,1-Acute obstructive laryngitis [croup] and epiglottitis,1-J05,2-J05,
+1,1-Acute obstructive laryngitis [croup],1-J05.0,1-J05,
+1,1-Acute obstructive laryngitis [croup],1-J05.0,2-J05.0,
+1,1-Acute epiglottitis,1-J05.1,1-J05,
+1,1-Acute epiglottitis,1-J05.1,2-J05.1,
+1,1-Acute epiglottitis without obstruction,1-J05.10,1-J05.1,
+1,1-Acute epiglottitis without obstruction,1-J05.10,2-J05.10,
+1,1-Acute epiglottitis with obstruction,1-J05.11,1-J05.1,
+1,1-Acute epiglottitis with obstruction,1-J05.11,2-J05.11,
+1,1-Acute upper respiratory infections of multiple and unspecified sites,1-J06,1-J00-J06,
+1,1-Acute upper respiratory infections of multiple and unspecified sites,1-J06,2-J06,
+1,1-Acute laryngopharyngitis,1-J06.0,1-J06,
+1,1-Acute laryngopharyngitis,1-J06.0,2-J06.0,
+1,"1-Acute upper respiratory infection, unspecified",1-J06.9,1-J06,
+1,"1-Acute upper respiratory infection, unspecified",1-J06.9,2-J06.9,
+1,,1-Other streptococcus,1-dummy2,
+1,,1-Other streptococcus,2-Other streptococcus,
+1,"1-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1-R00-R99,1-Root,
+1,"1-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1-R00-R99,2-R00-R99,
+1,1-Abdominal and pelvic pain,1-R10,1-R10-R19,
+1,1-Abdominal and pelvic pain,1-R10,2-R10,
+1,1-Symptoms and signs involving the digestive system and abdomen,1-R10-R19,1-R00-R99,TRUE
+1,1-Symptoms and signs involving the digestive system and abdomen,1-R10-R19,2-R10-R19,TRUE
+1,1-Acute abdomen,1-R10.0,1-R10,
+1,1-Acute abdomen,1-R10.0,2-R10.0,
+1,1-Pain localized to upper abdomen,1-R10.1,1-R10,
+1,1-Pain localized to upper abdomen,1-R10.1,2-R10.1,
+1,"1-Upper abdominal pain, unspecified",1-R10.10,1-R10.1,
+1,"1-Upper abdominal pain, unspecified",1-R10.10,2-R10.10,
+1,1-Right upper quadrant pain,1-R10.11,1-R10.1,
+1,1-Right upper quadrant pain,1-R10.11,2-R10.11,
+1,1-Left upper quadrant pain,1-R10.12,1-R10.1,
+1,1-Left upper quadrant pain,1-R10.12,2-R10.12,
+1,1-Epigastric pain,1-R10.13,1-R10.1,
+1,1-Epigastric pain,1-R10.13,2-R10.13,
+1,1-Pelvic and perineal pain,1-R10.2,1-R10,
+1,1-Pelvic and perineal pain,1-R10.2,2-R10.2,
+1,1-Pelvic and perineal pain unspecified side,1-R10.20,1-R10.2,TRUE
+1,1-Pelvic and perineal pain unspecified side,1-R10.20,2-R10.20,TRUE
+1,1-Pelvic and perineal pain right side,1-R10.21,1-R10.2,TRUE
+1,1-Pelvic and perineal pain right side,1-R10.21,2-R10.21,TRUE
+1,1-Pelvic and perineal pain left side,1-R10.22,1-R10.2,TRUE
+1,1-Pelvic and perineal pain left side,1-R10.22,2-R10.22,TRUE
+1,1-Pelvic and perineal pain bilateral,1-R10.23,1-R10.2,TRUE
+1,1-Pelvic and perineal pain bilateral,1-R10.23,2-R10.23,TRUE
+1,1-Suprapubic pain,1-R10.24,1-R10.2,TRUE
+1,1-Suprapubic pain,1-R10.24,2-R10.24,TRUE
+1,1-Pain localized to other parts of lower abdomen,1-R10.3,1-R10,
+1,1-Pain localized to other parts of lower abdomen,1-R10.3,2-R10.3,
+1,"1-Lower abdominal pain, unspecified",1-R10.30,1-R10.3,
+1,"1-Lower abdominal pain, unspecified",1-R10.30,2-R10.30,
+1,1-Right lower quadrant pain,1-R10.31,1-R10.3,
+1,1-Right lower quadrant pain,1-R10.31,2-R10.31,
+1,1-Left lower quadrant pain,1-R10.32,1-R10.3,
+1,1-Left lower quadrant pain,1-R10.32,2-R10.32,
+1,1-Periumbilical pain,1-R10.33,1-R10.3,
+1,1-Periumbilical pain,1-R10.33,2-R10.33,
+1,1-Other abdominal pain,1-R10.8,1-R10,
+1,1-Other abdominal pain,1-R10.8,2-R10.8,
+1,1-Abdominal tenderness,1-R10.81,1-R10.8,
+1,1-Abdominal tenderness,1-R10.81,2-R10.81,
+1,1-Right upper quadrant abdominal tenderness,1-R10.811,1-R10.81,
+1,1-Right upper quadrant abdominal tenderness,1-R10.811,2-R10.811,
+1,1-Left upper quadrant abdominal tenderness,1-R10.812,1-R10.81,
+1,1-Left upper quadrant abdominal tenderness,1-R10.812,2-R10.812,
+1,1-Right lower quadrant abdominal tenderness,1-R10.813,1-R10.81,
+1,1-Right lower quadrant abdominal tenderness,1-R10.813,2-R10.813,
+1,1-Left lower quadrant abdominal tenderness,1-R10.814,1-R10.81,
+1,1-Left lower quadrant abdominal tenderness,1-R10.814,2-R10.814,
+1,1-Periumbilic abdominal tenderness,1-R10.815,1-R10.81,
+1,1-Periumbilic abdominal tenderness,1-R10.815,2-R10.815,
+1,1-Epigastric abdominal tenderness,1-R10.816,1-R10.81,
+1,1-Epigastric abdominal tenderness,1-R10.816,2-R10.816,
+1,1-Generalized abdominal tenderness,1-R10.817,1-R10.81,
+1,1-Generalized abdominal tenderness,1-R10.817,2-R10.817,
+1,"1-Abdominal tenderness, unspecified site",1-R10.819,1-R10.81,
+1,"1-Abdominal tenderness, unspecified site",1-R10.819,2-R10.819,
+1,1-Rebound abdominal tenderness,1-R10.82,1-R10.8,
+1,1-Rebound abdominal tenderness,1-R10.82,2-R10.82,
+1,1-Right upper quadrant rebound abdominal tenderness,1-R10.821,1-R10.82,
+1,1-Right upper quadrant rebound abdominal tenderness,1-R10.821,2-R10.821,
+1,1-Left upper quadrant rebound abdominal tenderness,1-R10.822,1-R10.82,
+1,1-Left upper quadrant rebound abdominal tenderness,1-R10.822,2-R10.822,
+1,1-Right lower quadrant rebound abdominal tenderness,1-R10.823,1-R10.82,
+1,1-Right lower quadrant rebound abdominal tenderness,1-R10.823,2-R10.823,
+1,1-Left lower quadrant rebound abdominal tenderness,1-R10.824,1-R10.82,
+1,1-Left lower quadrant rebound abdominal tenderness,1-R10.824,2-R10.824,
+1,1-Periumbilic rebound abdominal tenderness,1-R10.825,1-R10.82,
+1,1-Periumbilic rebound abdominal tenderness,1-R10.825,2-R10.825,
+1,1-Epigastric rebound abdominal tenderness,1-R10.826,1-R10.82,
+1,1-Epigastric rebound abdominal tenderness,1-R10.826,2-R10.826,
+1,1-Generalized rebound abdominal tenderness,1-R10.827,1-R10.82,
+1,1-Generalized rebound abdominal tenderness,1-R10.827,2-R10.827,
+1,"1-Rebound abdominal tenderness, unspecified site",1-R10.829,1-R10.82,
+1,"1-Rebound abdominal tenderness, unspecified site",1-R10.829,2-R10.829,
+1,1-Colic,1-R10.83,1-R10.8,
+1,1-Colic,1-R10.83,2-R10.83,
+1,1-Generalized abdominal pain,1-R10.84,1-R10.8,
+1,1-Generalized abdominal pain,1-R10.84,2-R10.84,
+1,1-Abdominal pain of multiple sites,1-R10.85,1-R10.8,
+1,1-Abdominal pain of multiple sites,1-R10.85,2-R10.85,
+1,1-Flank tenderness,1-R10.8A,1-R10.8,
+1,1-Flank tenderness,1-R10.8A,2-R10.8A,
+1,1-Right flank tenderness,1-R10.8A1,1-R10.8A,
+1,1-Right flank tenderness,1-R10.8A1,2-R10.8A1,
+1,1-Left flank tenderness,1-R10.8A2,1-R10.8A,
+1,1-Left flank tenderness,1-R10.8A2,2-R10.8A2,
+1,1-Suprapubic tenderness,1-R10.8A3,1-R10.8A,
+1,1-Suprapubic tenderness,1-R10.8A3,2-R10.8A3,
+1,"1-Flank tenderness, unspecified",1-R10.8A9,1-R10.8A,
+1,"1-Flank tenderness, unspecified",1-R10.8A9,2-R10.8A9,
+1,1-Unspecified abdominal pain,1-R10.9,1-R10,
+1,1-Unspecified abdominal pain,1-R10.9,2-R10.9,
+1,1-Pain localized to flank,1-R10.A,1-R10,
+1,1-Pain localized to flank,1-R10.A,2-R10.A,
+1,"1-Flank pain, unspecified side",1-R10.A0,1-R10.A,TRUE
+1,"1-Flank pain, unspecified side",1-R10.A0,2-R10.A0,TRUE
+1,"1-Flank pain, right side",1-R10.A1,1-R10.A,TRUE
+1,"1-Flank pain, right side",1-R10.A1,2-R10.A1,TRUE
+1,"1-Flank pain, left side",1-R10.A2,1-R10.A,TRUE
+1,"1-Flank pain, left side",1-R10.A2,2-R10.A2,TRUE
+1,"1-Flank pain, bilateral",1-R10.A3,1-R10.A,TRUE
+1,"1-Flank pain, bilateral",1-R10.A3,2-R10.A3,TRUE
+1,1-Nausea and vomiting,1-R11,1-R10-R19,
+1,1-Nausea and vomiting,1-R11,2-R11,
+1,1-Nausea,1-R11.0,1-R11,
+1,1-Nausea,1-R11.0,2-R11.0,
+1,1-Vomiting,1-R11.1,1-R11,
+1,1-Vomiting,1-R11.1,2-R11.1,
+1,"1-Vomiting, unspecified",1-R11.10,1-R11.1,
+1,"1-Vomiting, unspecified",1-R11.10,2-R11.10,
+1,1-Vomiting without nausea,1-R11.11,1-R11.1,
+1,1-Vomiting without nausea,1-R11.11,2-R11.11,
+1,1-Projectile vomiting,1-R11.12,1-R11.1,
+1,1-Projectile vomiting,1-R11.12,2-R11.12,
+1,1-Vomiting of fecal matter,1-R11.13,1-R11.1,
+1,1-Vomiting of fecal matter,1-R11.13,2-R11.13,
+1,1-Bilious vomiting,1-R11.14,1-R11.1,
+1,1-Bilious vomiting,1-R11.14,2-R11.14,
+1,1-Cyclical vomiting syndrome unrelated to migraine,1-R11.15,1-R11.1,
+1,1-Cyclical vomiting syndrome unrelated to migraine,1-R11.15,2-R11.15,
+1,1-Cannabis hyperemesis syndrome,1-R11.16,1-R11.1,
+1,1-Cannabis hyperemesis syndrome,1-R11.16,2-R11.16,
+1,"1-Nausea with vomiting, unspecified",1-R11.2,1-R11,
+1,"1-Nausea with vomiting, unspecified",1-R11.2,2-R11.2,
+1,1-Heartburn,1-R12,1-R10-R19,
+1,1-Heartburn,1-R12,2-R12,
+1,1-Aphagia and dysphagia,1-R13,1-R10-R19,
+1,1-Aphagia and dysphagia,1-R13,2-R13,
+1,1-Aphagia,1-R13.0,1-R13,
+1,1-Aphagia,1-R13.0,2-R13.0,
+1,1-Dysphagia,1-R13.1,1-R13,
+1,1-Dysphagia,1-R13.1,2-R13.1,
+1,"1-Dysphagia, unspecified",1-R13.10,1-R13.1,
+1,"1-Dysphagia, unspecified",1-R13.10,2-R13.10,
+1,"1-Dysphagia, oral phase",1-R13.11,1-R13.1,
+1,"1-Dysphagia, oral phase",1-R13.11,2-R13.11,
+1,"1-Dysphagia, oropharyngeal phase",1-R13.12,1-R13.1,
+1,"1-Dysphagia, oropharyngeal phase",1-R13.12,2-R13.12,
+1,"1-Dysphagia, pharyngeal phase",1-R13.13,1-R13.1,
+1,"1-Dysphagia, pharyngeal phase",1-R13.13,2-R13.13,
+1,"1-Dysphagia, pharyngoesophageal phase",1-R13.14,1-R13.1,
+1,"1-Dysphagia, pharyngoesophageal phase",1-R13.14,2-R13.14,
+1,1-Other dysphagia,1-R13.19,1-R13.1,
+1,1-Other dysphagia,1-R13.19,2-R13.19,
+1,1-Flatulence and related conditions,1-R14,1-R10-R19,
+1,1-Flatulence and related conditions,1-R14,2-R14,
+1,1-Abdominal distension (gaseous),1-R14.0,1-R14,
+1,1-Abdominal distension (gaseous),1-R14.0,2-R14.0,
+1,1-Gas pain,1-R14.1,1-R14,
+1,1-Gas pain,1-R14.1,2-R14.1,
+1,1-Eructation,1-R14.2,1-R14,
+1,1-Eructation,1-R14.2,2-R14.2,
+1,1-Flatulence,1-R14.3,1-R14,
+1,1-Flatulence,1-R14.3,2-R14.3,
+1,1-Fecal incontinence,1-R15,1-R10-R19,
+1,1-Fecal incontinence,1-R15,2-R15,
+1,1-Incomplete defecation,1-R15.0,1-R15,
+1,1-Incomplete defecation,1-R15.0,2-R15.0,
+1,1-Fecal smearing,1-R15.1,1-R15,
+1,1-Fecal smearing,1-R15.1,2-R15.1,
+1,1-Fecal urgency,1-R15.2,1-R15,
+1,1-Fecal urgency,1-R15.2,2-R15.2,
+1,1-Full incontinence of feces,1-R15.9,1-R15,
+1,1-Full incontinence of feces,1-R15.9,2-R15.9,
+1,"1-Hepatomegaly and splenomegaly, not elsewhere classified",1-R16,1-R10-R19,
+1,"1-Hepatomegaly and splenomegaly, not elsewhere classified",1-R16,2-R16,
+1,"1-Hepatomegaly, not elsewhere classified",1-R16.0,1-R16,
+1,"1-Hepatomegaly, not elsewhere classified",1-R16.0,2-R16.0,
+1,"1-Splenomegaly, not elsewhere classified",1-R16.1,1-R16,
+1,"1-Splenomegaly, not elsewhere classified",1-R16.1,2-R16.1,
+1,"1-Hepatomegaly with splenomegaly, not elsewhere classified",1-R16.2,1-R16,
+1,"1-Hepatomegaly with splenomegaly, not elsewhere classified",1-R16.2,2-R16.2,
+1,1-Unspecified jaundice,1-R17,1-R10-R19,
+1,1-Unspecified jaundice,1-R17,2-R17,
+1,1-Ascites,1-R18,1-R10-R19,
+1,1-Ascites,1-R18,2-R18,
+1,1-Malignant ascites,1-R18.0,1-R18,
+1,1-Malignant ascites,1-R18.0,2-R18.0,
+1,1-Other ascites,1-R18.8,1-R18,
+1,1-Other ascites,1-R18.8,2-R18.8,
+1,1-Other symptoms and signs involving the digestive system and abdomen,1-R19,1-R10-R19,
+1,1-Other symptoms and signs involving the digestive system and abdomen,1-R19,2-R19,
+1,"1-Intra-abdominal and pelvic swelling, mass and lump",1-R19.0,1-R19,
+1,"1-Intra-abdominal and pelvic swelling, mass and lump",1-R19.0,2-R19.0,
+1,"1-Intra-abdominal and pelvic swelling, mass and lump, unspecified site",1-R19.00,1-R19.0,
+1,"1-Intra-abdominal and pelvic swelling, mass and lump, unspecified site",1-R19.00,2-R19.00,
+1,"1-Right upper quadrant abdominal swelling, mass and lump",1-R19.01,1-R19.0,
+1,"1-Right upper quadrant abdominal swelling, mass and lump",1-R19.01,2-R19.01,
+1,"1-Left upper quadrant abdominal swelling, mass and lump",1-R19.02,1-R19.0,
+1,"1-Left upper quadrant abdominal swelling, mass and lump",1-R19.02,2-R19.02,
+1,"1-Right lower quadrant abdominal swelling, mass and lump",1-R19.03,1-R19.0,
+1,"1-Right lower quadrant abdominal swelling, mass and lump",1-R19.03,2-R19.03,
+1,"1-Left lower quadrant abdominal swelling, mass and lump",1-R19.04,1-R19.0,
+1,"1-Left lower quadrant abdominal swelling, mass and lump",1-R19.04,2-R19.04,
+1,"1-Periumbilic swelling, mass or lump",1-R19.05,1-R19.0,
+1,"1-Periumbilic swelling, mass or lump",1-R19.05,2-R19.05,
+1,"1-Epigastric swelling, mass or lump",1-R19.06,1-R19.0,
+1,"1-Epigastric swelling, mass or lump",1-R19.06,2-R19.06,
+1,"1-Generalized intra-abdominal and pelvic swelling, mass and lump",1-R19.07,1-R19.0,
+1,"1-Generalized intra-abdominal and pelvic swelling, mass and lump",1-R19.07,2-R19.07,
+1,"1-Other intra-abdominal and pelvic swelling, mass and lump",1-R19.09,1-R19.0,
+1,"1-Other intra-abdominal and pelvic swelling, mass and lump",1-R19.09,2-R19.09,
+1,1-Abnormal bowel sounds,1-R19.1,1-R19,
+1,1-Abnormal bowel sounds,1-R19.1,2-R19.1,
+1,1-Absent bowel sounds,1-R19.11,1-R19.1,
+1,1-Absent bowel sounds,1-R19.11,2-R19.11,
+1,1-Hyperactive bowel sounds,1-R19.12,1-R19.1,
+1,1-Hyperactive bowel sounds,1-R19.12,2-R19.12,
+1,1-Other abnormal bowel sounds,1-R19.15,1-R19.1,
+1,1-Other abnormal bowel sounds,1-R19.15,2-R19.15,
+1,1-Visible peristalsis,1-R19.2,1-R19,
+1,1-Visible peristalsis,1-R19.2,2-R19.2,
+1,1-Abdominal rigidity,1-R19.3,1-R19,
+1,1-Abdominal rigidity,1-R19.3,2-R19.3,
+1,"1-Abdominal rigidity, unspecified site",1-R19.30,1-R19.3,
+1,"1-Abdominal rigidity, unspecified site",1-R19.30,2-R19.30,
+1,1-Right upper quadrant abdominal rigidity,1-R19.31,1-R19.3,
+1,1-Right upper quadrant abdominal rigidity,1-R19.31,2-R19.31,
+1,1-Left upper quadrant abdominal rigidity,1-R19.32,1-R19.3,
+1,1-Left upper quadrant abdominal rigidity,1-R19.32,2-R19.32,
+1,1-Right lower quadrant abdominal rigidity,1-R19.33,1-R19.3,
+1,1-Right lower quadrant abdominal rigidity,1-R19.33,2-R19.33,
+1,1-Left lower quadrant abdominal rigidity,1-R19.34,1-R19.3,
+1,1-Left lower quadrant abdominal rigidity,1-R19.34,2-R19.34,
+1,1-Periumbilic abdominal rigidity,1-R19.35,1-R19.3,
+1,1-Periumbilic abdominal rigidity,1-R19.35,2-R19.35,
+1,1-Epigastric abdominal rigidity,1-R19.36,1-R19.3,
+1,1-Epigastric abdominal rigidity,1-R19.36,2-R19.36,
+1,1-Generalized abdominal rigidity,1-R19.37,1-R19.3,
+1,1-Generalized abdominal rigidity,1-R19.37,2-R19.37,
+1,1-Change in bowel habit,1-R19.4,1-R19,
+1,1-Change in bowel habit,1-R19.4,2-R19.4,
+1,1-Other fecal abnormalities,1-R19.5,1-R19,
+1,1-Other fecal abnormalities,1-R19.5,2-R19.5,
+1,1-Halitosis,1-R19.6,1-R19,
+1,1-Halitosis,1-R19.6,2-R19.6,
+1,"1-Diarrhea, unspecified",1-R19.7,1-R19,
+1,"1-Diarrhea, unspecified",1-R19.7,2-R19.7,
+1,1-Other specified symptoms and signs involving the digestive system and abdomen,1-R19.8,1-R19,
+1,1-Other specified symptoms and signs involving the digestive system and abdomen,1-R19.8,2-R19.8,
+1,1-Fever of other and unknown origin,1-R50,1-R50-R69,
+1,1-Fever of other and unknown origin,1-R50,2-R50,
+1,1-General symptoms and signs,1-R50-R69,1-R00-R99,TRUE
+1,1-General symptoms and signs,1-R50-R69,2-R50-R69,TRUE
+1,1-Drug induced fever,1-R50.2,1-R50,
+1,1-Drug induced fever,1-R50.2,2-R50.2,
+1,1-Other specified fever,1-R50.8,1-R50,
+1,1-Other specified fever,1-R50.8,2-R50.8,
+1,1-Fever presenting with conditions classified elsewhere,1-R50.81,1-R50.8,
+1,1-Fever presenting with conditions classified elsewhere,1-R50.81,2-R50.81,
+1,1-Postprocedural fever,1-R50.82,1-R50.8,
+1,1-Postprocedural fever,1-R50.82,2-R50.82,
+1,1-Postvaccination fever,1-R50.83,1-R50.8,
+1,1-Postvaccination fever,1-R50.83,2-R50.83,
+1,1-Febrile nonhemolytic transfusion reaction,1-R50.84,1-R50.8,
+1,1-Febrile nonhemolytic transfusion reaction,1-R50.84,2-R50.84,
+1,"1-Fever, unspecified",1-R50.9,1-R50,
+1,"1-Fever, unspecified",1-R50.9,2-R50.9,
+1,1-Headache,1-R51,1-R50-R69,
+1,1-Headache,1-R51,2-R51,
+1,"1-Headache with orthostatic component, not elsewhere classified",1-R51.0,1-R51,
+1,"1-Headache with orthostatic component, not elsewhere classified",1-R51.0,2-R51.0,
+1,"1-Headache, unspecified",1-R51.9,1-R51,
+1,"1-Headache, unspecified",1-R51.9,2-R51.9,
+1,"1-Pain, unspecified",1-R52,1-R50-R69,
+1,"1-Pain, unspecified",1-R52,2-R52,
+1,1-Malaise and fatigue,1-R53,1-R50-R69,
+1,1-Malaise and fatigue,1-R53,2-R53,
+1,1-Neoplastic (malignant) related fatigue,1-R53.0,1-R53,
+1,1-Neoplastic (malignant) related fatigue,1-R53.0,2-R53.0,
+1,1-Weakness,1-R53.1,1-R53,
+1,1-Weakness,1-R53.1,2-R53.1,
+1,1-Functional quadriplegia,1-R53.2,1-R53,
+1,1-Functional quadriplegia,1-R53.2,2-R53.2,
+1,1-Other malaise and fatigue,1-R53.8,1-R53,
+1,1-Other malaise and fatigue,1-R53.8,2-R53.8,
+1,1-Other malaise,1-R53.81,1-R53.8,
+1,1-Other malaise,1-R53.81,2-R53.81,
+1,"1-Chronic fatigue, unspecified",1-R53.82,1-R53.8,
+1,"1-Chronic fatigue, unspecified",1-R53.82,2-R53.82,
+1,1-Other fatigue,1-R53.83,1-R53.8,
+1,1-Other fatigue,1-R53.83,2-R53.83,
+1,1-Age-related physical debility,1-R54,1-R50-R69,
+1,1-Age-related physical debility,1-R54,2-R54,
+1,1-Syncope and collapse,1-R55,1-R50-R69,
+1,1-Syncope and collapse,1-R55,2-R55,
+1,"1-Convulsions, not elsewhere classified",1-R56,1-R50-R69,
+1,"1-Convulsions, not elsewhere classified",1-R56,2-R56,
+1,1-Febrile convulsions,1-R56.0,1-R56,
+1,1-Febrile convulsions,1-R56.0,2-R56.0,
+1,1-Simple febrile convulsions,1-R56.00,1-R56.0,
+1,1-Simple febrile convulsions,1-R56.00,2-R56.00,
+1,1-Complex febrile convulsions,1-R56.01,1-R56.0,
+1,1-Complex febrile convulsions,1-R56.01,2-R56.01,
+1,1-Post traumatic seizures,1-R56.1,1-R56,
+1,1-Post traumatic seizures,1-R56.1,2-R56.1,
+1,1-Unspecified convulsions,1-R56.9,1-R56,
+1,1-Unspecified convulsions,1-R56.9,2-R56.9,
+1,"1-Shock, not elsewhere classified",1-R57,1-R50-R69,
+1,"1-Shock, not elsewhere classified",1-R57,2-R57,
+1,1-Cardiogenic shock,1-R57.0,1-R57,
+1,1-Cardiogenic shock,1-R57.0,2-R57.0,
+1,1-Hypovolemic shock,1-R57.1,1-R57,
+1,1-Hypovolemic shock,1-R57.1,2-R57.1,
+1,1-Other shock,1-R57.8,1-R57,
+1,1-Other shock,1-R57.8,2-R57.8,
+1,"1-Shock, unspecified",1-R57.9,1-R57,
+1,"1-Shock, unspecified",1-R57.9,2-R57.9,
+1,"1-Hemorrhage, not elsewhere classified",1-R58,1-R50-R69,
+1,"1-Hemorrhage, not elsewhere classified",1-R58,2-R58,
+1,1-Enlarged lymph nodes,1-R59,1-R50-R69,
+1,1-Enlarged lymph nodes,1-R59,2-R59,
+1,1-Localized enlarged lymph nodes,1-R59.0,1-R59,
+1,1-Localized enlarged lymph nodes,1-R59.0,2-R59.0,
+1,1-Generalized enlarged lymph nodes,1-R59.1,1-R59,
+1,1-Generalized enlarged lymph nodes,1-R59.1,2-R59.1,
+1,"1-Enlarged lymph nodes, unspecified",1-R59.9,1-R59,
+1,"1-Enlarged lymph nodes, unspecified",1-R59.9,2-R59.9,
+1,"1-Edema, not elsewhere classified",1-R60,1-R50-R69,
+1,"1-Edema, not elsewhere classified",1-R60,2-R60,
+1,1-Localized edema,1-R60.0,1-R60,
+1,1-Localized edema,1-R60.0,2-R60.0,
+1,1-Generalized edema,1-R60.1,1-R60,
+1,1-Generalized edema,1-R60.1,2-R60.1,
+1,"1-Edema, unspecified",1-R60.9,1-R60,
+1,"1-Edema, unspecified",1-R60.9,2-R60.9,
+1,1-Generalized hyperhidrosis,1-R61,1-R50-R69,
+1,1-Generalized hyperhidrosis,1-R61,2-R61,
+1,1-Lack of expected normal physiological development in childhood and adults,1-R62,1-R50-R69,
+1,1-Lack of expected normal physiological development in childhood and adults,1-R62,2-R62,
+1,1-Delayed milestone in childhood,1-R62.0,1-R62,
+1,1-Delayed milestone in childhood,1-R62.0,2-R62.0,
+1,1-Other and unspecified lack of expected normal physiological development in childhood,1-R62.5,1-R62,
+1,1-Other and unspecified lack of expected normal physiological development in childhood,1-R62.5,2-R62.5,
+1,1-Unspecified lack of expected normal physiological development in childhood,1-R62.50,1-R62.5,
+1,1-Unspecified lack of expected normal physiological development in childhood,1-R62.50,2-R62.50,
+1,1-Failure to thrive (child),1-R62.51,1-R62.5,
+1,1-Failure to thrive (child),1-R62.51,2-R62.51,
+1,1-Short stature (child),1-R62.52,1-R62.5,
+1,1-Short stature (child),1-R62.52,2-R62.52,
+1,1-Other lack of expected normal physiological development in childhood,1-R62.59,1-R62.5,
+1,1-Other lack of expected normal physiological development in childhood,1-R62.59,2-R62.59,
+1,1-Adult failure to thrive,1-R62.7,1-R62,
+1,1-Adult failure to thrive,1-R62.7,2-R62.7,
+1,1-Symptoms and signs concerning food and fluid intake,1-R63,1-R50-R69,
+1,1-Symptoms and signs concerning food and fluid intake,1-R63,2-R63,
+1,1-Anorexia,1-R63.0,1-R63,
+1,1-Anorexia,1-R63.0,2-R63.0,
+1,1-Polydipsia,1-R63.1,1-R63,
+1,1-Polydipsia,1-R63.1,2-R63.1,
+1,1-Polyphagia,1-R63.2,1-R63,
+1,1-Polyphagia,1-R63.2,2-R63.2,
+1,1-Feeding difficulties,1-R63.3,1-R63,
+1,1-Feeding difficulties,1-R63.3,2-R63.3,
+1,"1-Feeding difficulties, unspecified",1-R63.30,1-R63.3,
+1,"1-Feeding difficulties, unspecified",1-R63.30,2-R63.30,
+1,"1-Pediatric feeding disorder, acute",1-R63.31,1-R63.3,
+1,"1-Pediatric feeding disorder, acute",1-R63.31,2-R63.31,
+1,"1-Pediatric feeding disorder, chronic",1-R63.32,1-R63.3,
+1,"1-Pediatric feeding disorder, chronic",1-R63.32,2-R63.32,
+1,1-Other feeding difficulties,1-R63.39,1-R63.3,
+1,1-Other feeding difficulties,1-R63.39,2-R63.39,
+1,1-Abnormal weight loss,1-R63.4,1-R63,
+1,1-Abnormal weight loss,1-R63.4,2-R63.4,
+1,1-Abnormal weight gain,1-R63.5,1-R63,
+1,1-Abnormal weight gain,1-R63.5,2-R63.5,
+1,1-Underweight,1-R63.6,1-R63,
+1,1-Underweight,1-R63.6,2-R63.6,
+1,1-Other symptoms and signs concerning food and fluid intake,1-R63.8,1-R63,
+1,1-Other symptoms and signs concerning food and fluid intake,1-R63.8,2-R63.8,
+1,1-Cachexia,1-R64,1-R50-R69,
+1,1-Cachexia,1-R64,2-R64,
+1,1-Symptoms and signs specifically associated with systemic inflammation and infection,1-R65,1-R50-R69,
+1,1-Symptoms and signs specifically associated with systemic inflammation and infection,1-R65,2-R65,
+1,1-Systemic inflammatory response syndrome (SIRS) of non-infectious origin,1-R65.1,1-R65,
+1,1-Systemic inflammatory response syndrome (SIRS) of non-infectious origin,1-R65.1,2-R65.1,
+1,1-Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction,1-R65.10,1-R65.1,
+1,1-Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction,1-R65.10,2-R65.10,
+1,1-Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction,1-R65.11,1-R65.1,
+1,1-Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction,1-R65.11,2-R65.11,
+1,1-Severe sepsis,1-R65.2,1-R65,
+1,1-Severe sepsis,1-R65.2,2-R65.2,
+1,1-Severe sepsis without septic shock,1-R65.20,1-R65.2,
+1,1-Severe sepsis without septic shock,1-R65.20,2-R65.20,
+1,1-Severe sepsis with septic shock,1-R65.21,1-R65.2,
+1,1-Severe sepsis with septic shock,1-R65.21,2-R65.21,
+1,1-Other general symptoms and signs,1-R68,1-R50-R69,
+1,1-Other general symptoms and signs,1-R68,2-R68,
+1,"1-Hypothermia, not associated with low environmental temperature",1-R68.0,1-R68,
+1,"1-Hypothermia, not associated with low environmental temperature",1-R68.0,2-R68.0,
+1,1-Nonspecific symptoms peculiar to infancy,1-R68.1,1-R68,
+1,1-Nonspecific symptoms peculiar to infancy,1-R68.1,2-R68.1,
+1,1-Excessive crying of infant (baby),1-R68.11,1-R68.1,
+1,1-Excessive crying of infant (baby),1-R68.11,2-R68.11,
+1,1-Fussy infant (baby),1-R68.12,1-R68.1,
+1,1-Fussy infant (baby),1-R68.12,2-R68.12,
+1,1-Apparent life threatening event in infant (ALTE),1-R68.13,1-R68.1,
+1,1-Apparent life threatening event in infant (ALTE),1-R68.13,2-R68.13,
+1,1-Other nonspecific symptoms peculiar to infancy,1-R68.19,1-R68.1,
+1,1-Other nonspecific symptoms peculiar to infancy,1-R68.19,2-R68.19,
+1,"1-Dry mouth, unspecified",1-R68.2,1-R68,
+1,"1-Dry mouth, unspecified",1-R68.2,2-R68.2,
+1,1-Clubbing of fingers,1-R68.3,1-R68,
+1,1-Clubbing of fingers,1-R68.3,2-R68.3,
+1,1-Other general symptoms and signs,1-R68.8,1-R68,
+1,1-Other general symptoms and signs,1-R68.8,2-R68.8,
+1,1-Early satiety,1-R68.81,1-R68.8,
+1,1-Early satiety,1-R68.81,2-R68.81,
+1,1-Decreased libido,1-R68.82,1-R68.8,
+1,1-Decreased libido,1-R68.82,2-R68.82,
+1,1-Chills (without fever),1-R68.83,1-R68.8,
+1,1-Chills (without fever),1-R68.83,2-R68.83,
+1,1-Jaw pain,1-R68.84,1-R68.8,
+1,1-Jaw pain,1-R68.84,2-R68.84,
+1,1-Other general symptoms and signs,1-R68.89,1-R68.8,
+1,1-Other general symptoms and signs,1-R68.89,2-R68.89,
+1,"1-Illness, unspecified",1-R69,1-R50-R69,
+1,"1-Illness, unspecified",1-R69,2-R69,
+1,1-ICD-10 Root,1-Root,2-Root,
+1,,1-Vibrio vulnificus,1-dummy2,
+1,,1-Vibrio vulnificus,2-Vibrio vulnificus,
+1,,1-dummy1,1-Root,
+1,,1-dummy1,2-dummy1,
+1,,1-dummy2,1-dummy1,TRUE
+1,,1-dummy2,2-dummy2,TRUE
+1,2-Cholera,2-A00,2-A00-A09,
+1,2-Intestinal infectious diseases,2-A00-A09,2-A00-B99,
+1,2-Certain infectious and parasitic diseases,2-A00-B99,2-Root,
+1,"2-Cholera due to Vibrio cholerae 01, biovar cholerae",2-A00.0,2-A00,
+1,"2-Cholera due to Vibrio cholerae 01, biovar eltor",2-A00.1,2-A00,
+1,"2-Cholera, unspecified",2-A00.9,2-A00,
+1,2-Typhoid and paratyphoid fevers,2-A01,2-A00-A09,
+1,2-Typhoid fever,2-A01.0,2-A01,
+1,"2-Typhoid fever, unspecified",2-A01.00,2-A01.0,
+1,2-Typhoid meningitis,2-A01.01,2-A01.0,
+1,2-Typhoid fever with heart involvement,2-A01.02,2-A01.0,
+1,2-Typhoid pneumonia,2-A01.03,2-A01.0,
+1,2-Typhoid arthritis,2-A01.04,2-A01.0,
+1,2-Typhoid osteomyelitis,2-A01.05,2-A01.0,
+1,2-Typhoid fever with other complications,2-A01.09,2-A01.0,
+1,2-Paratyphoid fever A,2-A01.1,2-A01,
+1,2-Paratyphoid fever B,2-A01.2,2-A01,
+1,2-Paratyphoid fever C,2-A01.3,2-A01,
+1,"2-Paratyphoid fever, unspecified",2-A01.4,2-A01,
+1,2-Other salmonella infections,2-A02,2-A00-A09,
+1,2-Salmonella enteritis,2-A02.0,2-A02,
+1,2-Salmonella sepsis,2-A02.1,2-A02,
+1,2-Localized salmonella infections,2-A02.2,2-A02,
+1,"2-Localized salmonella infection, unspecified",2-A02.20,2-A02.2,
+1,2-Salmonella meningitis,2-A02.21,2-A02.2,
+1,2-Salmonella pneumonia,2-A02.22,2-A02.2,
+1,2-Salmonella arthritis,2-A02.23,2-A02.2,
+1,2-Salmonella osteomyelitis,2-A02.24,2-A02.2,
+1,2-Salmonella pyelonephritis,2-A02.25,2-A02.2,
+1,2-Salmonella with other localized infection,2-A02.29,2-A02.2,
+1,2-Other specified salmonella infections,2-A02.8,2-A02,
+1,"2-Salmonella infection, unspecified",2-A02.9,2-A02,
+1,2-Shigellosis,2-A03,2-A00-A09,
+1,2-Shigellosis due to Shigella dysenteriae,2-A03.0,2-A03,
+1,2-Shigellosis due to Shigella flexneri,2-A03.1,2-A03,
+1,2-Shigellosis due to Shigella boydii,2-A03.2,2-A03,
+1,2-Shigellosis due to Shigella sonnei,2-A03.3,2-A03,
+1,2-Other shigellosis,2-A03.8,2-A03,
+1,"2-Shigellosis, unspecified",2-A03.9,2-A03,
+1,2-Other bacterial intestinal infections,2-A04,2-A00-A09,
+1,2-Enteropathogenic Escherichia coli infection,2-A04.0,2-A04,
+1,2-Enteropathogenic Escherichia coli infection,2-A04.0,2-Escherichia coli,
+1,2-Enterotoxigenic Escherichia coli infection,2-A04.1,2-A04,
+1,2-Enterotoxigenic Escherichia coli infection,2-A04.1,2-Escherichia coli,
+1,2-Enteroinvasive Escherichia coli infection,2-A04.2,2-A04,
+1,2-Enteroinvasive Escherichia coli infection,2-A04.2,2-Escherichia coli,
+1,2-Enterohemorrhagic Escherichia coli infection,2-A04.3,2-A04,
+1,2-Enterohemorrhagic Escherichia coli infection,2-A04.3,2-Escherichia coli,
+1,2-Other intestinal Escherichia coli infections,2-A04.4,2-A04,
+1,2-Other intestinal Escherichia coli infections,2-A04.4,2-Escherichia coli,
+1,2-Campylobacter enteritis,2-A04.5,2-A04,
+1,2-Enteritis due to Yersinia enterocolitica,2-A04.6,2-A04,
+1,2-Enterocolitis due to Clostridium difficile,2-A04.7,2-A04,
+1,"2-Enterocolitis due to Clostridium difficile, recurrent",2-A04.71,2-A04.7,
+1,"2-Enterocolitis due to Clostridium difficile, not specified as recurrent",2-A04.72,2-A04.7,
+1,2-Other specified bacterial intestinal infections,2-A04.8,2-A04,
+1,"2-Bacterial intestinal infection, unspecified",2-A04.9,2-A04,
+1,"2-Other bacterial foodborne intoxications, not elsewhere classified",2-A05,2-A00-A09,
+1,2-Foodborne staphylococcal intoxication,2-A05.0,2-A05,
+1,2-Botulism food poisoning,2-A05.1,2-A05,
+1,2-Foodborne Clostridium perfringens [Clostridium welchii] intoxication,2-A05.2,2-A05,
+1,2-Foodborne Clostridium perfringens [Clostridium welchii] intoxication,2-A05.2,2-Clostridium perfringens,
+1,2-Foodborne Vibrio parahaemolyticus intoxication,2-A05.3,2-A05,
+1,2-Foodborne Bacillus cereus intoxication,2-A05.4,2-A05,
+1,2-Foodborne Vibrio vulnificus intoxication,2-A05.5,2-A05,
+1,2-Foodborne Vibrio vulnificus intoxication,2-A05.5,2-Vibrio vulnificus,
+1,2-Other specified bacterial foodborne intoxications,2-A05.8,2-A05,
+1,"2-Bacterial foodborne intoxication, unspecified",2-A05.9,2-A05,
+1,2-Amebiasis,2-A06,2-A00-A09,
+1,2-Acute amebic dysentery,2-A06.0,2-A06,
+1,2-Chronic intestinal amebiasis,2-A06.1,2-A06,
+1,2-Amebic nondysenteric colitis,2-A06.2,2-A06,
+1,2-Ameboma of intestine,2-A06.3,2-A06,
+1,2-Amebic liver abscess,2-A06.4,2-A06,
+1,2-Amebic lung abscess,2-A06.5,2-A06,
+1,2-Amebic brain abscess,2-A06.6,2-A06,
+1,2-Cutaneous amebiasis,2-A06.7,2-A06,
+1,2-Amebic infection of other sites,2-A06.8,2-A06,
+1,2-Amebic cystitis,2-A06.81,2-A06.8,
+1,2-Other amebic genitourinary infections,2-A06.82,2-A06.8,
+1,2-Other amebic infections,2-A06.89,2-A06.8,
+1,"2-Amebiasis, unspecified",2-A06.9,2-A06,
+1,2-Other protozoal intestinal diseases,2-A07,2-A00-A09,
+1,2-Balantidiasis,2-A07.0,2-A07,
+1,2-Giardiasis [lambliasis],2-A07.1,2-A07,
+1,2-Cryptosporidiosis,2-A07.2,2-A07,
+1,2-Isosporiasis,2-A07.3,2-A07,
+1,2-Cyclosporiasis,2-A07.4,2-A07,
+1,2-Other specified protozoal intestinal diseases,2-A07.8,2-A07,
+1,"2-Protozoal intestinal disease, unspecified",2-A07.9,2-A07,
+1,2-Viral and other specified intestinal infections,2-A08,2-A00-A09,
+1,2-Rotaviral enteritis,2-A08.0,2-A08,
+1,2-Acute gastroenteropathy due to Norwalk agent and other small round viruses,2-A08.1,2-A08,
+1,2-Acute gastroenteropathy due to Norwalk agent,2-A08.11,2-A08.1,
+1,2-Acute gastroenteropathy due to other small round viruses,2-A08.19,2-A08.1,
+1,2-Adenoviral enteritis,2-A08.2,2-A08,
+1,2-Other viral enteritis,2-A08.3,2-A08,
+1,2-Calicivirus enteritis,2-A08.31,2-A08.3,
+1,2-Astrovirus enteritis,2-A08.32,2-A08.3,
+1,2-Other viral enteritis,2-A08.39,2-A08.3,
+1,"2-Viral intestinal infection, unspecified",2-A08.4,2-A08,
+1,2-Other specified intestinal infections,2-A08.8,2-A08,
+1,"2-Infectious gastroenteritis and colitis, unspecified",2-A09,2-A00-A09,
+1,,2-Clostridium perfringens,2-dummy2,
+1,,2-Escherichia coli,2-dummy2,
+1,2-Acute nasopharyngitis [common cold],2-J00,2-J00-J06,
+1,2-Acute upper respiratory infections,2-J00-J06,2-J00-J99,
+1,2-Diseases of the respiratory system,2-J00-J99,2-Root,
+1,2-Acute sinusitis,2-J01,2-J00-J06,
+1,2-Acute maxillary sinusitis,2-J01.0,2-J01,
+1,"2-Acute maxillary sinusitis, unspecified",2-J01.00,2-J01.0,
+1,2-Acute recurrent maxillary sinusitis,2-J01.01,2-J01.0,
+1,2-Acute frontal sinusitis,2-J01.1,2-J01,
+1,"2-Acute frontal sinusitis, unspecified",2-J01.10,2-J01.1,
+1,2-Acute recurrent frontal sinusitis,2-J01.11,2-J01.1,
+1,2-Acute ethmoidal sinusitis,2-J01.2,2-J01,
+1,"2-Acute ethmoidal sinusitis, unspecified",2-J01.20,2-J01.2,
+1,2-Acute recurrent ethmoidal sinusitis,2-J01.21,2-J01.2,
+1,2-Acute sphenoidal sinusitis,2-J01.3,2-J01,
+1,"2-Acute sphenoidal sinusitis, unspecified",2-J01.30,2-J01.3,
+1,2-Acute recurrent sphenoidal sinusitis,2-J01.31,2-J01.3,
+1,2-Acute pansinusitis,2-J01.4,2-J01,
+1,"2-Acute pansinusitis, unspecified",2-J01.40,2-J01.4,
+1,2-Acute recurrent pansinusitis,2-J01.41,2-J01.4,
+1,2-Other acute sinusitis,2-J01.8,2-J01,
+1,2-Other acute sinusitis,2-J01.80,2-J01.8,
+1,2-Other acute recurrent sinusitis,2-J01.81,2-J01.8,
+1,"2-Acute sinusitis, unspecified",2-J01.9,2-J01,
+1,"2-Acute sinusitis, unspecified",2-J01.90,2-J01.9,
+1,"2-Acute recurrent sinusitis, unspecified",2-J01.91,2-J01.9,
+1,2-Acute pharyngitis,2-J02,2-J00-J06,
+1,2-Streptococcal pharyngitis,2-J02.0,2-J02,
+1,2-Streptococcal pharyngitis,2-J02.0,2-Other streptococcus,
+1,2-Acute pharyngitis due to other specified organisms,2-J02.8,2-J02,
+1,"2-Acute pharyngitis, unspecified",2-J02.9,2-J02,
+1,2-Acute tonsillitis,2-J03,2-J00-J06,
+1,2-Streptococcal tonsillitis,2-J03.0,2-J03,
+1,2-Streptococcal tonsillitis,2-J03.0,2-Other streptococcus,
+1,"2-Acute streptococcal tonsillitis, unspecified",2-J03.00,2-J03.0,
+1,2-Acute recurrent streptococcal tonsillitis,2-J03.01,2-J03.0,
+1,2-Acute tonsillitis due to other specified organisms,2-J03.8,2-J03,
+1,2-Acute tonsillitis due to other specified organisms,2-J03.80,2-J03.8,
+1,2-Acute recurrent tonsillitis due to other specified organisms,2-J03.81,2-J03.8,
+1,"2-Acute tonsillitis, unspecified",2-J03.9,2-J03,
+1,"2-Acute tonsillitis, unspecified",2-J03.90,2-J03.9,
+1,"2-Acute recurrent tonsillitis, unspecified",2-J03.91,2-J03.9,
+1,2-Acute laryngitis and tracheitis,2-J04,2-J00-J06,
+1,2-Acute laryngitis,2-J04.0,2-J04,
+1,2-Acute tracheitis,2-J04.1,2-J04,
+1,2-Acute tracheitis without obstruction,2-J04.10,2-J04.1,
+1,2-Acute tracheitis with obstruction,2-J04.11,2-J04.1,
+1,2-Acute laryngotracheitis,2-J04.2,2-J04,
+1,"2-Supraglottitis, unspecified",2-J04.3,2-J04,
+1,"2-Supraglottitis, unspecified, without obstruction",2-J04.30,2-J04.3,
+1,"2-Supraglottitis, unspecified, with obstruction",2-J04.31,2-J04.3,
+1,2-Acute obstructive laryngitis [croup] and epiglottitis,2-J05,2-J00-J06,
+1,2-Acute obstructive laryngitis [croup],2-J05.0,2-J05,
+1,2-Acute epiglottitis,2-J05.1,2-J05,
+1,2-Acute epiglottitis without obstruction,2-J05.10,2-J05.1,
+1,2-Acute epiglottitis with obstruction,2-J05.11,2-J05.1,
+1,2-Acute upper respiratory infections of multiple and unspecified sites,2-J06,2-J00-J06,
+1,2-Acute laryngopharyngitis,2-J06.0,2-J06,
+1,"2-Acute upper respiratory infection, unspecified",2-J06.9,2-J06,
+1,,2-Other streptococcus,2-dummy2,
+1,"2-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",2-R00-R99,2-Root,
+1,2-Abdominal and pelvic pain,2-R10,2-R10-R19,
+1,2-Symptoms and signs involving the digestive system and abdomen,2-R10-R19,2-R00-R99,
+1,2-Acute abdomen,2-R10.0,2-R10,
+1,2-Pain localized to upper abdomen,2-R10.1,2-R10,
+1,"2-Upper abdominal pain, unspecified",2-R10.10,2-R10.1,
+1,2-Right upper quadrant pain,2-R10.11,2-R10.1,
+1,2-Left upper quadrant pain,2-R10.12,2-R10.1,
+1,2-Epigastric pain,2-R10.13,2-R10.1,
+1,2-Pelvic and perineal pain,2-R10.2,2-R10,
+1,2-Pelvic and perineal pain unspecified side,2-R10.20,2-R10.2,TRUE
+1,2-Pelvic and perineal pain right side,2-R10.21,2-R10.2,TRUE
+1,2-Pelvic and perineal pain left side,2-R10.22,2-R10.2,TRUE
+1,2-Pelvic and perineal pain bilateral,2-R10.23,2-R10.2,TRUE
+1,2-Suprapubic pain,2-R10.24,2-R10.2,TRUE
+1,2-Pain localized to other parts of lower abdomen,2-R10.3,2-R10,
+1,"2-Lower abdominal pain, unspecified",2-R10.30,2-R10.3,
+1,2-Right lower quadrant pain,2-R10.31,2-R10.3,
+1,2-Left lower quadrant pain,2-R10.32,2-R10.3,
+1,2-Periumbilical pain,2-R10.33,2-R10.3,
+1,2-Other abdominal pain,2-R10.8,2-R10,
+1,2-Abdominal tenderness,2-R10.81,2-R10.8,
+1,2-Right upper quadrant abdominal tenderness,2-R10.811,2-R10.81,
+1,2-Left upper quadrant abdominal tenderness,2-R10.812,2-R10.81,
+1,2-Right lower quadrant abdominal tenderness,2-R10.813,2-R10.81,
+1,2-Left lower quadrant abdominal tenderness,2-R10.814,2-R10.81,
+1,2-Periumbilic abdominal tenderness,2-R10.815,2-R10.81,
+1,2-Epigastric abdominal tenderness,2-R10.816,2-R10.81,
+1,2-Generalized abdominal tenderness,2-R10.817,2-R10.81,
+1,"2-Abdominal tenderness, unspecified site",2-R10.819,2-R10.81,
+1,2-Rebound abdominal tenderness,2-R10.82,2-R10.8,
+1,2-Right upper quadrant rebound abdominal tenderness,2-R10.821,2-R10.82,
+1,2-Left upper quadrant rebound abdominal tenderness,2-R10.822,2-R10.82,
+1,2-Right lower quadrant rebound abdominal tenderness,2-R10.823,2-R10.82,
+1,2-Left lower quadrant rebound abdominal tenderness,2-R10.824,2-R10.82,
+1,2-Periumbilic rebound abdominal tenderness,2-R10.825,2-R10.82,
+1,2-Epigastric rebound abdominal tenderness,2-R10.826,2-R10.82,
+1,2-Generalized rebound abdominal tenderness,2-R10.827,2-R10.82,
+1,"2-Rebound abdominal tenderness, unspecified site",2-R10.829,2-R10.82,
+1,2-Colic,2-R10.83,2-R10.8,
+1,2-Generalized abdominal pain,2-R10.84,2-R10.8,
+1,2-Abdominal pain of multiple sites,2-R10.85,2-R10.8,
+1,2-Flank tenderness,2-R10.8A,2-R10.8,
+1,2-Right flank tenderness,2-R10.8A1,2-R10.8A,
+1,2-Left flank tenderness,2-R10.8A2,2-R10.8A,
+1,2-Suprapubic tenderness,2-R10.8A3,2-R10.8A,
+1,"2-Flank tenderness, unspecified",2-R10.8A9,2-R10.8A,
+1,2-Unspecified abdominal pain,2-R10.9,2-R10,
+1,2-Pain localized to flank,2-R10.A,2-R10,
+1,"2-Flank pain, unspecified side",2-R10.A0,2-R10.A,TRUE
+1,"2-Flank pain, right side",2-R10.A1,2-R10.A,TRUE
+1,"2-Flank pain, left side",2-R10.A2,2-R10.A,TRUE
+1,"2-Flank pain, bilateral",2-R10.A3,2-R10.A,TRUE
+1,2-Nausea and vomiting,2-R11,2-R10-R19,
+1,2-Nausea,2-R11.0,2-R11,
+1,2-Vomiting,2-R11.1,2-R11,
+1,"2-Vomiting, unspecified",2-R11.10,2-R11.1,
+1,2-Vomiting without nausea,2-R11.11,2-R11.1,
+1,2-Projectile vomiting,2-R11.12,2-R11.1,
+1,2-Vomiting of fecal matter,2-R11.13,2-R11.1,
+1,2-Bilious vomiting,2-R11.14,2-R11.1,
+1,2-Cyclical vomiting syndrome unrelated to migraine,2-R11.15,2-R11.1,
+1,2-Cannabis hyperemesis syndrome,2-R11.16,2-R11.1,
+1,"2-Nausea with vomiting, unspecified",2-R11.2,2-R11,
+1,2-Heartburn,2-R12,2-R10-R19,
+1,2-Aphagia and dysphagia,2-R13,2-R10-R19,
+1,2-Aphagia,2-R13.0,2-R13,
+1,2-Dysphagia,2-R13.1,2-R13,
+1,"2-Dysphagia, unspecified",2-R13.10,2-R13.1,
+1,"2-Dysphagia, oral phase",2-R13.11,2-R13.1,
+1,"2-Dysphagia, oropharyngeal phase",2-R13.12,2-R13.1,
+1,"2-Dysphagia, pharyngeal phase",2-R13.13,2-R13.1,
+1,"2-Dysphagia, pharyngoesophageal phase",2-R13.14,2-R13.1,
+1,2-Other dysphagia,2-R13.19,2-R13.1,
+1,2-Flatulence and related conditions,2-R14,2-R10-R19,
+1,2-Abdominal distension (gaseous),2-R14.0,2-R14,
+1,2-Gas pain,2-R14.1,2-R14,
+1,2-Eructation,2-R14.2,2-R14,
+1,2-Flatulence,2-R14.3,2-R14,
+1,2-Fecal incontinence,2-R15,2-R10-R19,
+1,2-Incomplete defecation,2-R15.0,2-R15,
+1,2-Fecal smearing,2-R15.1,2-R15,
+1,2-Fecal urgency,2-R15.2,2-R15,
+1,2-Full incontinence of feces,2-R15.9,2-R15,
+1,"2-Hepatomegaly and splenomegaly, not elsewhere classified",2-R16,2-R10-R19,
+1,"2-Hepatomegaly, not elsewhere classified",2-R16.0,2-R16,
+1,"2-Splenomegaly, not elsewhere classified",2-R16.1,2-R16,
+1,"2-Hepatomegaly with splenomegaly, not elsewhere classified",2-R16.2,2-R16,
+1,2-Unspecified jaundice,2-R17,2-R10-R19,
+1,2-Ascites,2-R18,2-R10-R19,
+1,2-Malignant ascites,2-R18.0,2-R18,
+1,2-Other ascites,2-R18.8,2-R18,
+1,2-Other symptoms and signs involving the digestive system and abdomen,2-R19,2-R10-R19,
+1,"2-Intra-abdominal and pelvic swelling, mass and lump",2-R19.0,2-R19,
+1,"2-Intra-abdominal and pelvic swelling, mass and lump, unspecified site",2-R19.00,2-R19.0,
+1,"2-Right upper quadrant abdominal swelling, mass and lump",2-R19.01,2-R19.0,
+1,"2-Left upper quadrant abdominal swelling, mass and lump",2-R19.02,2-R19.0,
+1,"2-Right lower quadrant abdominal swelling, mass and lump",2-R19.03,2-R19.0,
+1,"2-Left lower quadrant abdominal swelling, mass and lump",2-R19.04,2-R19.0,
+1,"2-Periumbilic swelling, mass or lump",2-R19.05,2-R19.0,
+1,"2-Epigastric swelling, mass or lump",2-R19.06,2-R19.0,
+1,"2-Generalized intra-abdominal and pelvic swelling, mass and lump",2-R19.07,2-R19.0,
+1,"2-Other intra-abdominal and pelvic swelling, mass and lump",2-R19.09,2-R19.0,
+1,2-Abnormal bowel sounds,2-R19.1,2-R19,
+1,2-Absent bowel sounds,2-R19.11,2-R19.1,
+1,2-Hyperactive bowel sounds,2-R19.12,2-R19.1,
+1,2-Other abnormal bowel sounds,2-R19.15,2-R19.1,
+1,2-Visible peristalsis,2-R19.2,2-R19,
+1,2-Abdominal rigidity,2-R19.3,2-R19,
+1,"2-Abdominal rigidity, unspecified site",2-R19.30,2-R19.3,
+1,2-Right upper quadrant abdominal rigidity,2-R19.31,2-R19.3,
+1,2-Left upper quadrant abdominal rigidity,2-R19.32,2-R19.3,
+1,2-Right lower quadrant abdominal rigidity,2-R19.33,2-R19.3,
+1,2-Left lower quadrant abdominal rigidity,2-R19.34,2-R19.3,
+1,2-Periumbilic abdominal rigidity,2-R19.35,2-R19.3,
+1,2-Epigastric abdominal rigidity,2-R19.36,2-R19.3,
+1,2-Generalized abdominal rigidity,2-R19.37,2-R19.3,
+1,2-Change in bowel habit,2-R19.4,2-R19,
+1,2-Other fecal abnormalities,2-R19.5,2-R19,
+1,2-Halitosis,2-R19.6,2-R19,
+1,"2-Diarrhea, unspecified",2-R19.7,2-R19,
+1,2-Other specified symptoms and signs involving the digestive system and abdomen,2-R19.8,2-R19,
+1,2-Fever of other and unknown origin,2-R50,2-R50-R69,
+1,2-General symptoms and signs,2-R50-R69,2-R00-R99,
+1,2-Drug induced fever,2-R50.2,2-R50,
+1,2-Other specified fever,2-R50.8,2-R50,
+1,2-Fever presenting with conditions classified elsewhere,2-R50.81,2-R50.8,
+1,2-Postprocedural fever,2-R50.82,2-R50.8,
+1,2-Postvaccination fever,2-R50.83,2-R50.8,
+1,2-Febrile nonhemolytic transfusion reaction,2-R50.84,2-R50.8,
+1,"2-Fever, unspecified",2-R50.9,2-R50,
+1,2-Headache,2-R51,2-R50-R69,
+1,"2-Headache with orthostatic component, not elsewhere classified",2-R51.0,2-R51,
+1,"2-Headache, unspecified",2-R51.9,2-R51,
+1,"2-Pain, unspecified",2-R52,2-R50-R69,
+1,2-Malaise and fatigue,2-R53,2-R50-R69,
+1,2-Neoplastic (malignant) related fatigue,2-R53.0,2-R53,
+1,2-Weakness,2-R53.1,2-R53,
+1,2-Functional quadriplegia,2-R53.2,2-R53,
+1,2-Other malaise and fatigue,2-R53.8,2-R53,
+1,2-Other malaise,2-R53.81,2-R53.8,
+1,"2-Chronic fatigue, unspecified",2-R53.82,2-R53.8,
+1,2-Other fatigue,2-R53.83,2-R53.8,
+1,2-Age-related physical debility,2-R54,2-R50-R69,
+1,2-Syncope and collapse,2-R55,2-R50-R69,
+1,"2-Convulsions, not elsewhere classified",2-R56,2-R50-R69,
+1,2-Febrile convulsions,2-R56.0,2-R56,
+1,2-Simple febrile convulsions,2-R56.00,2-R56.0,
+1,2-Complex febrile convulsions,2-R56.01,2-R56.0,
+1,2-Post traumatic seizures,2-R56.1,2-R56,
+1,2-Unspecified convulsions,2-R56.9,2-R56,
+1,"2-Shock, not elsewhere classified",2-R57,2-R50-R69,
+1,2-Cardiogenic shock,2-R57.0,2-R57,
+1,2-Hypovolemic shock,2-R57.1,2-R57,
+1,2-Other shock,2-R57.8,2-R57,
+1,"2-Shock, unspecified",2-R57.9,2-R57,
+1,"2-Hemorrhage, not elsewhere classified",2-R58,2-R50-R69,
+1,2-Enlarged lymph nodes,2-R59,2-R50-R69,
+1,2-Localized enlarged lymph nodes,2-R59.0,2-R59,
+1,2-Generalized enlarged lymph nodes,2-R59.1,2-R59,
+1,"2-Enlarged lymph nodes, unspecified",2-R59.9,2-R59,
+1,"2-Edema, not elsewhere classified",2-R60,2-R50-R69,
+1,2-Localized edema,2-R60.0,2-R60,
+1,2-Generalized edema,2-R60.1,2-R60,
+1,"2-Edema, unspecified",2-R60.9,2-R60,
+1,2-Generalized hyperhidrosis,2-R61,2-R50-R69,
+1,2-Lack of expected normal physiological development in childhood and adults,2-R62,2-R50-R69,
+1,2-Delayed milestone in childhood,2-R62.0,2-R62,
+1,2-Other and unspecified lack of expected normal physiological development in childhood,2-R62.5,2-R62,
+1,2-Unspecified lack of expected normal physiological development in childhood,2-R62.50,2-R62.5,
+1,2-Failure to thrive (child),2-R62.51,2-R62.5,
+1,2-Short stature (child),2-R62.52,2-R62.5,
+1,2-Other lack of expected normal physiological development in childhood,2-R62.59,2-R62.5,
+1,2-Adult failure to thrive,2-R62.7,2-R62,
+1,2-Symptoms and signs concerning food and fluid intake,2-R63,2-R50-R69,
+1,2-Anorexia,2-R63.0,2-R63,
+1,2-Polydipsia,2-R63.1,2-R63,
+1,2-Polyphagia,2-R63.2,2-R63,
+1,2-Feeding difficulties,2-R63.3,2-R63,
+1,"2-Feeding difficulties, unspecified",2-R63.30,2-R63.3,
+1,"2-Pediatric feeding disorder, acute",2-R63.31,2-R63.3,
+1,"2-Pediatric feeding disorder, chronic",2-R63.32,2-R63.3,
+1,2-Other feeding difficulties,2-R63.39,2-R63.3,
+1,2-Abnormal weight loss,2-R63.4,2-R63,
+1,2-Abnormal weight gain,2-R63.5,2-R63,
+1,2-Underweight,2-R63.6,2-R63,
+1,2-Other symptoms and signs concerning food and fluid intake,2-R63.8,2-R63,
+1,2-Cachexia,2-R64,2-R50-R69,
+1,2-Symptoms and signs specifically associated with systemic inflammation and infection,2-R65,2-R50-R69,
+1,2-Systemic inflammatory response syndrome (SIRS) of non-infectious origin,2-R65.1,2-R65,
+1,2-Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction,2-R65.10,2-R65.1,
+1,2-Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction,2-R65.11,2-R65.1,
+1,2-Severe sepsis,2-R65.2,2-R65,
+1,2-Severe sepsis without septic shock,2-R65.20,2-R65.2,
+1,2-Severe sepsis with septic shock,2-R65.21,2-R65.2,
+1,2-Other general symptoms and signs,2-R68,2-R50-R69,
+1,"2-Hypothermia, not associated with low environmental temperature",2-R68.0,2-R68,
+1,2-Nonspecific symptoms peculiar to infancy,2-R68.1,2-R68,
+1,2-Excessive crying of infant (baby),2-R68.11,2-R68.1,
+1,2-Fussy infant (baby),2-R68.12,2-R68.1,
+1,2-Apparent life threatening event in infant (ALTE),2-R68.13,2-R68.1,
+1,2-Other nonspecific symptoms peculiar to infancy,2-R68.19,2-R68.1,
+1,"2-Dry mouth, unspecified",2-R68.2,2-R68,
+1,2-Clubbing of fingers,2-R68.3,2-R68,
+1,2-Other general symptoms and signs,2-R68.8,2-R68,
+1,2-Early satiety,2-R68.81,2-R68.8,
+1,2-Decreased libido,2-R68.82,2-R68.8,
+1,2-Chills (without fever),2-R68.83,2-R68.8,
+1,2-Jaw pain,2-R68.84,2-R68.8,
+1,2-Other general symptoms and signs,2-R68.89,2-R68.8,
+1,"2-Illness, unspecified",2-R69,2-R50-R69,
+1,2-ICD-10 Root,2-Root,,
+1,,2-Vibrio vulnificus,2-dummy2,
+1,,2-dummy1,2-Root,
+1,,2-dummy2,2-dummy1,

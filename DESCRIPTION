@@ -1,0 +1,23 @@
+Package: treescanr
+Title: Tree-Based Scan Statistics for Syndromic Surveillance with 'TreeScan'
+Version: 0.0.1
+Authors@R: 
+    person("George G.", "Vega Yon", , "g.vegayon@gmail.com", role = c("aut", "cre"))
+Description: A lightweight pipeline to prepare emergency department visit data,
+    build incident-diagnosis count files, write parameter files, and run the
+    'TreeScan' command-line software on ICD-10-CM trees. Ported from the
+    epiENGAGE TreeScan implementation scripts.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Depends: R (>= 4.1.0)
+Imports:
+    data.table,
+    utils
+Suggests:
+    tinytest,
+    quarto
+VignetteBuilder: quarto
+SystemRequirements: TreeScan (>= 2.4.1) command-line binary
+    (https://www.treescan.org), Quarto (for vignettes)
+Config/roxygen2/version: 8.0.0

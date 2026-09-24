@@ -1,0 +1,357 @@
+Name	Name1	Desc	Level1	Level2	Level3	Level4	Level5	Level6	Level7	Level8	V1	added
+A00	A00	Cholera	Root	A00-B99	A00-A09	A00	""	""	""	""		0
+A00.0	A000	Cholera due to Vibrio cholerae 01, biovar cholerae	Root	A00-B99	A00-A09	A00	A00.0	""	""	""	A000    Cholera due to Vibrio cholerae 01, biovar cholerae	0
+A00.1	A001	Cholera due to Vibrio cholerae 01, biovar eltor	Root	A00-B99	A00-A09	A00	A00.1	""	""	""	A001    Cholera due to Vibrio cholerae 01, biovar eltor	0
+A00.9	A009	Cholera, unspecified	Root	A00-B99	A00-A09	A00	A00.9	""	""	""	A009    Cholera, unspecified	0
+A01	A01	Typhoid and paratyphoid fevers	Root	A00-B99	A00-A09	A01	""	""	""	""		0
+A01.0	A010	Typhoid fever	Root	A00-B99	A00-A09	A01	A01.0	""	""	""		0
+A01.00	A0100	Typhoid fever, unspecified	Root	A00-B99	A00-A09	A01	A01.0	A01.00	""	""	A0100   Typhoid fever, unspecified	0
+A01.01	A0101	Typhoid meningitis	Root	A00-B99	A00-A09	A01	A01.0	A01.01	""	""	A0101   Typhoid meningitis	0
+A01.02	A0102	Typhoid fever with heart involvement	Root	A00-B99	A00-A09	A01	A01.0	A01.02	""	""	A0102   Typhoid fever with heart involvement	0
+A01.03	A0103	Typhoid pneumonia	Root	A00-B99	A00-A09	A01	A01.0	A01.03	""	""	A0103   Typhoid pneumonia	0
+A01.04	A0104	Typhoid arthritis	Root	A00-B99	A00-A09	A01	A01.0	A01.04	""	""	A0104   Typhoid arthritis	0
+A01.05	A0105	Typhoid osteomyelitis	Root	A00-B99	A00-A09	A01	A01.0	A01.05	""	""	A0105   Typhoid osteomyelitis	0
+A01.09	A0109	Typhoid fever with other complications	Root	A00-B99	A00-A09	A01	A01.0	A01.09	""	""	A0109   Typhoid fever with other complications	0
+A01.1	A011	Paratyphoid fever A	Root	A00-B99	A00-A09	A01	A01.1	""	""	""	A011    Paratyphoid fever A	0
+A01.2	A012	Paratyphoid fever B	Root	A00-B99	A00-A09	A01	A01.2	""	""	""	A012    Paratyphoid fever B	0
+A01.3	A013	Paratyphoid fever C	Root	A00-B99	A00-A09	A01	A01.3	""	""	""	A013    Paratyphoid fever C	0
+A01.4	A014	Paratyphoid fever, unspecified	Root	A00-B99	A00-A09	A01	A01.4	""	""	""	A014    Paratyphoid fever, unspecified	0
+A02	A02	Other salmonella infections	Root	A00-B99	A00-A09	A02	""	""	""	""		0
+A02.0	A020	Salmonella enteritis	Root	A00-B99	A00-A09	A02	A02.0	""	""	""	A020    Salmonella enteritis	0
+A02.1	A021	Salmonella sepsis	Root	A00-B99	A00-A09	A02	A02.1	""	""	""	A021    Salmonella sepsis	0
+A02.2	A022	Localized salmonella infections	Root	A00-B99	A00-A09	A02	A02.2	""	""	""		0
+A02.20	A0220	Localized salmonella infection, unspecified	Root	A00-B99	A00-A09	A02	A02.2	A02.20	""	""	A0220   Localized salmonella infection, unspecified	0
+A02.21	A0221	Salmonella meningitis	Root	A00-B99	A00-A09	A02	A02.2	A02.21	""	""	A0221   Salmonella meningitis	0
+A02.22	A0222	Salmonella pneumonia	Root	A00-B99	A00-A09	A02	A02.2	A02.22	""	""	A0222   Salmonella pneumonia	0
+A02.23	A0223	Salmonella arthritis	Root	A00-B99	A00-A09	A02	A02.2	A02.23	""	""	A0223   Salmonella arthritis	0
+A02.24	A0224	Salmonella osteomyelitis	Root	A00-B99	A00-A09	A02	A02.2	A02.24	""	""	A0224   Salmonella osteomyelitis	0
+A02.25	A0225	Salmonella pyelonephritis	Root	A00-B99	A00-A09	A02	A02.2	A02.25	""	""	A0225   Salmonella pyelonephritis	0
+A02.29	A0229	Salmonella with other localized infection	Root	A00-B99	A00-A09	A02	A02.2	A02.29	""	""	A0229   Salmonella with other localized infection	0
+A02.8	A028	Other specified salmonella infections	Root	A00-B99	A00-A09	A02	A02.8	""	""	""	A028    Other specified salmonella infections	0
+A02.9	A029	Salmonella infection, unspecified	Root	A00-B99	A00-A09	A02	A02.9	""	""	""	A029    Salmonella infection, unspecified	0
+A03	A03	Shigellosis	Root	A00-B99	A00-A09	A03	""	""	""	""		0
+A03.0	A030	Shigellosis due to Shigella dysenteriae	Root	A00-B99	A00-A09	A03	A03.0	""	""	""	A030    Shigellosis due to Shigella dysenteriae	0
+A03.1	A031	Shigellosis due to Shigella flexneri	Root	A00-B99	A00-A09	A03	A03.1	""	""	""	A031    Shigellosis due to Shigella flexneri	0
+A03.2	A032	Shigellosis due to Shigella boydii	Root	A00-B99	A00-A09	A03	A03.2	""	""	""	A032    Shigellosis due to Shigella boydii	0
+A03.3	A033	Shigellosis due to Shigella sonnei	Root	A00-B99	A00-A09	A03	A03.3	""	""	""	A033    Shigellosis due to Shigella sonnei	0
+A03.8	A038	Other shigellosis	Root	A00-B99	A00-A09	A03	A03.8	""	""	""	A038    Other shigellosis	0
+A03.9	A039	Shigellosis, unspecified	Root	A00-B99	A00-A09	A03	A03.9	""	""	""	A039    Shigellosis, unspecified	0
+A04	A04	Other bacterial intestinal infections	Root	A00-B99	A00-A09	A04	""	""	""	""		0
+A04.0	A040	Enteropathogenic Escherichia coli infection	Root	A00-B99	A00-A09	A04	A04.0	""	""	""	A040    Enteropathogenic Escherichia coli infection	0
+A04.1	A041	Enterotoxigenic Escherichia coli infection	Root	A00-B99	A00-A09	A04	A04.1	""	""	""	A041    Enterotoxigenic Escherichia coli infection	0
+A04.2	A042	Enteroinvasive Escherichia coli infection	Root	A00-B99	A00-A09	A04	A04.2	""	""	""	A042    Enteroinvasive Escherichia coli infection	0
+A04.3	A043	Enterohemorrhagic Escherichia coli infection	Root	A00-B99	A00-A09	A04	A04.3	""	""	""	A043    Enterohemorrhagic Escherichia coli infection	0
+A04.4	A044	Other intestinal Escherichia coli infections	Root	A00-B99	A00-A09	A04	A04.4	""	""	""	A044    Other intestinal Escherichia coli infections	0
+A04.5	A045	Campylobacter enteritis	Root	A00-B99	A00-A09	A04	A04.5	""	""	""	A045    Campylobacter enteritis	0
+A04.6	A046	Enteritis due to Yersinia enterocolitica	Root	A00-B99	A00-A09	A04	A04.6	""	""	""	A046    Enteritis due to Yersinia enterocolitica	0
+A04.7	A047	Enterocolitis due to Clostridium difficile	Root	A00-B99	A00-A09	A04	A04.7	""	""	""		0
+A04.71	A0471	Enterocolitis due to Clostridium difficile, recurrent	Root	A00-B99	A00-A09	A04	A04.7	A04.71	""	""	A0471   Enterocolitis due to Clostridium difficile, recurrent	0
+A04.72	A0472	Enterocolitis due to Clostridium difficile, not specified as recurrent	Root	A00-B99	A00-A09	A04	A04.7	A04.72	""	""	A0472   Enterocolitis due to Clostridium difficile, not specified as recurrent	0
+A04.8	A048	Other specified bacterial intestinal infections	Root	A00-B99	A00-A09	A04	A04.8	""	""	""	A048    Other specified bacterial intestinal infections	0
+A04.9	A049	Bacterial intestinal infection, unspecified	Root	A00-B99	A00-A09	A04	A04.9	""	""	""	A049    Bacterial intestinal infection, unspecified	0
+A05	A05	Other bacterial foodborne intoxications, not elsewhere classified	Root	A00-B99	A00-A09	A05	""	""	""	""		0
+A05.0	A050	Foodborne staphylococcal intoxication	Root	A00-B99	A00-A09	A05	A05.0	""	""	""	A050    Foodborne staphylococcal intoxication	0
+A05.1	A051	Botulism food poisoning	Root	A00-B99	A00-A09	A05	A05.1	""	""	""	A051    Botulism food poisoning	0
+A05.2	A052	Foodborne Clostridium perfringens [Clostridium welchii] intoxication	Root	A00-B99	A00-A09	A05	A05.2	""	""	""	A052    Foodborne Clostridium perfringens [Clostridium welchii] intoxication	0
+A05.3	A053	Foodborne Vibrio parahaemolyticus intoxication	Root	A00-B99	A00-A09	A05	A05.3	""	""	""	A053    Foodborne Vibrio parahaemolyticus intoxication	0
+A05.4	A054	Foodborne Bacillus cereus intoxication	Root	A00-B99	A00-A09	A05	A05.4	""	""	""	A054    Foodborne Bacillus cereus intoxication	0
+A05.5	A055	Foodborne Vibrio vulnificus intoxication	Root	A00-B99	A00-A09	A05	A05.5	""	""	""	A055    Foodborne Vibrio vulnificus intoxication	0
+A05.8	A058	Other specified bacterial foodborne intoxications	Root	A00-B99	A00-A09	A05	A05.8	""	""	""	A058    Other specified bacterial foodborne intoxications	0
+A05.9	A059	Bacterial foodborne intoxication, unspecified	Root	A00-B99	A00-A09	A05	A05.9	""	""	""	A059    Bacterial foodborne intoxication, unspecified	0
+A06	A06	Amebiasis	Root	A00-B99	A00-A09	A06	""	""	""	""		0
+A06.0	A060	Acute amebic dysentery	Root	A00-B99	A00-A09	A06	A06.0	""	""	""	A060    Acute amebic dysentery	0
+A06.1	A061	Chronic intestinal amebiasis	Root	A00-B99	A00-A09	A06	A06.1	""	""	""	A061    Chronic intestinal amebiasis	0
+A06.2	A062	Amebic nondysenteric colitis	Root	A00-B99	A00-A09	A06	A06.2	""	""	""	A062    Amebic nondysenteric colitis	0
+A06.3	A063	Ameboma of intestine	Root	A00-B99	A00-A09	A06	A06.3	""	""	""	A063    Ameboma of intestine	0
+A06.4	A064	Amebic liver abscess	Root	A00-B99	A00-A09	A06	A06.4	""	""	""	A064    Amebic liver abscess	0
+A06.5	A065	Amebic lung abscess	Root	A00-B99	A00-A09	A06	A06.5	""	""	""	A065    Amebic lung abscess	0
+A06.6	A066	Amebic brain abscess	Root	A00-B99	A00-A09	A06	A06.6	""	""	""	A066    Amebic brain abscess	0
+A06.7	A067	Cutaneous amebiasis	Root	A00-B99	A00-A09	A06	A06.7	""	""	""	A067    Cutaneous amebiasis	0
+A06.8	A068	Amebic infection of other sites	Root	A00-B99	A00-A09	A06	A06.8	""	""	""		0
+A06.81	A0681	Amebic cystitis	Root	A00-B99	A00-A09	A06	A06.8	A06.81	""	""	A0681   Amebic cystitis	0
+A06.82	A0682	Other amebic genitourinary infections	Root	A00-B99	A00-A09	A06	A06.8	A06.82	""	""	A0682   Other amebic genitourinary infections	0
+A06.89	A0689	Other amebic infections	Root	A00-B99	A00-A09	A06	A06.8	A06.89	""	""	A0689   Other amebic infections	0
+A06.9	A069	Amebiasis, unspecified	Root	A00-B99	A00-A09	A06	A06.9	""	""	""	A069    Amebiasis, unspecified	0
+A07	A07	Other protozoal intestinal diseases	Root	A00-B99	A00-A09	A07	""	""	""	""		0
+A07.0	A070	Balantidiasis	Root	A00-B99	A00-A09	A07	A07.0	""	""	""	A070    Balantidiasis	0
+A07.1	A071	Giardiasis [lambliasis]	Root	A00-B99	A00-A09	A07	A07.1	""	""	""	A071    Giardiasis [lambliasis]	0
+A07.2	A072	Cryptosporidiosis	Root	A00-B99	A00-A09	A07	A07.2	""	""	""	A072    Cryptosporidiosis	0
+A07.3	A073	Isosporiasis	Root	A00-B99	A00-A09	A07	A07.3	""	""	""	A073    Isosporiasis	0
+A07.4	A074	Cyclosporiasis	Root	A00-B99	A00-A09	A07	A07.4	""	""	""	A074    Cyclosporiasis	0
+A07.8	A078	Other specified protozoal intestinal diseases	Root	A00-B99	A00-A09	A07	A07.8	""	""	""	A078    Other specified protozoal intestinal diseases	0
+A07.9	A079	Protozoal intestinal disease, unspecified	Root	A00-B99	A00-A09	A07	A07.9	""	""	""	A079    Protozoal intestinal disease, unspecified	0
+A08	A08	Viral and other specified intestinal infections	Root	A00-B99	A00-A09	A08	""	""	""	""		0
+A08.0	A080	Rotaviral enteritis	Root	A00-B99	A00-A09	A08	A08.0	""	""	""	A080    Rotaviral enteritis	0
+A08.1	A081	Acute gastroenteropathy due to Norwalk agent and other small round viruses	Root	A00-B99	A00-A09	A08	A08.1	""	""	""		0
+A08.11	A0811	Acute gastroenteropathy due to Norwalk agent	Root	A00-B99	A00-A09	A08	A08.1	A08.11	""	""	A0811   Acute gastroenteropathy due to Norwalk agent	0
+A08.19	A0819	Acute gastroenteropathy due to other small round viruses	Root	A00-B99	A00-A09	A08	A08.1	A08.19	""	""	A0819   Acute gastroenteropathy due to other small round viruses	0
+A08.2	A082	Adenoviral enteritis	Root	A00-B99	A00-A09	A08	A08.2	""	""	""	A082    Adenoviral enteritis	0
+A08.3	A083	Other viral enteritis	Root	A00-B99	A00-A09	A08	A08.3	""	""	""		0
+A08.31	A0831	Calicivirus enteritis	Root	A00-B99	A00-A09	A08	A08.3	A08.31	""	""	A0831   Calicivirus enteritis	0
+A08.32	A0832	Astrovirus enteritis	Root	A00-B99	A00-A09	A08	A08.3	A08.32	""	""	A0832   Astrovirus enteritis	0
+A08.39	A0839	Other viral enteritis	Root	A00-B99	A00-A09	A08	A08.3	A08.39	""	""	A0839   Other viral enteritis	0
+A08.4	A084	Viral intestinal infection, unspecified	Root	A00-B99	A00-A09	A08	A08.4	""	""	""	A084    Viral intestinal infection, unspecified	0
+A08.8	A088	Other specified intestinal infections	Root	A00-B99	A00-A09	A08	A08.8	""	""	""	A088    Other specified intestinal infections	0
+A09	A09	Infectious gastroenteritis and colitis, unspecified	Root	A00-B99	A00-A09	A09	""	""	""	""	A09     Infectious gastroenteritis and colitis, unspecified	0
+J00	J00	Acute nasopharyngitis [common cold]	Root	J00-J99	J00-J06	J00	""	""	""	""	J00     Acute nasopharyngitis [common cold]	0
+J01	J01	Acute sinusitis	Root	J00-J99	J00-J06	J01	""	""	""	""		0
+J01.0	J010	Acute maxillary sinusitis	Root	J00-J99	J00-J06	J01	J01.0	""	""	""		0
+J01.00	J0100	Acute maxillary sinusitis, unspecified	Root	J00-J99	J00-J06	J01	J01.0	J01.00	""	""	J0100   Acute maxillary sinusitis, unspecified	0
+J01.01	J0101	Acute recurrent maxillary sinusitis	Root	J00-J99	J00-J06	J01	J01.0	J01.01	""	""	J0101   Acute recurrent maxillary sinusitis	0
+J01.1	J011	Acute frontal sinusitis	Root	J00-J99	J00-J06	J01	J01.1	""	""	""		0
+J01.10	J0110	Acute frontal sinusitis, unspecified	Root	J00-J99	J00-J06	J01	J01.1	J01.10	""	""	J0110   Acute frontal sinusitis, unspecified	0
+J01.11	J0111	Acute recurrent frontal sinusitis	Root	J00-J99	J00-J06	J01	J01.1	J01.11	""	""	J0111   Acute recurrent frontal sinusitis	0
+J01.2	J012	Acute ethmoidal sinusitis	Root	J00-J99	J00-J06	J01	J01.2	""	""	""		0
+J01.20	J0120	Acute ethmoidal sinusitis, unspecified	Root	J00-J99	J00-J06	J01	J01.2	J01.20	""	""	J0120   Acute ethmoidal sinusitis, unspecified	0
+J01.21	J0121	Acute recurrent ethmoidal sinusitis	Root	J00-J99	J00-J06	J01	J01.2	J01.21	""	""	J0121   Acute recurrent ethmoidal sinusitis	0
+J01.3	J013	Acute sphenoidal sinusitis	Root	J00-J99	J00-J06	J01	J01.3	""	""	""		0
+J01.30	J0130	Acute sphenoidal sinusitis, unspecified	Root	J00-J99	J00-J06	J01	J01.3	J01.30	""	""	J0130   Acute sphenoidal sinusitis, unspecified	0
+J01.31	J0131	Acute recurrent sphenoidal sinusitis	Root	J00-J99	J00-J06	J01	J01.3	J01.31	""	""	J0131   Acute recurrent sphenoidal sinusitis	0
+J01.4	J014	Acute pansinusitis	Root	J00-J99	J00-J06	J01	J01.4	""	""	""		0
+J01.40	J0140	Acute pansinusitis, unspecified	Root	J00-J99	J00-J06	J01	J01.4	J01.40	""	""	J0140   Acute pansinusitis, unspecified	0
+J01.41	J0141	Acute recurrent pansinusitis	Root	J00-J99	J00-J06	J01	J01.4	J01.41	""	""	J0141   Acute recurrent pansinusitis	0
+J01.8	J018	Other acute sinusitis	Root	J00-J99	J00-J06	J01	J01.8	""	""	""		0
+J01.80	J0180	Other acute sinusitis	Root	J00-J99	J00-J06	J01	J01.8	J01.80	""	""	J0180   Other acute sinusitis	0
+J01.81	J0181	Other acute recurrent sinusitis	Root	J00-J99	J00-J06	J01	J01.8	J01.81	""	""	J0181   Other acute recurrent sinusitis	0
+J01.9	J019	Acute sinusitis, unspecified	Root	J00-J99	J00-J06	J01	J01.9	""	""	""		0
+J01.90	J0190	Acute sinusitis, unspecified	Root	J00-J99	J00-J06	J01	J01.9	J01.90	""	""	J0190   Acute sinusitis, unspecified	0
+J01.91	J0191	Acute recurrent sinusitis, unspecified	Root	J00-J99	J00-J06	J01	J01.9	J01.91	""	""	J0191   Acute recurrent sinusitis, unspecified	0
+J02	J02	Acute pharyngitis	Root	J00-J99	J00-J06	J02	""	""	""	""		0
+J02.0	J020	Streptococcal pharyngitis	Root	J00-J99	J00-J06	J02	J02.0	""	""	""	J020    Streptococcal pharyngitis	0
+J02.8	J028	Acute pharyngitis due to other specified organisms	Root	J00-J99	J00-J06	J02	J02.8	""	""	""	J028    Acute pharyngitis due to other specified organisms	0
+J02.9	J029	Acute pharyngitis, unspecified	Root	J00-J99	J00-J06	J02	J02.9	""	""	""	J029    Acute pharyngitis, unspecified	0
+J03	J03	Acute tonsillitis	Root	J00-J99	J00-J06	J03	""	""	""	""		0
+J03.0	J030	Streptococcal tonsillitis	Root	J00-J99	J00-J06	J03	J03.0	""	""	""		0
+J03.00	J0300	Acute streptococcal tonsillitis, unspecified	Root	J00-J99	J00-J06	J03	J03.0	J03.00	""	""	J0300   Acute streptococcal tonsillitis, unspecified	0
+J03.01	J0301	Acute recurrent streptococcal tonsillitis	Root	J00-J99	J00-J06	J03	J03.0	J03.01	""	""	J0301   Acute recurrent streptococcal tonsillitis	0
+J03.8	J038	Acute tonsillitis due to other specified organisms	Root	J00-J99	J00-J06	J03	J03.8	""	""	""		0
+J03.80	J0380	Acute tonsillitis due to other specified organisms	Root	J00-J99	J00-J06	J03	J03.8	J03.80	""	""	J0380   Acute tonsillitis due to other specified organisms	0
+J03.81	J0381	Acute recurrent tonsillitis due to other specified organisms	Root	J00-J99	J00-J06	J03	J03.8	J03.81	""	""	J0381   Acute recurrent tonsillitis due to other specified organisms	0
+J03.9	J039	Acute tonsillitis, unspecified	Root	J00-J99	J00-J06	J03	J03.9	""	""	""		0
+J03.90	J0390	Acute tonsillitis, unspecified	Root	J00-J99	J00-J06	J03	J03.9	J03.90	""	""	J0390   Acute tonsillitis, unspecified	0
+J03.91	J0391	Acute recurrent tonsillitis, unspecified	Root	J00-J99	J00-J06	J03	J03.9	J03.91	""	""	J0391   Acute recurrent tonsillitis, unspecified	0
+J04	J04	Acute laryngitis and tracheitis	Root	J00-J99	J00-J06	J04	""	""	""	""		0
+J04.0	J040	Acute laryngitis	Root	J00-J99	J00-J06	J04	J04.0	""	""	""	J040    Acute laryngitis	0
+J04.1	J041	Acute tracheitis	Root	J00-J99	J00-J06	J04	J04.1	""	""	""		0
+J04.10	J0410	Acute tracheitis without obstruction	Root	J00-J99	J00-J06	J04	J04.1	J04.10	""	""	J0410   Acute tracheitis without obstruction	0
+J04.11	J0411	Acute tracheitis with obstruction	Root	J00-J99	J00-J06	J04	J04.1	J04.11	""	""	J0411   Acute tracheitis with obstruction	0
+J04.2	J042	Acute laryngotracheitis	Root	J00-J99	J00-J06	J04	J04.2	""	""	""	J042    Acute laryngotracheitis	0
+J04.3	J043	Supraglottitis, unspecified	Root	J00-J99	J00-J06	J04	J04.3	""	""	""		0
+J04.30	J0430	Supraglottitis, unspecified, without obstruction	Root	J00-J99	J00-J06	J04	J04.3	J04.30	""	""	J0430   Supraglottitis, unspecified, without obstruction	0
+J04.31	J0431	Supraglottitis, unspecified, with obstruction	Root	J00-J99	J00-J06	J04	J04.3	J04.31	""	""	J0431   Supraglottitis, unspecified, with obstruction	0
+J05	J05	Acute obstructive laryngitis [croup] and epiglottitis	Root	J00-J99	J00-J06	J05	""	""	""	""		0
+J05.0	J050	Acute obstructive laryngitis [croup]	Root	J00-J99	J00-J06	J05	J05.0	""	""	""	J050    Acute obstructive laryngitis [croup]	0
+J05.1	J051	Acute epiglottitis	Root	J00-J99	J00-J06	J05	J05.1	""	""	""		0
+J05.10	J0510	Acute epiglottitis without obstruction	Root	J00-J99	J00-J06	J05	J05.1	J05.10	""	""	J0510   Acute epiglottitis without obstruction	0
+J05.11	J0511	Acute epiglottitis with obstruction	Root	J00-J99	J00-J06	J05	J05.1	J05.11	""	""	J0511   Acute epiglottitis with obstruction	0
+J06	J06	Acute upper respiratory infections of multiple and unspecified sites	Root	J00-J99	J00-J06	J06	""	""	""	""		0
+J06.0	J060	Acute laryngopharyngitis	Root	J00-J99	J00-J06	J06	J06.0	""	""	""	J060    Acute laryngopharyngitis	0
+J06.9	J069	Acute upper respiratory infection, unspecified	Root	J00-J99	J00-J06	J06	J06.9	""	""	""	J069    Acute upper respiratory infection, unspecified	0
+R10	R10	Abdominal and pelvic pain	Root	R00-R99	R10-R19	R10	""	""	""	""		0
+R10.0	R100	Acute abdomen	Root	R00-R99	R10-R19	R10	R10.0	""	""	""	R100    Acute abdomen	0
+R10.1	R101	Pain localized to upper abdomen	Root	R00-R99	R10-R19	R10	R10.1	""	""	""		0
+R10.10	R1010	Upper abdominal pain, unspecified	Root	R00-R99	R10-R19	R10	R10.1	R10.10	""	""	R1010   Upper abdominal pain, unspecified	0
+R10.11	R1011	Right upper quadrant pain	Root	R00-R99	R10-R19	R10	R10.1	R10.11	""	""	R1011   Right upper quadrant pain	0
+R10.12	R1012	Left upper quadrant pain	Root	R00-R99	R10-R19	R10	R10.1	R10.12	""	""	R1012   Left upper quadrant pain	0
+R10.13	R1013	Epigastric pain	Root	R00-R99	R10-R19	R10	R10.1	R10.13	""	""	R1013   Epigastric pain	0
+R10.2	R102	Pelvic and perineal pain	Root	R00-R99	R10-R19	R10	R10.2	""	""	""	R102    Pelvic and perineal pain	0
+R10.20	R1020	Pelvic and perineal pain unspecified side	Root	R00-R99	R10-R19	R10	R10.2	R10.20	""	""	R1020   Pelvic and perineal pain unspecified side	0
+R10.21	R1021	Pelvic and perineal pain right side	Root	R00-R99	R10-R19	R10	R10.2	R10.21	""	""	R1021   Pelvic and perineal pain right side	0
+R10.22	R1022	Pelvic and perineal pain left side	Root	R00-R99	R10-R19	R10	R10.2	R10.22	""	""	R1022   Pelvic and perineal pain left side	0
+R10.23	R1023	Pelvic and perineal pain bilateral	Root	R00-R99	R10-R19	R10	R10.2	R10.23	""	""	R1023   Pelvic and perineal pain bilateral	0
+R10.24	R1024	Suprapubic pain	Root	R00-R99	R10-R19	R10	R10.2	R10.24	""	""	R1024   Suprapubic pain	0
+R10.3	R103	Pain localized to other parts of lower abdomen	Root	R00-R99	R10-R19	R10	R10.3	""	""	""		0
+R10.30	R1030	Lower abdominal pain, unspecified	Root	R00-R99	R10-R19	R10	R10.3	R10.30	""	""	R1030   Lower abdominal pain, unspecified	0
+R10.31	R1031	Right lower quadrant pain	Root	R00-R99	R10-R19	R10	R10.3	R10.31	""	""	R1031   Right lower quadrant pain	0
+R10.32	R1032	Left lower quadrant pain	Root	R00-R99	R10-R19	R10	R10.3	R10.32	""	""	R1032   Left lower quadrant pain	0
+R10.33	R1033	Periumbilical pain	Root	R00-R99	R10-R19	R10	R10.3	R10.33	""	""	R1033   Periumbilical pain	0
+R10.8	R108	Other abdominal pain	Root	R00-R99	R10-R19	R10	R10.8	""	""	""		0
+R10.81	R1081	Abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.81	""	""		0
+R10.811	R10811	Right upper quadrant abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.81	R10.811	""	R10811  Right upper quadrant abdominal tenderness	0
+R10.812	R10812	Left upper quadrant abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.81	R10.812	""	R10812  Left upper quadrant abdominal tenderness	0
+R10.813	R10813	Right lower quadrant abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.81	R10.813	""	R10813  Right lower quadrant abdominal tenderness	0
+R10.814	R10814	Left lower quadrant abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.81	R10.814	""	R10814  Left lower quadrant abdominal tenderness	0
+R10.815	R10815	Periumbilic abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.81	R10.815	""	R10815  Periumbilic abdominal tenderness	0
+R10.816	R10816	Epigastric abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.81	R10.816	""	R10816  Epigastric abdominal tenderness	0
+R10.817	R10817	Generalized abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.81	R10.817	""	R10817  Generalized abdominal tenderness	0
+R10.819	R10819	Abdominal tenderness, unspecified site	Root	R00-R99	R10-R19	R10	R10.8	R10.81	R10.819	""	R10819  Abdominal tenderness, unspecified site	0
+R10.82	R1082	Rebound abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.82	""	""		0
+R10.821	R10821	Right upper quadrant rebound abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.82	R10.821	""	R10821  Right upper quadrant rebound abdominal tenderness	0
+R10.822	R10822	Left upper quadrant rebound abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.82	R10.822	""	R10822  Left upper quadrant rebound abdominal tenderness	0
+R10.823	R10823	Right lower quadrant rebound abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.82	R10.823	""	R10823  Right lower quadrant rebound abdominal tenderness	0
+R10.824	R10824	Left lower quadrant rebound abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.82	R10.824	""	R10824  Left lower quadrant rebound abdominal tenderness	0
+R10.825	R10825	Periumbilic rebound abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.82	R10.825	""	R10825  Periumbilic rebound abdominal tenderness	0
+R10.826	R10826	Epigastric rebound abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.82	R10.826	""	R10826  Epigastric rebound abdominal tenderness	0
+R10.827	R10827	Generalized rebound abdominal tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.82	R10.827	""	R10827  Generalized rebound abdominal tenderness	0
+R10.829	R10829	Rebound abdominal tenderness, unspecified site	Root	R00-R99	R10-R19	R10	R10.8	R10.82	R10.829	""	R10829  Rebound abdominal tenderness, unspecified site	0
+R10.83	R1083	Colic	Root	R00-R99	R10-R19	R10	R10.8	R10.83	""	""	R1083   Colic	0
+R10.84	R1084	Generalized abdominal pain	Root	R00-R99	R10-R19	R10	R10.8	R10.84	""	""	R1084   Generalized abdominal pain	0
+R10.85	R1085	Abdominal pain of multiple sites	Root	R00-R99	R10-R19	R10	R10.8	R10.85	""	""	R1085   Abdominal pain of multiple sites	0
+R10.8A	R108A	Flank tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.8A	""	""		0
+R10.8A1	R108A1	Right flank tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.8A	R10.8A1	""	R108A1  Right flank tenderness	0
+R10.8A2	R108A2	Left flank tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.8A	R10.8A2	""	R108A2  Left flank tenderness	0
+R10.8A3	R108A3	Suprapubic tenderness	Root	R00-R99	R10-R19	R10	R10.8	R10.8A	R10.8A3	""	R108A3  Suprapubic tenderness	0
+R10.8A9	R108A9	Flank tenderness, unspecified	Root	R00-R99	R10-R19	R10	R10.8	R10.8A	R10.8A9	""	R108A9  Flank tenderness, unspecified	0
+R10.9	R109	Unspecified abdominal pain	Root	R00-R99	R10-R19	R10	R10.9	""	""	""	R109    Unspecified abdominal pain	0
+R10.A	R10A	Pain localized to flank	Root	R00-R99	R10-R19	R10	R10.A	""	""	""		0
+R10.A0	R10A0	Flank pain, unspecified side	Root	R00-R99	R10-R19	R10	R10.A	R10.A0	""	""	R10A0   Flank pain, unspecified side	0
+R10.A1	R10A1	Flank pain, right side	Root	R00-R99	R10-R19	R10	R10.A	R10.A1	""	""	R10A1   Flank pain, right side	0
+R10.A2	R10A2	Flank pain, left side	Root	R00-R99	R10-R19	R10	R10.A	R10.A2	""	""	R10A2   Flank pain, left side	0
+R10.A3	R10A3	Flank pain, bilateral	Root	R00-R99	R10-R19	R10	R10.A	R10.A3	""	""	R10A3   Flank pain, bilateral	0
+R11	R11	Nausea and vomiting	Root	R00-R99	R10-R19	R11	""	""	""	""		0
+R11.0	R110	Nausea	Root	R00-R99	R10-R19	R11	R11.0	""	""	""	R110    Nausea	0
+R11.1	R111	Vomiting	Root	R00-R99	R10-R19	R11	R11.1	""	""	""		0
+R11.10	R1110	Vomiting, unspecified	Root	R00-R99	R10-R19	R11	R11.1	R11.10	""	""	R1110   Vomiting, unspecified	0
+R11.11	R1111	Vomiting without nausea	Root	R00-R99	R10-R19	R11	R11.1	R11.11	""	""	R1111   Vomiting without nausea	0
+R11.12	R1112	Projectile vomiting	Root	R00-R99	R10-R19	R11	R11.1	R11.12	""	""	R1112   Projectile vomiting	0
+R11.13	R1113	Vomiting of fecal matter	Root	R00-R99	R10-R19	R11	R11.1	R11.13	""	""	R1113   Vomiting of fecal matter	0
+R11.14	R1114	Bilious vomiting	Root	R00-R99	R10-R19	R11	R11.1	R11.14	""	""	R1114   Bilious vomiting	0
+R11.15	R1115	Cyclical vomiting syndrome unrelated to migraine	Root	R00-R99	R10-R19	R11	R11.1	R11.15	""	""	R1115   Cyclical vomiting syndrome unrelated to migraine	0
+R11.16	R1116	Cannabis hyperemesis syndrome	Root	R00-R99	R10-R19	R11	R11.1	R11.16	""	""	R1116   Cannabis hyperemesis syndrome	0
+R11.2	R112	Nausea with vomiting, unspecified	Root	R00-R99	R10-R19	R11	R11.2	""	""	""	R112    Nausea with vomiting, unspecified	0
+R12	R12	Heartburn	Root	R00-R99	R10-R19	R12	""	""	""	""	R12     Heartburn	0
+R13	R13	Aphagia and dysphagia	Root	R00-R99	R10-R19	R13	""	""	""	""		0
+R13.0	R130	Aphagia	Root	R00-R99	R10-R19	R13	R13.0	""	""	""	R130    Aphagia	0
+R13.1	R131	Dysphagia	Root	R00-R99	R10-R19	R13	R13.1	""	""	""		0
+R13.10	R1310	Dysphagia, unspecified	Root	R00-R99	R10-R19	R13	R13.1	R13.10	""	""	R1310   Dysphagia, unspecified	0
+R13.11	R1311	Dysphagia, oral phase	Root	R00-R99	R10-R19	R13	R13.1	R13.11	""	""	R1311   Dysphagia, oral phase	0
+R13.12	R1312	Dysphagia, oropharyngeal phase	Root	R00-R99	R10-R19	R13	R13.1	R13.12	""	""	R1312   Dysphagia, oropharyngeal phase	0
+R13.13	R1313	Dysphagia, pharyngeal phase	Root	R00-R99	R10-R19	R13	R13.1	R13.13	""	""	R1313   Dysphagia, pharyngeal phase	0
+R13.14	R1314	Dysphagia, pharyngoesophageal phase	Root	R00-R99	R10-R19	R13	R13.1	R13.14	""	""	R1314   Dysphagia, pharyngoesophageal phase	0
+R13.19	R1319	Other dysphagia	Root	R00-R99	R10-R19	R13	R13.1	R13.19	""	""	R1319   Other dysphagia	0
+R14	R14	Flatulence and related conditions	Root	R00-R99	R10-R19	R14	""	""	""	""		0
+R14.0	R140	Abdominal distension (gaseous)	Root	R00-R99	R10-R19	R14	R14.0	""	""	""	R140    Abdominal distension (gaseous)	0
+R14.1	R141	Gas pain	Root	R00-R99	R10-R19	R14	R14.1	""	""	""	R141    Gas pain	0
+R14.2	R142	Eructation	Root	R00-R99	R10-R19	R14	R14.2	""	""	""	R142    Eructation	0
+R14.3	R143	Flatulence	Root	R00-R99	R10-R19	R14	R14.3	""	""	""	R143    Flatulence	0
+R15	R15	Fecal incontinence	Root	R00-R99	R10-R19	R15	""	""	""	""		0
+R15.0	R150	Incomplete defecation	Root	R00-R99	R10-R19	R15	R15.0	""	""	""	R150    Incomplete defecation	0
+R15.1	R151	Fecal smearing	Root	R00-R99	R10-R19	R15	R15.1	""	""	""	R151    Fecal smearing	0
+R15.2	R152	Fecal urgency	Root	R00-R99	R10-R19	R15	R15.2	""	""	""	R152    Fecal urgency	0
+R15.9	R159	Full incontinence of feces	Root	R00-R99	R10-R19	R15	R15.9	""	""	""	R159    Full incontinence of feces	0
+R16	R16	Hepatomegaly and splenomegaly, not elsewhere classified	Root	R00-R99	R10-R19	R16	""	""	""	""		0
+R16.0	R160	Hepatomegaly, not elsewhere classified	Root	R00-R99	R10-R19	R16	R16.0	""	""	""	R160    Hepatomegaly, not elsewhere classified	0
+R16.1	R161	Splenomegaly, not elsewhere classified	Root	R00-R99	R10-R19	R16	R16.1	""	""	""	R161    Splenomegaly, not elsewhere classified	0
+R16.2	R162	Hepatomegaly with splenomegaly, not elsewhere classified	Root	R00-R99	R10-R19	R16	R16.2	""	""	""	R162    Hepatomegaly with splenomegaly, not elsewhere classified	0
+R17	R17	Unspecified jaundice	Root	R00-R99	R10-R19	R17	""	""	""	""	R17     Unspecified jaundice	0
+R18	R18	Ascites	Root	R00-R99	R10-R19	R18	""	""	""	""		0
+R18.0	R180	Malignant ascites	Root	R00-R99	R10-R19	R18	R18.0	""	""	""	R180    Malignant ascites	0
+R18.8	R188	Other ascites	Root	R00-R99	R10-R19	R18	R18.8	""	""	""	R188    Other ascites	0
+R19	R19	Other symptoms and signs involving the digestive system and abdomen	Root	R00-R99	R10-R19	R19	""	""	""	""		0
+R19.0	R190	Intra-abdominal and pelvic swelling, mass and lump	Root	R00-R99	R10-R19	R19	R19.0	""	""	""		0
+R19.00	R1900	Intra-abdominal and pelvic swelling, mass and lump, unspecified site	Root	R00-R99	R10-R19	R19	R19.0	R19.00	""	""	R1900   Intra-abdominal and pelvic swelling, mass and lump, unspecified site	0
+R19.01	R1901	Right upper quadrant abdominal swelling, mass and lump	Root	R00-R99	R10-R19	R19	R19.0	R19.01	""	""	R1901   Right upper quadrant abdominal swelling, mass and lump	0
+R19.02	R1902	Left upper quadrant abdominal swelling, mass and lump	Root	R00-R99	R10-R19	R19	R19.0	R19.02	""	""	R1902   Left upper quadrant abdominal swelling, mass and lump	0
+R19.03	R1903	Right lower quadrant abdominal swelling, mass and lump	Root	R00-R99	R10-R19	R19	R19.0	R19.03	""	""	R1903   Right lower quadrant abdominal swelling, mass and lump	0
+R19.04	R1904	Left lower quadrant abdominal swelling, mass and lump	Root	R00-R99	R10-R19	R19	R19.0	R19.04	""	""	R1904   Left lower quadrant abdominal swelling, mass and lump	0
+R19.05	R1905	Periumbilic swelling, mass or lump	Root	R00-R99	R10-R19	R19	R19.0	R19.05	""	""	R1905   Periumbilic swelling, mass or lump	0
+R19.06	R1906	Epigastric swelling, mass or lump	Root	R00-R99	R10-R19	R19	R19.0	R19.06	""	""	R1906   Epigastric swelling, mass or lump	0
+R19.07	R1907	Generalized intra-abdominal and pelvic swelling, mass and lump	Root	R00-R99	R10-R19	R19	R19.0	R19.07	""	""	R1907   Generalized intra-abdominal and pelvic swelling, mass and lump	0
+R19.09	R1909	Other intra-abdominal and pelvic swelling, mass and lump	Root	R00-R99	R10-R19	R19	R19.0	R19.09	""	""	R1909   Other intra-abdominal and pelvic swelling, mass and lump	0
+R19.1	R191	Abnormal bowel sounds	Root	R00-R99	R10-R19	R19	R19.1	""	""	""		0
+R19.11	R1911	Absent bowel sounds	Root	R00-R99	R10-R19	R19	R19.1	R19.11	""	""	R1911   Absent bowel sounds	0
+R19.12	R1912	Hyperactive bowel sounds	Root	R00-R99	R10-R19	R19	R19.1	R19.12	""	""	R1912   Hyperactive bowel sounds	0
+R19.15	R1915	Other abnormal bowel sounds	Root	R00-R99	R10-R19	R19	R19.1	R19.15	""	""	R1915   Other abnormal bowel sounds	0
+R19.2	R192	Visible peristalsis	Root	R00-R99	R10-R19	R19	R19.2	""	""	""	R192    Visible peristalsis	0
+R19.3	R193	Abdominal rigidity	Root	R00-R99	R10-R19	R19	R19.3	""	""	""		0
+R19.30	R1930	Abdominal rigidity, unspecified site	Root	R00-R99	R10-R19	R19	R19.3	R19.30	""	""	R1930   Abdominal rigidity, unspecified site	0
+R19.31	R1931	Right upper quadrant abdominal rigidity	Root	R00-R99	R10-R19	R19	R19.3	R19.31	""	""	R1931   Right upper quadrant abdominal rigidity	0
+R19.32	R1932	Left upper quadrant abdominal rigidity	Root	R00-R99	R10-R19	R19	R19.3	R19.32	""	""	R1932   Left upper quadrant abdominal rigidity	0
+R19.33	R1933	Right lower quadrant abdominal rigidity	Root	R00-R99	R10-R19	R19	R19.3	R19.33	""	""	R1933   Right lower quadrant abdominal rigidity	0
+R19.34	R1934	Left lower quadrant abdominal rigidity	Root	R00-R99	R10-R19	R19	R19.3	R19.34	""	""	R1934   Left lower quadrant abdominal rigidity	0
+R19.35	R1935	Periumbilic abdominal rigidity	Root	R00-R99	R10-R19	R19	R19.3	R19.35	""	""	R1935   Periumbilic abdominal rigidity	0
+R19.36	R1936	Epigastric abdominal rigidity	Root	R00-R99	R10-R19	R19	R19.3	R19.36	""	""	R1936   Epigastric abdominal rigidity	0
+R19.37	R1937	Generalized abdominal rigidity	Root	R00-R99	R10-R19	R19	R19.3	R19.37	""	""	R1937   Generalized abdominal rigidity	0
+R19.4	R194	Change in bowel habit	Root	R00-R99	R10-R19	R19	R19.4	""	""	""	R194    Change in bowel habit	0
+R19.5	R195	Other fecal abnormalities	Root	R00-R99	R10-R19	R19	R19.5	""	""	""	R195    Other fecal abnormalities	0
+R19.6	R196	Halitosis	Root	R00-R99	R10-R19	R19	R19.6	""	""	""	R196    Halitosis	0
+R19.7	R197	Diarrhea, unspecified	Root	R00-R99	R10-R19	R19	R19.7	""	""	""	R197    Diarrhea, unspecified	0
+R19.8	R198	Other specified symptoms and signs involving the digestive system and abdomen	Root	R00-R99	R10-R19	R19	R19.8	""	""	""	R198    Other specified symptoms and signs involving the digestive system and abdomen	0
+R50	R50	Fever of other and unknown origin	Root	R00-R99	R50-R69	R50	""	""	""	""		0
+R50.2	R502	Drug induced fever	Root	R00-R99	R50-R69	R50	R50.2	""	""	""	R502    Drug induced fever	0
+R50.8	R508	Other specified fever	Root	R00-R99	R50-R69	R50	R50.8	""	""	""		0
+R50.81	R5081	Fever presenting with conditions classified elsewhere	Root	R00-R99	R50-R69	R50	R50.8	R50.81	""	""	R5081   Fever presenting with conditions classified elsewhere	0
+R50.82	R5082	Postprocedural fever	Root	R00-R99	R50-R69	R50	R50.8	R50.82	""	""	R5082   Postprocedural fever	0
+R50.83	R5083	Postvaccination fever	Root	R00-R99	R50-R69	R50	R50.8	R50.83	""	""	R5083   Postvaccination fever	0
+R50.84	R5084	Febrile nonhemolytic transfusion reaction	Root	R00-R99	R50-R69	R50	R50.8	R50.84	""	""	R5084   Febrile nonhemolytic transfusion reaction	0
+R50.9	R509	Fever, unspecified	Root	R00-R99	R50-R69	R50	R50.9	""	""	""	R509    Fever, unspecified	0
+R51	R51	Headache	Root	R00-R99	R50-R69	R51	""	""	""	""		0
+R51.0	R510	Headache with orthostatic component, not elsewhere classified	Root	R00-R99	R50-R69	R51	R51.0	""	""	""	R510    Headache with orthostatic component, not elsewhere classified	0
+R51.9	R519	Headache, unspecified	Root	R00-R99	R50-R69	R51	R51.9	""	""	""	R519    Headache, unspecified	0
+R52	R52	Pain, unspecified	Root	R00-R99	R50-R69	R52	""	""	""	""	R52     Pain, unspecified	0
+R53	R53	Malaise and fatigue	Root	R00-R99	R50-R69	R53	""	""	""	""		0
+R53.0	R530	Neoplastic (malignant) related fatigue	Root	R00-R99	R50-R69	R53	R53.0	""	""	""	R530    Neoplastic (malignant) related fatigue	0
+R53.1	R531	Weakness	Root	R00-R99	R50-R69	R53	R53.1	""	""	""	R531    Weakness	0
+R53.2	R532	Functional quadriplegia	Root	R00-R99	R50-R69	R53	R53.2	""	""	""	R532    Functional quadriplegia	0
+R53.8	R538	Other malaise and fatigue	Root	R00-R99	R50-R69	R53	R53.8	""	""	""		0
+R53.81	R5381	Other malaise	Root	R00-R99	R50-R69	R53	R53.8	R53.81	""	""	R5381   Other malaise	0
+R53.82	R5382	Chronic fatigue, unspecified	Root	R00-R99	R50-R69	R53	R53.8	R53.82	""	""	R5382   Chronic fatigue, unspecified	0
+R53.83	R5383	Other fatigue	Root	R00-R99	R50-R69	R53	R53.8	R53.83	""	""	R5383   Other fatigue	0
+R54	R54	Age-related physical debility	Root	R00-R99	R50-R69	R54	""	""	""	""	R54     Age-related physical debility	0
+R55	R55	Syncope and collapse	Root	R00-R99	R50-R69	R55	""	""	""	""	R55     Syncope and collapse	0
+R56	R56	Convulsions, not elsewhere classified	Root	R00-R99	R50-R69	R56	""	""	""	""		0
+R56.0	R560	Febrile convulsions	Root	R00-R99	R50-R69	R56	R56.0	""	""	""		0
+R56.00	R5600	Simple febrile convulsions	Root	R00-R99	R50-R69	R56	R56.0	R56.00	""	""	R5600   Simple febrile convulsions	0
+R56.01	R5601	Complex febrile convulsions	Root	R00-R99	R50-R69	R56	R56.0	R56.01	""	""	R5601   Complex febrile convulsions	0
+R56.1	R561	Post traumatic seizures	Root	R00-R99	R50-R69	R56	R56.1	""	""	""	R561    Post traumatic seizures	0
+R56.9	R569	Unspecified convulsions	Root	R00-R99	R50-R69	R56	R56.9	""	""	""	R569    Unspecified convulsions	0
+R57	R57	Shock, not elsewhere classified	Root	R00-R99	R50-R69	R57	""	""	""	""		0
+R57.0	R570	Cardiogenic shock	Root	R00-R99	R50-R69	R57	R57.0	""	""	""	R570    Cardiogenic shock	0
+R57.1	R571	Hypovolemic shock	Root	R00-R99	R50-R69	R57	R57.1	""	""	""	R571    Hypovolemic shock	0
+R57.8	R578	Other shock	Root	R00-R99	R50-R69	R57	R57.8	""	""	""	R578    Other shock	0
+R57.9	R579	Shock, unspecified	Root	R00-R99	R50-R69	R57	R57.9	""	""	""	R579    Shock, unspecified	0
+R58	R58	Hemorrhage, not elsewhere classified	Root	R00-R99	R50-R69	R58	""	""	""	""	R58     Hemorrhage, not elsewhere classified	0
+R59	R59	Enlarged lymph nodes	Root	R00-R99	R50-R69	R59	""	""	""	""		0
+R59.0	R590	Localized enlarged lymph nodes	Root	R00-R99	R50-R69	R59	R59.0	""	""	""	R590    Localized enlarged lymph nodes	0
+R59.1	R591	Generalized enlarged lymph nodes	Root	R00-R99	R50-R69	R59	R59.1	""	""	""	R591    Generalized enlarged lymph nodes	0
+R59.9	R599	Enlarged lymph nodes, unspecified	Root	R00-R99	R50-R69	R59	R59.9	""	""	""	R599    Enlarged lymph nodes, unspecified	0
+R60	R60	Edema, not elsewhere classified	Root	R00-R99	R50-R69	R60	""	""	""	""		0
+R60.0	R600	Localized edema	Root	R00-R99	R50-R69	R60	R60.0	""	""	""	R600    Localized edema	0
+R60.1	R601	Generalized edema	Root	R00-R99	R50-R69	R60	R60.1	""	""	""	R601    Generalized edema	0
+R60.9	R609	Edema, unspecified	Root	R00-R99	R50-R69	R60	R60.9	""	""	""	R609    Edema, unspecified	0
+R61	R61	Generalized hyperhidrosis	Root	R00-R99	R50-R69	R61	""	""	""	""	R61     Generalized hyperhidrosis	0
+R62	R62	Lack of expected normal physiological development in childhood and adults	Root	R00-R99	R50-R69	R62	""	""	""	""		0
+R62.0	R620	Delayed milestone in childhood	Root	R00-R99	R50-R69	R62	R62.0	""	""	""	R620    Delayed milestone in childhood	0
+R62.5	R625	Other and unspecified lack of expected normal physiological development in childhood	Root	R00-R99	R50-R69	R62	R62.5	""	""	""		0
+R62.50	R6250	Unspecified lack of expected normal physiological development in childhood	Root	R00-R99	R50-R69	R62	R62.5	R62.50	""	""	R6250   Unspecified lack of expected normal physiological development in childhood	0
+R62.51	R6251	Failure to thrive (child)	Root	R00-R99	R50-R69	R62	R62.5	R62.51	""	""	R6251   Failure to thrive (child)	0
+R62.52	R6252	Short stature (child)	Root	R00-R99	R50-R69	R62	R62.5	R62.52	""	""	R6252   Short stature (child)	0
+R62.59	R6259	Other lack of expected normal physiological development in childhood	Root	R00-R99	R50-R69	R62	R62.5	R62.59	""	""	R6259   Other lack of expected normal physiological development in childhood	0
+R62.7	R627	Adult failure to thrive	Root	R00-R99	R50-R69	R62	R62.7	""	""	""	R627    Adult failure to thrive	0
+R63	R63	Symptoms and signs concerning food and fluid intake	Root	R00-R99	R50-R69	R63	""	""	""	""		0
+R63.0	R630	Anorexia	Root	R00-R99	R50-R69	R63	R63.0	""	""	""	R630    Anorexia	0
+R63.1	R631	Polydipsia	Root	R00-R99	R50-R69	R63	R63.1	""	""	""	R631    Polydipsia	0
+R63.2	R632	Polyphagia	Root	R00-R99	R50-R69	R63	R63.2	""	""	""	R632    Polyphagia	0
+R63.3	R633	Feeding difficulties	Root	R00-R99	R50-R69	R63	R63.3	""	""	""		0
+R63.30	R6330	Feeding difficulties, unspecified	Root	R00-R99	R50-R69	R63	R63.3	R63.30	""	""	R6330   Feeding difficulties, unspecified	0
+R63.31	R6331	Pediatric feeding disorder, acute	Root	R00-R99	R50-R69	R63	R63.3	R63.31	""	""	R6331   Pediatric feeding disorder, acute	0
+R63.32	R6332	Pediatric feeding disorder, chronic	Root	R00-R99	R50-R69	R63	R63.3	R63.32	""	""	R6332   Pediatric feeding disorder, chronic	0
+R63.39	R6339	Other feeding difficulties	Root	R00-R99	R50-R69	R63	R63.3	R63.39	""	""	R6339   Other feeding difficulties	0
+R63.4	R634	Abnormal weight loss	Root	R00-R99	R50-R69	R63	R63.4	""	""	""	R634    Abnormal weight loss	0
+R63.5	R635	Abnormal weight gain	Root	R00-R99	R50-R69	R63	R63.5	""	""	""	R635    Abnormal weight gain	0
+R63.6	R636	Underweight	Root	R00-R99	R50-R69	R63	R63.6	""	""	""	R636    Underweight	0
+R63.8	R638	Other symptoms and signs concerning food and fluid intake	Root	R00-R99	R50-R69	R63	R63.8	""	""	""	R638    Other symptoms and signs concerning food and fluid intake	0
+R64	R64	Cachexia	Root	R00-R99	R50-R69	R64	""	""	""	""	R64     Cachexia	0
+R65	R65	Symptoms and signs specifically associated with systemic inflammation and infection	Root	R00-R99	R50-R69	R65	""	""	""	""		0
+R65.1	R651	Systemic inflammatory response syndrome (SIRS) of non-infectious origin	Root	R00-R99	R50-R69	R65	R65.1	""	""	""		0
+R65.10	R6510	Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction	Root	R00-R99	R50-R69	R65	R65.1	R65.10	""	""	R6510   Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction	0
+R65.11	R6511	Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction	Root	R00-R99	R50-R69	R65	R65.1	R65.11	""	""	R6511   Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction	0
+R65.2	R652	Severe sepsis	Root	R00-R99	R50-R69	R65	R65.2	""	""	""		0
+R65.20	R6520	Severe sepsis without septic shock	Root	R00-R99	R50-R69	R65	R65.2	R65.20	""	""	R6520   Severe sepsis without septic shock	0
+R65.21	R6521	Severe sepsis with septic shock	Root	R00-R99	R50-R69	R65	R65.2	R65.21	""	""	R6521   Severe sepsis with septic shock	0
+R68	R68	Other general symptoms and signs	Root	R00-R99	R50-R69	R68	""	""	""	""		0
+R68.0	R680	Hypothermia, not associated with low environmental temperature	Root	R00-R99	R50-R69	R68	R68.0	""	""	""	R680    Hypothermia, not associated with low environmental temperature	0
+R68.1	R681	Nonspecific symptoms peculiar to infancy	Root	R00-R99	R50-R69	R68	R68.1	""	""	""		0
+R68.11	R6811	Excessive crying of infant (baby)	Root	R00-R99	R50-R69	R68	R68.1	R68.11	""	""	R6811   Excessive crying of infant (baby)	0
+R68.12	R6812	Fussy infant (baby)	Root	R00-R99	R50-R69	R68	R68.1	R68.12	""	""	R6812   Fussy infant (baby)	0
+R68.13	R6813	Apparent life threatening event in infant (ALTE)	Root	R00-R99	R50-R69	R68	R68.1	R68.13	""	""	R6813   Apparent life threatening event in infant (ALTE)	0
+R68.19	R6819	Other nonspecific symptoms peculiar to infancy	Root	R00-R99	R50-R69	R68	R68.1	R68.19	""	""	R6819   Other nonspecific symptoms peculiar to infancy	0
+R68.2	R682	Dry mouth, unspecified	Root	R00-R99	R50-R69	R68	R68.2	""	""	""	R682    Dry mouth, unspecified	0
+R68.3	R683	Clubbing of fingers	Root	R00-R99	R50-R69	R68	R68.3	""	""	""	R683    Clubbing of fingers	0
+R68.8	R688	Other general symptoms and signs	Root	R00-R99	R50-R69	R68	R68.8	""	""	""		0
+R68.81	R6881	Early satiety	Root	R00-R99	R50-R69	R68	R68.8	R68.81	""	""	R6881   Early satiety	0
+R68.82	R6882	Decreased libido	Root	R00-R99	R50-R69	R68	R68.8	R68.82	""	""	R6882   Decreased libido	0
+R68.83	R6883	Chills (without fever)	Root	R00-R99	R50-R69	R68	R68.8	R68.83	""	""	R6883   Chills (without fever)	0
+R68.84	R6884	Jaw pain	Root	R00-R99	R50-R69	R68	R68.8	R68.84	""	""	R6884   Jaw pain	0
+R68.89	R6889	Other general symptoms and signs	Root	R00-R99	R50-R69	R68	R68.8	R68.89	""	""	R6889   Other general symptoms and signs	0
+R69	R69	Illness, unspecified	Root	R00-R99	R50-R69	R69	""	""	""	""	R69     Illness, unspecified	0

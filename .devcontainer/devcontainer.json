@@ -1,0 +1,19 @@
+// Private image built from .devcontainer/Containerfile with .devcontainer/build.sh
+// (it bundles TreeScan, which cannot be downloaded anonymously).
+{
+	"name": "treescanr",
+	"image": "ghcr.io/epiforesite/treescanr-dev:latest",
+	"runArgs": ["--platform=linux/amd64"],
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"reditorsupport.r",
+				"rdebugger.r-debugger",
+				"quarto.quarto",
+				"github.vscode-github-actions"
+			]
+		}
+	},
+	"postCreateCommand": "R CMD INSTALL .",
+	"remoteUser": "root"
+}

@@ -1,0 +1,146 @@
+---
+title: "Routine TreeScan analyses with treescanr"
+vignette: >
+  %\VignetteIndexEntry{Routine TreeScan analyses with treescanr}
+  %\VignetteEngine{quarto::html}
+  %\VignetteEncoding{UTF-8}
+knitr:
+  opts_chunk:
+    collapse: true
+    comment: "#>"
+---
+
+treescanr turns emergency department (ED) visits into a TreeScan analysis in
+three steps: standardize the visits, build the count file, and run TreeScan.
+Each step takes the output of the previous one, so the whole analysis is a
+single `|>` pipeline.
+
+```{r}
+library(treescanr)
+ex <- function(f) system.file("extdata", f, package = "treescanr")
+```
+
+## Where to store things
+
+treescanr is designed to run routinely (e.g., every day), so it helps to keep
+inputs and outputs in a **known, persistent directory**. We recommend the
+user data directory, but any path works:
+
+```{r}
+#| eval: false
+dir <- tools::R_user_dir("treescanr", "data")
+dir.create(dir, recursive = TRUE, showWarnings = FALSE)
+```
+
+A suggested layout:
+
+```
+<dir>/
+  reference/                 # tree files and not-evaluated nodes
+    Tree_File_2027.csv
+    Tree_File_2026_wide_format.txt
+    Do_not_evaluate_nodes.csv
+  2026-06-30/                # one folder per analysis date...
+    lag1/                    # ...and per lag
+      counts.txt  parameters.prm  results.csv  results.html  treescan.log
+```
+
+The code in this vignette that writes to disk is not run when the vignette is
+built. Chunks that are run use the toy data bundled with the package.
+
+## 1. Visit-level data
+
+`ts_visits()` accepts any data with one row per visit and tells it which
+columns hold the patient identifier, the visit date, the diagnosis codes, and
+whether the patient was admitted:
+
+```{r}
+visits <- read.csv(ex("toy_visits.csv")) |>
+  ts_visits(key = "key", date = "date", codes = "diagnosis_codes",
+            admitted = "severity")
+head(visits)
+```
+
+For NSSP ESSENCE DataDetails extracts (e.g., the daily files downloaded by
+`treescan_project/code/1_download_data.R`), use `ts_visits_nssp()`:
+
+```{r}
+#| eval: false
+files <- list.files(file.path(dir, "raw_data"), pattern = "\\.csv$", full.names = TRUE)
+visits <- data.table::rbindlist(lapply(files, data.table::fread)) |>
+  ts_visits_nssp()
+```
+
+The data should cover the study period (90 days by default) plus one year of
+lookback, which is used to find incident diagnoses.
+
+## 2. Count file
+
+`ts_counts()` keeps incident diagnoses and aggregates them into daily counts
+per node. `0-` nodes are ED visits and `1-` nodes are admissions. The
+`end_date` is usually the analysis date minus a reporting lag:
+
+```{r}
+counts <- visits |>
+  ts_counts(end_date = "2026-06-30", tree_wide = ex("toy_tree_wide.txt"), seed = 1)
+counts[order(-n)] |> head()
+```
+
+## 3. Parameter file
+
+The package bundles a parameter template for a tree-temporal scan
+(TreeScan 2.4.1). Change any setting by name:
+
+```{r}
+prm <- ts_prm_template() |>
+  ts_prm_set("monte-carlo-replications" = 999)
+ts_prm_get(prm, "monte-carlo-replications")
+```
+
+`ts_run()` fills in the file paths, the date ranges, and the number of
+processes (2 by default).
+
+## 4. Run TreeScan
+
+```{r}
+#| eval: false
+options(treescanr.binary = "~/TreeScan/treescan64")
+ref <- file.path(dir, "reference")
+
+res <- counts |>
+  ts_run(
+    tree = file.path(ref, "Tree_File_2027.csv"),
+    not_evaluated = file.path(ref, "Do_not_evaluate_nodes.csv"),
+    prm = prm,
+    dir = file.path(dir, "2026-06-30", "lag1")
+  )
+res
+```
+
+## A routine run with several lags
+
+```{r}
+#| eval: false
+run_date <- Sys.Date()
+ref <- file.path(dir, "reference")
+
+results <- lapply(c(1, 4), function(lag) {
+  visits |>
+    ts_counts(
+      end_date = run_date - lag,
+      tree_wide = file.path(ref, "Tree_File_2026_wide_format.txt")
+    ) |>
+    ts_run(
+      tree = file.path(ref, "Tree_File_2027.csv"),
+      not_evaluated = file.path(ref, "Do_not_evaluate_nodes.csv"),
+      dir = file.path(dir, run_date, paste0("lag", lag))
+    )
+})
+```
+
+Results from earlier runs can be reloaded at any time:
+
+```{r}
+#| eval: false
+ts_results(file.path(dir, "2026-06-30", "lag1"))
+```
