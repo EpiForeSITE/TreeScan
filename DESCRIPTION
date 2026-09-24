@@ -2,7 +2,6 @@ Package: treescanr
 Title: Tree-Based Scan Statistics for Syndromic Surveillance with 'TreeScan'
 Version: 0.0.1
 Authors@R: c(
-    person("George G.", "Vega Yon", , "g.vegayon@gmail.com", role = c("aut", "cre")),
     person("Nyall", "Jamieson", role = "aut",
       comment = "Author of the original epiENGAGE TreeScan pipeline"),
     person("Emily", "Javan", role = "aut"),
@@ -10,6 +9,7 @@ Authors@R: c(
       comment = "Count file and signal linelist code (NYC Health Department)"),
     person("Alison", "Levin-Rector", role = "aut",
       comment = "Count file code, tree and not-evaluated node files (NYC Health Department)"),
+    person("George G.", "Vega Yon", , "g.vegayon@gmail.com", role = c("aut", "cre")),
     person("Becky", "Wilson", role = "ctb"),
     person("Martin", "Kulldorff", role = "cph",
       comment = "Copyright holder of the TreeScan(TM) software, which is not distributed with this package")
